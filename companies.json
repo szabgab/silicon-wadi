@@ -19,6 +19,16 @@
         "url": "http://appsflyer.com/"
     },
     {
+        "name": "AudioCodes",
+        "offices": [
+            {
+                "address": "1 Hayarden Street, Airport City, Lod, 7019900, Israel",
+                "phone": "+972-3-976-4000"
+            }
+        ],
+        "url": "http://www.audiocodes.com/"
+    },
+    {
         "name": "Clicktale",
         "offices": [
             {
@@ -37,6 +47,16 @@
         "url": "https://dapulse.com/"
     },
     {
+        "name": "Evogene",
+        "offices": [
+            {
+                "address": "13 Gad Feinstein st. Park Rehovot P.O.B 2100 Rehovot 7612002, Israel",
+                "phone": "+972-8-9311900"
+            }
+        ],
+        "url": "http://www.evogene.com/"
+    },
+    {
         "name": "Fiverr",
         "offices": [
             {
@@ -46,6 +66,23 @@
         "url": "https://www.fiverr.com/"
     },
     {
+        "name": "Imperva",
+        "offices": [
+            {
+                "address": "125 Menachem Begin Street Tel-Aviv 67010 Israel",
+                "phone": "+972 3 6840100"
+            },
+            {
+                "address": "2 Pekeris Street 2nd floor Rehovot, 7670212 Israel",
+                "phone": "+972 72 3771700"
+            },
+            {
+                "address": "Imperva Skyfence 14 Abba Hillel St.  Ramat-Gan, 5250607 Israel"
+            }
+        ],
+        "url": "https://www.imperva.com/"
+    },
+    {
         "name": "IronSource",
         "offices": [
             {
@@ -53,6 +90,18 @@
             }
         ],
         "url": "http://www.ironsrc.com/"
+    },
+    {
+        "name": "Marvell Semiconductors",
+        "offices": [
+            {
+                "address": "6 Hamada Street Mordot HaCarmel Industrial Park Yokneam Israel 20692"
+            },
+            {
+                "address": "94 Em Hamoshavot way, Azorim Park Petah Tikva Israel 49527"
+            }
+        ],
+        "url": "https://www.marvell.com/"
     },
     {
         "name": "Nokia",
