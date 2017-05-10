@@ -15,3 +15,28 @@ Each company has the following entry:
         "url": "URL"
     },
 ```
+
+# Areas
+
+* Airport City
+* Beer Sheva  http://www.atp-israel.com/
+* Cesaria
+* Haifa - MATAM
+* Haifa - ??
+* Herzelia Pituach
+* Hod HaSharon
+* Jerusalem - Malcha
+* Jerusalem - Har Hotzvim
+* Ness Ziona
+* Netanya – Poleg
+* Petach Tikva - Kiryat Arie
+* Petach Tikva - other areas
+* Raanana
+* Rehovot
+* Rosh HaAyin
+* Tefen Industrial Park ??
+* Tel Aviv - Kiryat Atidim
+* Tel Aviv - Namal
+* Tel Aviv - Ramat HaHayal
+* Yokneam
+
