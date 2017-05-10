@@ -1,0 +1,97 @@
+[
+    {
+        "name": "3M",
+        "offices": [
+            {
+                "address": "Maskit St 8, Hertsliya, Israel"
+            }
+        ],
+        "url": "http://3misrael.co.il"
+    },
+    {
+        "name": "AppsFlyer",
+        "offices": [
+            {
+                "address": "14 Maskit St, 6th Floor POB 12371, Herzliya, 4673314",
+                "phone": "+972-9-768-1949"
+            }
+        ],
+        "url": "http://appsflyer.com/"
+    },
+    {
+        "name": "Clicktale",
+        "offices": [
+            {
+                "address": "Atrium Tower, 2 Jabotinsky St.  Ramat Gan, 5250501"
+            }
+        ],
+        "url": "https://www.clicktale.com/"
+    },
+    {
+        "name": "Dapulse",
+        "offices": [
+            {
+                "address": "Yehuda Halevi 48, Tel Aviv, Israel 657820"
+            }
+        ],
+        "url": "https://dapulse.com/"
+    },
+    {
+        "name": "Fiverr",
+        "offices": [
+            {
+                "address": "Eliezer Kaplan 8, Tel Aviv-Yafo, Israel"
+            }
+        ],
+        "url": "https://www.fiverr.com/"
+    },
+    {
+        "name": "IronSource",
+        "offices": [
+            {
+                "address": "28 Lilienblum St., Tel Aviv"
+            }
+        ],
+        "url": "http://www.ironsrc.com/"
+    },
+    {
+        "name": "Nokia",
+        "offices": [
+            {
+                "address": "16 Atir Yeda St. Kfar-Saba 44643"
+            }
+        ],
+        "url": "http://www.nokia.com/"
+    },
+    {
+        "name": "Otonomo",
+        "offices": [
+            {
+                "address": "16 Abba Even Blvd. Herzeliya Pituach, Israel"
+            }
+        ],
+        "url": "http://otonomo.io/"
+    },
+    {
+        "name": "SimilarWeb",
+        "offices": [
+            {
+                "address": "Derech Menachem Begin 23, Tel Aviv-Yafo, 6618210, Israel",
+                "phone": "+972-3-5447782"
+            }
+        ],
+        "url": "http://similarweb.com"
+    },
+    {
+        "name": "Wix",
+        "offices": [
+            {
+                "address": "Namal 40 Tel Aviv, Israel"
+            },
+            {
+                "address": "77 HaEnergia street, Gav-Yam Negev Beer Sheva, Israel"
+            }
+        ],
+        "url": "https://www.wix.com/"
+    }
+]
