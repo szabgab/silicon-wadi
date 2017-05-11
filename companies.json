@@ -104,6 +104,25 @@
         "url": "https://www.bio-light.co.il/"
     },
     {
+        "name": "Chegg",
+        "offices": [
+            {
+                "address": "HaMada St, Rehovot, Israel"
+            }
+        ],
+        "url": "http://www.chegg.com/"
+    },
+    {
+        "name": "Clear Cut",
+        "offices": [
+            {
+                "address": "10 Plaut st., Rehovot, Israel, 7670609",
+                "phone": "+972-8-632-6004"
+            }
+        ],
+        "url": "http://www.clrcut.com/"
+    },
+    {
         "name": "Clicktale",
         "offices": [
             {
@@ -131,6 +150,16 @@
         "url": "https://comda.co.il/"
     },
     {
+        "comment": "Conduit is not Como http://www.conduit.com/",
+        "name": "Como",
+        "offices": [
+            {
+                "address": "2 Ilan Ramon Street,\u00a0 Ness Ziona, 7403635 Israel"
+            }
+        ],
+        "url": "http://www.como.com/"
+    },
+    {
         "name": "Comsign",
         "offices": [
             {
@@ -155,7 +184,7 @@
                 "address": "Rehovot, Israel"
             },
             {
-                "address": "Advanced Technology Center\u00a0 P.O.B 539, Haifa 31053\u00a0 Israel"
+                "address": "Advanced Technology Center\u00a0 P.O.B 539, Haifa 31053 Israel"
             }
         ],
         "url": ""
@@ -314,6 +343,18 @@
         "url": "http://www.medinol.com/"
     },
     {
+        "name": "Mentor Graphics (Siemens)",
+        "offices": [
+            {
+                "address": "10 Shderot Aba Eban\u00a0 Building C P.O.B. 2155\u00a0 Herzliya Israel 46120"
+            },
+            {
+                "address": "Rehovot ?"
+            }
+        ],
+        "url": "https://www.mentor.com/"
+    },
+    {
         "name": "Merkspace",
         "offices": [
             {
@@ -371,6 +412,15 @@
         "url": "https://www.observeit.com/"
     },
     {
+        "name": "One Hour Translation",
+        "offices": [
+            {
+                "address": "Golda Meir Street 3, Nes Ziyyona,\u00a0Israel"
+            }
+        ],
+        "url": "https://www.onehourtranslation.com/"
+    },
+    {
         "name": "Otonomo",
         "offices": [
             {
@@ -411,6 +461,24 @@
         "url": "http://rosettagx.com/"
     },
     {
+        "name": "Sapiens",
+        "offices": [
+            {
+                "address": "Sapiens International, Azrieli Center, 26 Harokmim st., Holon, 588-5800, Israel"
+            }
+        ],
+        "url": "http://www.sapiens.com/"
+    },
+    {
+        "name": "Simbionix",
+        "offices": [
+            {
+                "address": "Airport City, Israel"
+            }
+        ],
+        "url": "http://simbionix.com/"
+    },
+    {
         "name": "SimilarWeb",
         "offices": [
             {
@@ -428,6 +496,33 @@
             }
         ],
         "url": "http://www.speed-board.co.il/"
+    },
+    {
+        "name": "Stanley Healthcare Solutions",
+        "offices": [
+            {
+                "address": "Ilan Ramon St. Science Park Ness Ziona Building 11, Floor 5 7403635 Israel"
+            }
+        ],
+        "url": "http://www.stanleyhealthcare.com/"
+    },
+    {
+        "name": "Stratasys",
+        "offices": [
+            {
+                "address": "1 Holtzman St.Science Park, P.O. Box 2496 Rehovot 7612401"
+            }
+        ],
+        "url": "http://www.stratasys.com/"
+    },
+    {
+        "name": "SysAid",
+        "offices": [
+            {
+                "address": "Airport City, Israel"
+            }
+        ],
+        "url": "https://www.sysaid.com/"
     },
     {
         "name": "Tikal",
@@ -448,6 +543,25 @@
         "url": "http://top-group.co.il/"
     },
     {
+        "name": "Traiana",
+        "offices": [
+            {
+                "address": "132 Menachem Begin Road Azrieli Square Tower, Floor 25 Tel Aviv 63927 Israel",
+                "phone": "+972 3 610 0300"
+            }
+        ],
+        "url": "http://www.traiana.com/"
+    },
+    {
+        "name": "Weizmann Institute",
+        "offices": [
+            {
+                "address": "Rehovot, Israel"
+            }
+        ],
+        "url": "http://www.weizmann.ac.il/"
+    },
+    {
         "name": "Wix",
         "offices": [
             {
@@ -458,5 +572,14 @@
             }
         ],
         "url": "https://www.wix.com/"
+    },
+    {
+        "name": "ooVoo",
+        "offices": [
+            {
+                "address": "22 Einstein St., Ness Ziona, Israel"
+            }
+        ],
+        "url": "http://www.oovoo.com/"
     }
 ]
