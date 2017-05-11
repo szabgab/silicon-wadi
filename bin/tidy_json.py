@@ -4,7 +4,7 @@ import glob
 
 # format the json files
 
-for filename in glob.glob("companies.json"):
+for filename in glob.glob("data/companies.json"):
     with open(filename) as fh:
         data = json.load(fh)
     with open(filename, 'w') as fh:
