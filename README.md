@@ -6,11 +6,13 @@ Each company has the following entry:
 
 ```
     {
-        "name": "NAME",
-        "url": "URL",
+        "name": "",
+        "url": "",
         "offices": [
             {
-                "address": "FULL ADDRESS"
+                "area" : "",
+                "address": "",
+                "phone" : ""
             }
         ]
     },
@@ -22,19 +24,19 @@ Each company has the following entry:
 * Beer Sheva  http://www.atp-israel.com/
 * Cesaria
 * Haifa - MATAM
-* Haifa - ??
 * Herzelia Pituach
 * Hod HaSharon
 * Jerusalem - Malcha
 * Jerusalem - Har Hotzvim
 * Ness Ziona
 * Netanya – Poleg
+* Omer = Omer Industrial Park
 * Petach Tikva - Kiryat Arie
 * Petach Tikva - other areas
 * Raanana
 * Rehovot
 * Rosh HaAyin
-* Tefen Industrial Park ??
+* Tefen = Tefen Industrial Park
 * Tel Aviv - Kiryat Atidim
 * Tel Aviv - Namal
 * Tel Aviv - Ramat HaHayal
