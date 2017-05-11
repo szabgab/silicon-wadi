@@ -27,6 +27,15 @@
         "url": "http://www.abbott.com/"
     },
     {
+        "name": "Advanced Inhalation Therapies Ltd.",
+        "offices": [
+            {
+                "address": "2 Ilan Ramon\u00a0st.Science park Ness Ziona Israel"
+            }
+        ],
+        "url": "http://www.ait-pharm.com/"
+    },
+    {
         "name": "Agentek",
         "offices": [
             {
@@ -34,6 +43,18 @@
             }
         ],
         "url": "http://agentek.co.il/"
+    },
+    {
+        "name": "Applied Materials",
+        "offices": [
+            {
+                "address": "9 Oppenheimer Street Rehovot,\u00a076705 Israel"
+            },
+            {
+                "address": "Ha\u2019ashlegan 1 St. \u00a0Kiryat Gat Israel"
+            }
+        ],
+        "url": "http://www.appliedmaterials.com/"
     },
     {
         "name": "AppsFlyer",
@@ -128,6 +149,18 @@
         "url": "https://dapulse.com/"
     },
     {
+        "name": "Elbit",
+        "offices": [
+            {
+                "address": "Rehovot, Israel"
+            },
+            {
+                "address": "Advanced Technology Center\u00a0 P.O.B 539, Haifa 31053\u00a0 Israel"
+            }
+        ],
+        "url": ""
+    },
+    {
         "name": "Evogene",
         "offices": [
             {
@@ -172,6 +205,30 @@
             }
         ],
         "url": "https://www.forescout.com/"
+    },
+    {
+        "name": "HP",
+        "offices": [
+            {
+                "address": "Hp Indigo, Einstein 10 Kiryat Weitzmann Rehovot 76470 Israel"
+            },
+            {
+                "address": "Sderot Avats 24, Kiryat Gat, Israel"
+            }
+        ],
+        "url": ""
+    },
+    {
+        "name": "IBM",
+        "offices": [
+            {
+                "address": "Ruhrberg Science Center, Park TMR, 3 Pekeris Street (Edison entrance, 2nd floor), Rehovot, Israel."
+            },
+            {
+                "address": "University of Haifa"
+            }
+        ],
+        "url": "https://www.ibm.com/"
     },
     {
         "name": "IMD-soft",
@@ -278,7 +335,10 @@
         "name": "Ness",
         "offices": [
             {
-                "address": "Ness Tower, Building 4 Atidim, Industrial Park P.O.Box 58152 Tel Aviv 61580"
+                "address": "Ness Tower, Building 4 Kiryat Atidim, Industrial Park P.O.Box 58152 Tel Aviv 61580"
+            },
+            {
+                "address": "Energy 77, High-Tech Park, Beer Sheva, Israel"
             }
         ],
         "url": "http://www.ness-tech.co.il/"
@@ -291,6 +351,15 @@
             }
         ],
         "url": "http://www.nokia.com/"
+    },
+    {
+        "name": "Nova Measuring",
+        "offices": [
+            {
+                "address": "Weizmann Science Park, Rehovot 7610201, Israel"
+            }
+        ],
+        "url": "http://novameasuring.com/"
     },
     {
         "name": "Observeit",
