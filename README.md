@@ -1,8 +1,11 @@
+
 List of hi-tech companies in Israel along with the location of their development offices
 and if possible along with a list of technologies they are using.
 
 Companies are in the 'data/companies.json'. Before committing, please run `./tidy_json.py`.
+
 Each company has the following entry:
+
 
 ```
     {
@@ -13,7 +16,11 @@ Each company has the following entry:
             {
                 "area" : "",
                 "address": "",
-                "phone" : ""
+                "phone" : "",
+                "coordinates": {
+                    "lat": 0,
+                    "lng": 0
+                }
             }
         ]
     },
@@ -24,6 +31,8 @@ Where "technologies" should be a list of technologies used in the company. E.g. 
 (TODO: add a definitive list of technologies and check the submissions agains that list)
 
 "area" is one of the following areas. (TODO: unify the words used in the field. Create a JSON file of all the areas with descriptions where there might be ambiguity. Script to verify we use only the arease defined in that file.)
+
+https://www.gps-coordinates.net/ can be used to convert addresses to coordinates.
 
 # Areas
 
@@ -48,4 +57,8 @@ Where "technologies" should be a list of technologies used in the company. E.g. 
 * Tel Aviv - Namal
 * Tel Aviv - Ramat HaHayal
 * Yokneam
+
+# Demo application:
+
+http://wadi.szabgab.com/
 
