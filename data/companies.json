@@ -3,7 +3,11 @@
         "name": "3M",
         "offices": [
             {
-                "address": "Maskit St 8, Hertsliya, Israel"
+                "address": "Maskit St 8, Hertsliya, Israel",
+                "coordinates": {
+                    "lat": 32.1665615,
+                    "lng": 34.81151369999998
+                }
             }
         ],
         "url": "http://3misrael.co.il"
@@ -12,7 +16,11 @@
         "name": "APM automation solutions",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.11516,
+                    "lng": 34.842959000000064
+                }
             }
         ],
         "url": "http://apm-solutions.com/"
@@ -21,7 +29,11 @@
         "name": "AT&T (was Interwise)",
         "offices": [
             {
-                "address": "Negev 4 Airport City P.O. Box 276 Ben Gurion Airport 70150 Lod Israel"
+                "address": "Negev 4, Airport City 70150 Lod, Israel",
+                "coordinates": {
+                    "lat": 31.9876241,
+                    "lng": 34.91314
+                }
             }
         ],
         "url": "https://www.corp.att.com/"
@@ -30,7 +42,12 @@
         "name": "Abbott",
         "offices": [
             {
-                "address": "Abbott Medical Laboratories Ltd.  Atidim Science Park, Bldg. 4 P.O. Box 58099, Tel Aviv 61580 Israel"
+                "address": "Kiryat Atidim Science Park, Bldg. 4, Tel Aviv 61580 Israel",
+                "coordinates": {
+                    "lat": 32.11516,
+                    "lng": 34.842959000000064
+                },
+                "name": "Abbott Medical Laboratories Ltd."
             }
         ],
         "url": "http://www.abbott.com/"
