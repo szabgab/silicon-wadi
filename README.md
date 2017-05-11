@@ -7,12 +7,12 @@ Each company has the following entry:
 ```
     {
         "name": "NAME",
+        "url": "URL",
         "offices": [
             {
                 "address": "FULL ADDRESS"
             }
-        ],
-        "url": "URL"
+        ]
     },
 ```
 
