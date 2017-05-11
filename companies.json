@@ -9,6 +9,33 @@
         "url": "http://3misrael.co.il"
     },
     {
+        "name": "APM automation solutions",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "http://apm-solutions.com/"
+    },
+    {
+        "name": "Abbott",
+        "offices": [
+            {
+                "address": "Abbott Medical Laboratories Ltd.  Atidim Science Park, Bldg. 4 P.O. Box 58099, Tel Aviv 61580 Israel"
+            }
+        ],
+        "url": "http://www.abbott.com/"
+    },
+    {
+        "name": "Agentek",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "http://agentek.co.il/"
+    },
+    {
         "name": "AppsFlyer",
         "offices": [
             {
@@ -17,6 +44,15 @@
             }
         ],
         "url": "http://appsflyer.com/"
+    },
+    {
+        "name": "Ardix",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "http://www.ardix.co.il/"
     },
     {
         "name": "AudioCodes",
@@ -29,6 +65,24 @@
         "url": "http://www.audiocodes.com/"
     },
     {
+        "name": "BIRD foundation",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "http://www.birdf.com/"
+    },
+    {
+        "name": "Biolight",
+        "offices": [
+            {
+                "address": "Kiryat Atidim Building 3, 5th Floor 6158101 Tel Aviv, Israel"
+            }
+        ],
+        "url": "https://www.bio-light.co.il/"
+    },
+    {
         "name": "Clicktale",
         "offices": [
             {
@@ -36,6 +90,33 @@
             }
         ],
         "url": "https://www.clicktale.com/"
+    },
+    {
+        "name": "Clixie",
+        "offices": [
+            {
+                "address": "121 Dvora Hanevia St.  Kiryat Atidim, Building 3, 4th floor Tel Aviv 6944038, Israel"
+            }
+        ],
+        "url": "http://www.clixie.com/"
+    },
+    {
+        "name": "Comda",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "https://comda.co.il/"
+    },
+    {
+        "name": "Comsign",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv Israel"
+            }
+        ],
+        "url": "https://www.comsign.co.il/"
     },
     {
         "name": "Dapulse",
@@ -57,6 +138,15 @@
         "url": "http://www.evogene.com/"
     },
     {
+        "name": "F5 (Traffix Systems)",
+        "offices": [
+            {
+                "address": "Kiryat Atidim 8, Tel Aviv, Israel"
+            }
+        ],
+        "url": "https://f5.com/"
+    },
+    {
         "name": "Fiverr",
         "offices": [
             {
@@ -64,6 +154,33 @@
             }
         ],
         "url": "https://www.fiverr.com/"
+    },
+    {
+        "name": "Foamix",
+        "offices": [
+            {
+                "address": "2 Holzman Street,\u00a0Rehovot,\u00a0TA,\u00a076704"
+            }
+        ],
+        "url": "http://www.foamix.co.il/"
+    },
+    {
+        "name": "ForeScout",
+        "offices": [
+            {
+                "address": "24 Raoul Wallenberg St.  Entrance D, 5th floor Tel Aviv, 6971924, Israel"
+            }
+        ],
+        "url": "https://www.forescout.com/"
+    },
+    {
+        "name": "IMD-soft",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "http://www.imd-soft.com/"
     },
     {
         "name": "Imperva",
@@ -83,6 +200,24 @@
         "url": "https://www.imperva.com/"
     },
     {
+        "name": "Informatica",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Building #8, 29th Floor Tel Aviv 6158101 Israel"
+            }
+        ],
+        "url": "https://www.informatica.com/"
+    },
+    {
+        "name": "Innovision",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "http://www.innovision.co.il/"
+    },
+    {
         "name": "IronSource",
         "offices": [
             {
@@ -90,6 +225,15 @@
             }
         ],
         "url": "http://www.ironsrc.com/"
+    },
+    {
+        "name": "Lattice",
+        "offices": [
+            {
+                "address": "Kiryat Atidim Tower #4 12th floor POB 58192 Tel Aviv 6158101 Israel"
+            }
+        ],
+        "url": "http://www.latticesemi.com/"
     },
     {
         "name": "Marvell Semiconductors",
@@ -104,6 +248,42 @@
         "url": "https://www.marvell.com/"
     },
     {
+        "name": "Medinol",
+        "offices": [
+            {
+                "address": "Building 8, 35th Floor, Kiriyat Atidim, POB 58165 Tel Aviv 6158101 Israel"
+            }
+        ],
+        "url": "http://www.medinol.com/"
+    },
+    {
+        "name": "Merkspace",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "https://www.merkspace.com/"
+    },
+    {
+        "name": "Micromedic",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "http://www.m-medic.com/"
+    },
+    {
+        "name": "Ness",
+        "offices": [
+            {
+                "address": "Ness Tower, Building 4 Atidim, Industrial Park P.O.Box 58152 Tel Aviv 61580"
+            }
+        ],
+        "url": "http://www.ness-tech.co.il/"
+    },
+    {
         "name": "Nokia",
         "offices": [
             {
@@ -111,6 +291,15 @@
             }
         ],
         "url": "http://www.nokia.com/"
+    },
+    {
+        "name": "Observeit",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Building #7, 4th Floor Tel Aviv 61580 Israel"
+            }
+        ],
+        "url": "https://www.observeit.com/"
     },
     {
         "name": "Otonomo",
@@ -122,6 +311,37 @@
         "url": "http://otonomo.io/"
     },
     {
+        "name": "Radcom",
+        "offices": [
+            {
+                "address": "24 Raoul Wallenberg st., Tel-Aviv 6971920, Israel"
+            }
+        ],
+        "url": "https://www.radcom.com/"
+    },
+    {
+        "name": "Radware",
+        "offices": [
+            {
+                "address": "22 Raoul Wallenberg Street Tel Aviv 69710, Israel"
+            },
+            {
+                "address": "Ha'Marpe 8, Har-Hotzvim Jerusalem 97774, Israel"
+            }
+        ],
+        "url": "https://www.radware.com/"
+    },
+    {
+        "name": "Rosetta Genomics Ltd.",
+        "offices": [
+            {
+                "address": "10 Plaut St., Rehovot, Israel, 76706",
+                "phone": "+972-73-222-0700"
+            }
+        ],
+        "url": "http://rosettagx.com/"
+    },
+    {
         "name": "SimilarWeb",
         "offices": [
             {
@@ -130,6 +350,33 @@
             }
         ],
         "url": "http://similarweb.com"
+    },
+    {
+        "name": "Speedboard",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "http://www.speed-board.co.il/"
+    },
+    {
+        "name": "Tikal",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Building 7, 3rd Floor POB 58269 Tel Aviv 6158102 Israel"
+            }
+        ],
+        "url": "https://www.tikalk.com/"
+    },
+    {
+        "name": "Topgroup",
+        "offices": [
+            {
+                "address": "Kiryat Atidim, Tel Aviv, Israel"
+            }
+        ],
+        "url": "http://top-group.co.il/"
     },
     {
         "name": "Wix",
