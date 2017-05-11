@@ -2,7 +2,7 @@
 List of hi-tech companies in Israel along with the location of their development offices
 and if possible along with a list of technologies they are using.
 
-Companies are in the 'data/companies.json'. Before committing, please run `./tidy_json.py`.
+Companies are in the [companies.json](data/companies.json). Before committing, please run `./tidy_json.py`.
 
 Each company has the following entry:
 
