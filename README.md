@@ -8,6 +8,7 @@ Each company has the following entry:
     {
         "name": "",
         "url": "",
+        "technologies" : [],
         "offices": [
             {
                 "area" : "",
@@ -17,6 +18,12 @@ Each company has the following entry:
         ]
     },
 ```
+
+Where "technologies" should be a list of technologies used in the company. E.g. JavaScript, Python, Java, Docker, MySQL, AngularJS.
+
+(TODO: add a definitive list of technologies and check the submissions agains that list)
+
+"area" is one of the following areas. (TODO: unify the words used in the field. Create a JSON file of all the areas with descriptions where there might be ambiguity. Script to verify we use only the arease defined in that file.)
 
 # Areas
 
