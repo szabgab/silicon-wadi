@@ -30,7 +30,8 @@
         "name": "Advanced Inhalation Therapies Ltd.",
         "offices": [
             {
-                "address": "2 Ilan Ramon\u00a0st.Science park Ness Ziona Israel"
+                "address": "2 Ilan Ramon st. Science park Ness Ziona Israel",
+                "area": "Rehovot"
             }
         ],
         "url": "http://www.ait-pharm.com/"
@@ -45,13 +46,24 @@
         "url": "http://agentek.co.il/"
     },
     {
+        "name": "Allot",
+        "offices": [
+            {
+                "address": "22 Hanagar Street Industrial Zone B Hod-Hasharon, 4501317",
+                "phone": "+972 9 761-9200"
+            }
+        ],
+        "url": "http://www.allot.com/"
+    },
+    {
         "name": "Applied Materials",
         "offices": [
             {
-                "address": "9 Oppenheimer Street Rehovot,\u00a076705 Israel"
+                "address": "9 Oppenheimer Street Rehovot, 076705 Israel",
+                "area": "Rehovot"
             },
             {
-                "address": "Ha\u2019ashlegan 1 St. \u00a0Kiryat Gat Israel"
+                "address": "HaAshlegan 1 St. Kiryat Gat Israel"
             }
         ],
         "url": "http://www.appliedmaterials.com/"
@@ -107,7 +119,8 @@
         "name": "Chegg",
         "offices": [
             {
-                "address": "HaMada St, Rehovot, Israel"
+                "address": "HaMada St, Rehovot, Israel",
+                "area": "Rehovot"
             }
         ],
         "url": "http://www.chegg.com/"
@@ -117,6 +130,7 @@
         "offices": [
             {
                 "address": "10 Plaut st., Rehovot, Israel, 7670609",
+                "area": "Rehovot",
                 "phone": "+972-8-632-6004"
             }
         ],
@@ -154,7 +168,8 @@
         "name": "Como",
         "offices": [
             {
-                "address": "2 Ilan Ramon Street,\u00a0 Ness Ziona, 7403635 Israel"
+                "address": "2 Ilan Ramon Street, Ness Ziona, 7403635 Israel",
+                "area": "Rehovot"
             }
         ],
         "url": "http://www.como.com/"
@@ -181,10 +196,11 @@
         "name": "Elbit",
         "offices": [
             {
-                "address": "Rehovot, Israel"
+                "address": "Rehovot, Israel",
+                "area": "Rehovot"
             },
             {
-                "address": "Advanced Technology Center\u00a0 P.O.B 539, Haifa 31053 Israel"
+                "address": "Advanced Technology Center P.O.B 539, Haifa 31053 Israel"
             }
         ],
         "url": ""
@@ -194,6 +210,7 @@
         "offices": [
             {
                 "address": "13 Gad Feinstein st. Park Rehovot P.O.B 2100 Rehovot 7612002, Israel",
+                "area": "Park Rehovot",
                 "phone": "+972-8-9311900"
             }
         ],
@@ -221,7 +238,7 @@
         "name": "Foamix",
         "offices": [
             {
-                "address": "2 Holzman Street,\u00a0Rehovot,\u00a0TA,\u00a076704"
+                "address": "2 Holzman Street, Rehovot, 076704, Israel"
             }
         ],
         "url": "http://www.foamix.co.il/"
@@ -322,6 +339,15 @@
         "url": "http://www.latticesemi.com/"
     },
     {
+        "name": "MSD - Merck Sharp & Dohme",
+        "offices": [
+            {
+                "address": "Hod HaSharon, Israel"
+            }
+        ],
+        "url": "http://www.msd.co.il/"
+    },
+    {
         "name": "Marvell Semiconductors",
         "offices": [
             {
@@ -346,7 +372,7 @@
         "name": "Mentor Graphics (Siemens)",
         "offices": [
             {
-                "address": "10 Shderot Aba Eban\u00a0 Building C P.O.B. 2155\u00a0 Herzliya Israel 46120"
+                "address": "10 Shderot Aba Eban Building C P.O.B. 2155 Herzliya Israel 46120"
             },
             {
                 "address": "Rehovot ?"
@@ -371,6 +397,18 @@
             }
         ],
         "url": "http://www.m-medic.com/"
+    },
+    {
+        "name": "Microsemi",
+        "offices": [
+            {
+                "address": "Microsemi - 2 Building, 7 Arye Shenkar Street Herzliya Pituach Israel 4612002"
+            },
+            {
+                "address": "Microsemi Corp. - Analog Mixed signal Group, Ltd.  1 Hanager St., Neve Ne'eman Industrial Zone Hod Hasharon Israel 45421"
+            }
+        ],
+        "url": "https://www.microsemi.com/"
     },
     {
         "name": "Ness",
@@ -415,7 +453,7 @@
         "name": "One Hour Translation",
         "offices": [
             {
-                "address": "Golda Meir Street 3, Nes Ziyyona,\u00a0Israel"
+                "address": "Golda Meir Street 3, Nes Ziyyona, Israel"
             }
         ],
         "url": "https://www.onehourtranslation.com/"
@@ -428,6 +466,23 @@
             }
         ],
         "url": "http://otonomo.io/"
+    },
+    {
+        "name": "Qualcomm",
+        "offices": [
+            {
+                "address": "Omega Building Tirat Carmel Nahum Het St. 1 Tirat Carmel Haifa 3190500 Israel",
+                "area": "Matam"
+            },
+            {
+                "address": "1 Shankar Street Herzliya 4672501 Israel",
+                "area": "Herzeliya"
+            },
+            {
+                "address": "4 HaHarash St. POB 7331 Neve Ne'eman Hod HaSharon 4524075 Israel"
+            }
+        ],
+        "url": "https://www.qualcomm.com/"
     },
     {
         "name": "Radcom",
@@ -459,6 +514,27 @@
             }
         ],
         "url": "http://rosettagx.com/"
+    },
+    {
+        "name": "SanDisk",
+        "offices": [
+            {
+                "address": "Building 10 Floor 2 Southwest Omer Industrial Park Omer Israel",
+                "area": "Omer",
+                "phone": "+972-8-620-1564"
+            },
+            {
+                "address": "Sderot HaTa'asiya & Sderot HaGalil Junction Migdal Tefen P.O. Box 3 Migdal Tefen 24959 Israel",
+                "area": "Tefen",
+                "phone": "+972-4-907-8888"
+            },
+            {
+                "address": "7 Atir Yeda St. Kfar Saba 44425, Israel",
+                "area": "Kfar Saba",
+                "phone": "+972-9-764-5000"
+            }
+        ],
+        "url": "https://www.sandisk.com/"
     },
     {
         "name": "Sapiens",
@@ -501,7 +577,8 @@
         "name": "Stanley Healthcare Solutions",
         "offices": [
             {
-                "address": "Ilan Ramon St. Science Park Ness Ziona Building 11, Floor 5 7403635 Israel"
+                "address": "Ilan Ramon St. Science Park Ness Ziona Building 11, Floor 5 7403635 Israel",
+                "area": "Rehovot"
             }
         ],
         "url": "http://www.stanleyhealthcare.com/"
@@ -571,13 +648,17 @@
                 "address": "77 HaEnergia street, Gav-Yam Negev Beer Sheva, Israel"
             }
         ],
+        "technologies": [
+            "javascript"
+        ],
         "url": "https://www.wix.com/"
     },
     {
         "name": "ooVoo",
         "offices": [
             {
-                "address": "22 Einstein St., Ness Ziona, Israel"
+                "address": "22 Einstein St., Ness Ziona, Israel",
+                "area": "Rehovot"
             }
         ],
         "url": "http://www.oovoo.com/"
