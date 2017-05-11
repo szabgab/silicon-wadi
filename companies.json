@@ -18,6 +18,15 @@
         "url": "http://apm-solutions.com/"
     },
     {
+        "name": "AT&T (was Interwise)",
+        "offices": [
+            {
+                "address": "Negev 4 Airport City P.O. Box 276 Ben Gurion Airport 70150 Lod Israel"
+            }
+        ],
+        "url": "https://www.corp.att.com/"
+    },
+    {
         "name": "Abbott",
         "offices": [
             {
@@ -596,7 +605,8 @@
         "name": "SysAid",
         "offices": [
             {
-                "address": "Airport City, Israel"
+                "address": "1 HaYarden Street Airport City, 70100 Israel",
+                "phone": "+972 (3) 533-3675"
             }
         ],
         "url": "https://www.sysaid.com/"
