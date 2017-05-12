@@ -99,7 +99,7 @@
         "offices": [
             {
                 "address": "22 Hanagar Street Industrial Zone B Hod-Hasharon, 4501317",
-                "phone": "+972 9 761-9200"
+                "phone": "+972-9-761-9200"
             }
         ],
         "url": "http://www.allot.com/"
@@ -279,7 +279,7 @@
                     "lat": 32.0869407,
                     "lng": 34.85644500000001
                 },
-                "phone": "+972 3-926-6555"
+                "phone": "+972-3-926-6555"
             },
             {
                 "address": "Alomot 5, Omer Industrial Park, Israel",
@@ -402,11 +402,11 @@
         "offices": [
             {
                 "address": "125 Menachem Begin Street Tel-Aviv 67010 Israel",
-                "phone": "+972 3 6840100"
+                "phone": "+972-3-6840100"
             },
             {
                 "address": "2 Pekeris Street 2nd floor Rehovot, 7670212 Israel",
-                "phone": "+972 72 3771700"
+                "phone": "+972-72-3771700"
             },
             {
                 "address": "Imperva Skyfence 14 Abba Hillel St.  Ramat-Gan, 5250607 Israel"
@@ -424,7 +424,7 @@
                     "lat": 31.9205473,
                     "lng": 34.97099819999994
                 },
-                "phone": "+972 77-790-0977"
+                "phone": "+972-77-790-0977"
             }
         ],
         "technologies": [
@@ -825,7 +825,7 @@
                     "lat": 31.9876242,
                     "lng": 34.91314
                 },
-                "phone": "+972 (3) 533-3675"
+                "phone": "+972-3-533-3675"
             }
         ],
         "url": "https://www.sysaid.com/"
@@ -865,7 +865,7 @@
                     "lat": 32.0743304,
                     "lng": 34.792017100000066
                 },
-                "phone": "+972 3 610 0300"
+                "phone": "+972-3-610-0300"
             }
         ],
         "url": "http://www.traiana.com/"
@@ -880,7 +880,7 @@
                     "lat": 31.2684836,
                     "lng": 34.8363732
                 },
-                "phone": "+972-722-153-153"
+                "phone": "+972-72-215-3153"
             }
         ],
         "technologies": [],
@@ -896,7 +896,7 @@
                     "lat": 32.0978,
                     "lng": 34.827192999999966
                 },
-                "phone": "+972-7-37052530"
+                "phone": "+972-73-7052530"
             }
         ],
         "technologies": [

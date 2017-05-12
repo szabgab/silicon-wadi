@@ -1,4 +1,6 @@
 import json
+import re
+
 import tidy_json
 
 def test_data():
@@ -18,6 +20,12 @@ def test_data():
                 if coord in coordinates:
                     raise Exception("Duplicate coordinates:\n" + coordinates[coord]['name'] + "\n" + c['name'])
                 coordinates[coord] = c
+
+    # Verify the format of phone numbers:
+    for c in companies:
+        for office in c['offices']:
+            if 'phone' in office and office['phone'] != '':
+                assert re.search(r'^\+972-\d\d?-\d\d\d-?\d\d\d\d$', office['phone'])
 
     # Each technology is listed in the data/technologies.json
     # Avoid typo, and different spellings of the same technology.
