@@ -757,7 +757,11 @@
         "name": "Weizmann Institute",
         "offices": [
             {
-                "address": "Rehovot, Israel"
+                "address": "Rehovot, Israel",
+                "coordinates": {
+                    "lat": 31.9037541,
+                    "lng": 34.8080315
+                }
             }
         ],
         "url": "http://www.weizmann.ac.il/"
@@ -766,10 +770,18 @@
         "name": "Wix",
         "offices": [
             {
-                "address": "Namal 40 Tel Aviv, Israel"
+                "address": "Namal 40 Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.097625,
+                    "lng": 34.77382799999998
+                }
             },
             {
-                "address": "77 HaEnergia street, Gav-Yam Negev Beer Sheva, Israel"
+                "address": "77 HaEnergia street, Gav-Yam Negev Beer Sheva, Israel",
+                "coordinates": {
+                    "lat": 31.262975,
+                    "lng": 34.812668
+                }
             }
         ],
         "technologies": [
@@ -782,7 +794,11 @@
         "offices": [
             {
                 "address": "22 Einstein St., Ness Ziona, Israel",
-                "area": "Rehovot"
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9147078,
+                    "lng": 34.80677289999994
+                }
             }
         ],
         "url": "http://www.oovoo.com/"
