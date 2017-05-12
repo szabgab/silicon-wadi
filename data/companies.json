@@ -38,7 +38,7 @@
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
                 "coordinates": {
                     "lat": 32.11516,
-                    "lng": 34.842959000000064
+                    "lng": 34.84296
                 }
             }
         ],
@@ -50,8 +50,8 @@
             {
                 "address": "Negev 4, Airport City 70150 Lod, Israel",
                 "coordinates": {
-                    "lat": 31.9876241,
-                    "lng": 34.91314
+                    "lat": 31.98765,
+                    "lng": 34.91315
                 }
             }
         ],
