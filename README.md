@@ -27,8 +27,8 @@ Each company has the following entry:
 ```
 
 Where "technologies" should be a list of technologies used in the company. E.g. JavaScript, Python, Java, Docker, MySQL, AngularJS.
-
-(TODO: add a definitive list of technologies and check the submissions agains that list)
+The list of technologies can be found in the [technologie.json](data/technologies.json) file. It serves us a way to check we don't
+make typos and we don't have different spellings of the same thing.  Update that file too if you'd like to list another technology.
 
 "area" is one of the following areas. (TODO: unify the words used in the field. Create a JSON file of all the areas with descriptions where there might be ambiguity. Script to verify we use only the arease defined in that file.)
 
