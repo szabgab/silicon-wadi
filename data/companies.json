@@ -22,7 +22,8 @@
         "name": "3M",
         "offices": [
             {
-                "address": "Maskit St 8, Hertsliya, Israel",
+                "address": "Maskit St 8, Herzeliya, Israel",
+                "area": "Herzeliya",
                 "coordinates": {
                     "lat": 32.1665615,
                     "lng": 34.81151369999998
@@ -36,6 +37,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11516,
                     "lng": 34.84296
@@ -62,6 +64,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim Science Park, Bldg. 4, Tel Aviv 61580 Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11516,
                     "lng": 34.842959000000064
@@ -86,6 +89,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11518,
                     "lng": 34.84296
@@ -122,6 +126,7 @@
         "offices": [
             {
                 "address": "14 Maskit St, 6th Floor POB 12371, Herzliya, 4673314",
+                "area": "Herzeliya",
                 "phone": "+972-9-768-1949"
             }
         ],
@@ -132,6 +137,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11519,
                     "lng": 34.84296
@@ -159,6 +165,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.115171,
                     "lng": 34.84296
@@ -172,6 +179,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim Building 3, 5th Floor 6158101 Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.115172,
                     "lng": 34.84296
@@ -215,6 +223,7 @@
         "offices": [
             {
                 "address": "121 Dvora Hanevia St.  Kiryat Atidim, Building 3, 4th floor Tel Aviv 6944038, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.115173,
                     "lng": 34.84296
@@ -228,6 +237,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.115174,
                     "lng": 34.84296
@@ -252,6 +262,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.115175,
                     "lng": 34.84296
@@ -325,6 +336,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim 8, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.115176,
                     "lng": 34.84296
@@ -390,6 +402,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.115177,
                     "lng": 34.84296
@@ -438,6 +451,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Building #8, 29th Floor Tel Aviv 6158101 Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.115178,
                     "lng": 34.84296
@@ -451,6 +465,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.115179,
                     "lng": 34.84296
@@ -473,6 +488,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim Tower #4 12th floor POB 58192 Tel Aviv 6158101 Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11517,
                     "lng": 34.842961
@@ -515,7 +531,8 @@
         "name": "Mentor Graphics (Siemens)",
         "offices": [
             {
-                "address": "10 Shderot Aba Eban Building C P.O.B. 2155 Herzliya Israel 46120"
+                "address": "10 Shderot Aba Eban Building C P.O.B. 2155 Herzliya Israel 46120",
+                "area": "Herzeliya"
             },
             {
                 "address": "Rehovot ?"
@@ -528,6 +545,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11517,
                     "lng": 34.842962
@@ -541,6 +559,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11517,
                     "lng": 34.842963
@@ -553,7 +572,8 @@
         "name": "Microsemi",
         "offices": [
             {
-                "address": "Microsemi - 2 Building, 7 Arye Shenkar Street Herzliya Pituach Israel 4612002"
+                "address": "Microsemi - 2 Building, 7 Arye Shenkar Street Herzliya Pituach Israel 4612002",
+                "area": "Herzeliya"
             },
             {
                 "address": "Microsemi Corp. - Analog Mixed signal Group, Ltd.  1 Hanager St., Neve Ne'eman Industrial Zone Hod Hasharon Israel 45421"
@@ -591,6 +611,7 @@
         "offices": [
             {
                 "address": "Ness Tower, Building 4 Kiryat Atidim, Industrial Park P.O.Box 58152 Tel Aviv 61580",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11517,
                     "lng": 34.842964
@@ -630,6 +651,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Building #7, 4th Floor Tel Aviv 61580 Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11517,
                     "lng": 34.842965
@@ -651,7 +673,8 @@
         "name": "Otonomo",
         "offices": [
             {
-                "address": "16 Abba Even Blvd. Herzeliya Pituach, Israel"
+                "address": "16 Abba Even Blvd. Herzeliya Pituach, Israel",
+                "area": "Herzeliya"
             }
         ],
         "url": "http://otonomo.io/"
@@ -801,6 +824,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11517,
                     "lng": 34.842966
@@ -847,6 +871,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Building 7, 3rd Floor POB 58269 Tel Aviv 6158102 Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11518,
                     "lng": 34.84298
@@ -860,6 +885,7 @@
         "offices": [
             {
                 "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "area": "Kiryat Atidim",
                 "coordinates": {
                     "lat": 32.11517,
                     "lng": 34.84297

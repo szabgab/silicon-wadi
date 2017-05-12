@@ -45,7 +45,6 @@ TODO add these areas:
 * Petach Tikva - other areas
 * Raanana
 * Rosh HaAyin
-* Tel Aviv - Kiryat Atidim
 * Tel Aviv - Namal
 * Yokneam
 

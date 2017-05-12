@@ -25,6 +25,13 @@
             "lng": 34.90760999999998
         }
     },
+    "Kiryat Atidim": {
+        "coordinates": {
+            "lat": 32.11516,
+            "lng": 34.84296
+        },
+        "name": "Tel Aviv"
+    },
     "Matam": {
         "coordinates": {
             "lat": 32.788611,
