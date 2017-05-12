@@ -4,7 +4,7 @@ function show_map() {
     var t = document.getElementById('technology')
     var technology = t.options[t.selectedIndex].value;
     //console.log(technology);
-    var xcenter = {lat: 32.1665615, lng: 34.81151369999998};
+    var xcenter = {lat: 32.1365615, lng: 34.81151369999998};
     var the_map = new google.maps.Map(document.getElementById('map'), {
         zoom: 9,
         center: xcenter
