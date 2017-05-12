@@ -314,7 +314,7 @@
         "offices": [
             {
                 "address": "13 Gad Feinstein st. Park Rehovot P.O.B 2100 Rehovot 7612002, Israel",
-                "area": "Park Rehovot",
+                "area": "Rehovot",
                 "phone": "+972-8-9311900"
             }
         ],
@@ -355,7 +355,8 @@
         "name": "ForeScout",
         "offices": [
             {
-                "address": "24 Raoul Wallenberg St.  Entrance D, 5th floor Tel Aviv, 6971924, Israel"
+                "address": "24 Raoul Wallenberg St.  Entrance D, 5th floor Tel Aviv, 6971924, Israel",
+                "area": "Ramat HaHayal"
             }
         ],
         "url": "https://www.forescout.com/"
@@ -596,7 +597,12 @@
                 }
             },
             {
-                "address": "Energy 77, High-Tech Park, Beer Sheva, Israel"
+                "address": "Energy 77, High-Tech Park, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252973,
+                    "lng": 34.791462000000024
+                }
             }
         ],
         "url": "http://www.ness-tech.co.il/"
@@ -697,7 +703,11 @@
         "offices": [
             {
                 "address": "Omega Building Tirat Carmel Nahum Het St. 1 Tirat Carmel Haifa 3190500 Israel",
-                "area": "Matam"
+                "area": "Matam",
+                "coordinates": {
+                    "lat": 32.7838162,
+                    "lng": 34.96061320000001
+                }
             },
             {
                 "address": "1 Shankar Street Herzliya 4672501 Israel",
@@ -713,7 +723,8 @@
         "name": "Radcom",
         "offices": [
             {
-                "address": "24 Raoul Wallenberg st., Tel-Aviv 6971920, Israel"
+                "address": "24 Raoul Wallenberg st., Tel-Aviv 6971920, Israel",
+                "area": "Ramat HaHayal"
             }
         ],
         "url": "https://www.radcom.com/"
@@ -722,7 +733,8 @@
         "name": "Radware",
         "offices": [
             {
-                "address": "22 Raoul Wallenberg Street Tel Aviv 69710, Israel"
+                "address": "22 Raoul Wallenberg Street Tel Aviv 69710, Israel",
+                "area": "Ramat HaHayal"
             },
             {
                 "address": "Ha'Marpe 8, Har-Hotzvim Jerusalem 97774, Israel"
@@ -929,6 +941,7 @@
             },
             {
                 "address": "77 HaEnergia street, Gav-Yam Negev Beer Sheva, Israel",
+                "area": "Beer Sheva",
                 "coordinates": {
                     "lat": 31.262975,
                     "lng": 34.812668

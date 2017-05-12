@@ -1,0 +1,80 @@
+{
+    "Airport City": {
+        "coordinates": {
+            "lat": 31.9876241,
+            "lng": 34.91314
+        }
+    },
+    "Beer Sheva": {
+        "coordinates": {
+            "lat": 31.252973,
+            "lng": 34.791462000000024
+        },
+        "url": "http://www.atp-israel.com/"
+    },
+    "Herzeliya": {
+        "coordinates": {
+            "lat": 32.174202,
+            "lng": 34.802932000000055
+        },
+        "name": "Herzelia Pituach"
+    },
+    "Kfar Saba": {
+        "coordinates": {
+            "lat": 32.178195,
+            "lng": 34.90760999999998
+        }
+    },
+    "Matam": {
+        "coordinates": {
+            "lat": 32.788611,
+            "lng": 34.95916699999998
+        },
+        "name": "Haifa"
+    },
+    "Modiin": {
+        "coordinates": {
+            "lat": 31.9205473,
+            "lng": 34.97099819999994
+        }
+    },
+    "Omer": {
+        "coordinates": {
+            "lat": 31.2684836,
+            "lng": 34.836373500000036
+        },
+        "name": "Omer Industrial Park"
+    },
+    "Petach Tikva": {
+        "coordinates": {
+            "lat": 32.0869407,
+            "lng": 34.85644500000001
+        }
+    },
+    "Ramat HaHayal": {
+        "coordinates": {
+            "lat": 32.1115407,
+            "lng": 34.83887000000004
+        },
+        "name": "In Tel Aviv"
+    },
+    "Rehovot": {
+        "coordinates": {
+            "lat": 31.9147078,
+            "lng": 34.80677289999994
+        }
+    },
+    "Tefen": {
+        "coordinates": {
+            "lat": 32.98029569999999,
+            "lng": 35.27429940000002
+        },
+        "name": "Tefen Industrial Park"
+    },
+    "Tel Aviv": {
+        "coordinates": {
+            "lat": 32.071168,
+            "lng": 34.79208730000005
+        }
+    }
+}

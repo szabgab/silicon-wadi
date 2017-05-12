@@ -32,31 +32,26 @@ make typos and we don't have different spellings of the same thing.  Update that
 
 https://www.gps-coordinates.net/ can be used to convert addresses to coordinates.
 
-"area" is one of the following areas. (TODO: unify the words used in the field. Create a JSON file of all the areas with descriptions where there might be ambiguity. Script to verify we use only the arease defined in that file.)
+"area" is one of the keys from the [areas.json](data/areas.json) file.
 
-# Areas
-
-* Airport City
-* Beer Sheva  http://www.atp-israel.com/
+TODO add these areas:
 * Cesaria
-* Haifa - MATAM
-* Herzelia Pituach
 * Hod HaSharon
 * Jerusalem - Malcha
 * Jerusalem - Har Hotzvim
 * Ness Ziona
 * Netanya – Poleg
-* Omer = Omer Industrial Park
 * Petach Tikva - Kiryat Arie
 * Petach Tikva - other areas
 * Raanana
-* Rehovot
 * Rosh HaAyin
-* Tefen = Tefen Industrial Park
 * Tel Aviv - Kiryat Atidim
 * Tel Aviv - Namal
-* Tel Aviv - Ramat HaHayal
 * Yokneam
+
+TODO: require name and address for each office
+TODO: require area for each office
+TODO: require coordinates for each office
 
 # Contribution
 

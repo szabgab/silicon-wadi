@@ -9,6 +9,8 @@ def test_data():
         companies = json.load(fh)
     with open('data/technologies.json') as fh:
         technologies = set(json.load(fh))
+    with open('data/areas.json') as fh:
+        areas = set(json.load(fh))
 
     # Verify that there are no two addresses with the exact same coordinates.
     # So we'll have separate markers for each company.
@@ -20,6 +22,13 @@ def test_data():
                 if coord in coordinates:
                     raise Exception("Duplicate coordinates:\n" + coordinates[coord]['name'] + "\n" + c['name'])
                 coordinates[coord] = c
+
+    # Verify the areas:
+    for c in companies:
+        for office in c['offices']:
+            if 'area' in office and office['area'] != '':
+                assert office['area'] in areas
+
 
     # Verify the format of phone numbers:
     for c in companies:
