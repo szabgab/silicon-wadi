@@ -51,6 +51,7 @@
         "offices": [
             {
                 "address": "Negev 4, Airport City 70150 Lod, Israel",
+                "area": "Airport City",
                 "coordinates": {
                     "lat": 31.98765,
                     "lng": 34.91315
@@ -116,7 +117,8 @@
                 "area": "Rehovot"
             },
             {
-                "address": "HaAshlegan 1 St. Kiryat Gat Israel"
+                "address": "HaAshlegan 1 St. Kiryat Gat Israel",
+                "area": "Kiryat Gat"
             }
         ],
         "url": "http://www.appliedmaterials.com/"
@@ -151,6 +153,7 @@
         "offices": [
             {
                 "address": "1 Hayarden Street, Airport City, Lod, 7019900, Israel",
+                "area": "Airport City",
                 "coordinates": {
                     "lat": 31.9876243,
                     "lng": 34.91314
@@ -213,7 +216,12 @@
         "name": "Clicktale",
         "offices": [
             {
-                "address": "Atrium Tower, 2 Jabotinsky St.  Ramat Gan, 5250501"
+                "address": "Atrium Tower, 2 Jabotinsky St.  Ramat Gan, 5250501",
+                "area": "Bursa",
+                "coordinates": {
+                    "lat": 32.08213,
+                    "lng": 34.80078460000004
+                }
             }
         ],
         "url": "https://www.clicktale.com/"
@@ -380,10 +388,15 @@
                 "address": "Hp Indigo, Einstein 10 Kiryat Weitzmann Rehovot 76470 Israel"
             },
             {
-                "address": "Sderot Avats 24, Kiryat Gat, Israel"
+                "address": "Sderot Avats 24, Kiryat Gat, Israel",
+                "area": "Kiryat Gat",
+                "coordinates": {
+                    "lat": 31.5920966,
+                    "lng": 34.785831400000006
+                }
             }
         ],
-        "url": ""
+        "url": "http://hp.com/"
     },
     {
         "name": "IBM",
@@ -857,6 +870,7 @@
         "offices": [
             {
                 "address": "1 HaYarden Street Airport City, 70100 Israel",
+                "area": "Airport City",
                 "coordinates": {
                     "lat": 31.9876242,
                     "lng": 34.91314

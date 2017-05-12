@@ -12,6 +12,13 @@
         },
         "url": "http://www.atp-israel.com/"
     },
+    "Bursa": {
+        "coordinates": {
+            "lat": 32.08213,
+            "lng": 34.80078460000004
+        },
+        "name": "Ramat Gan near the Diamond Stock Exchange"
+    },
     "Herzeliya": {
         "coordinates": {
             "lat": 32.174202,
@@ -31,6 +38,12 @@
             "lng": 34.84296
         },
         "name": "Tel Aviv"
+    },
+    "Kiryat Gat": {
+        "coordinates": {
+            "lat": 31.5920966,
+            "lng": 34.785831400000006
+        }
     },
     "Matam": {
         "coordinates": {
