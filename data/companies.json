@@ -1,5 +1,24 @@
 [
     {
+        "comment": "also http://simbionix.com/",
+        "name": "3DSystems, Medical Simulation (was Simbionix)",
+        "offices": [
+            {
+                "address": "Corner of Golan and Hanegev St.  Airport City, 70151, Israel",
+                "area": "Airport City",
+                "coordinates": {
+                    "lat": 31.9876241,
+                    "lng": 34.91314
+                },
+                "phone": "+972-3-9114444"
+            }
+        ],
+        "technologies": [
+            "C++"
+        ],
+        "url": "https://www.3dsystems.com/"
+    },
+    {
         "name": "3M",
         "offices": [
             {
@@ -217,6 +236,33 @@
             }
         ],
         "url": "https://dapulse.com/"
+    },
+    {
+        "name": "ECI Telecom Ltd",
+        "offices": [
+            {
+                "address": "Ha-Sivim St 30, Petah Tikva, 4959388, Israel",
+                "area": "Petach Tikva",
+                "coordinates": {
+                    "lat": 32.0869407,
+                    "lng": 34.85644500000001
+                },
+                "phone": "+972 3-926-6555"
+            },
+            {
+                "address": "Alomot 5, Omer Industrial Park, Israel",
+                "area": "Omer",
+                "coordinates": {
+                    "lat": 31.2684836,
+                    "lng": 34.836373500000036
+                },
+                "phone": "+972-3-9268526"
+            }
+        ],
+        "technologies": [
+            "Python"
+        ],
+        "url": "http://www.ecitele.com/"
     },
     {
         "name": "Elbit",
@@ -494,6 +540,48 @@
         "url": "http://otonomo.io/"
     },
     {
+        "name": "Panoply",
+        "offices": [
+            {
+                "address": "Isserles, 22 67014 Tel Aviv, Israel",
+                "area": "Tel Aviv",
+                "coordinates": {
+                    "lat": 32.071168,
+                    "lng": 34.79208730000005
+                },
+                "technologies": [
+                    "JavaScript",
+                    "NodeJS",
+                    "AWS",
+                    "Hadoop",
+                    "Redshift"
+                ]
+            }
+        ],
+        "url": "http://panoply.io/"
+    },
+    {
+        "name": "Philips",
+        "offices": [
+            {
+                "address": "Aharon Bert 18, Petach Tikva, 4900302, Israel",
+                "area": "Petach Tikva",
+                "coordinates": {
+                    "lat": 32.1012946,
+                    "lng": 34.86133319999999
+                },
+                "phone": ""
+            }
+        ],
+        "technologies": [
+            "Java",
+            "JavaScript",
+            "AngularJS",
+            "Spring MVC"
+        ],
+        "url": "http://www.philips.com/"
+    },
+    {
         "name": "Qualcomm",
         "offices": [
             {
@@ -570,15 +658,6 @@
             }
         ],
         "url": "http://www.sapiens.com/"
-    },
-    {
-        "name": "Simbionix",
-        "offices": [
-            {
-                "address": "Airport City, Israel"
-            }
-        ],
-        "url": "http://simbionix.com/"
     },
     {
         "name": "SimilarWeb",
