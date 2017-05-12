@@ -85,7 +85,11 @@
         "name": "Agentek",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.11518,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "http://agentek.co.il/"
@@ -127,7 +131,11 @@
         "name": "Ardix",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.11519,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "http://www.ardix.co.il/"
@@ -137,6 +145,10 @@
         "offices": [
             {
                 "address": "1 Hayarden Street, Airport City, Lod, 7019900, Israel",
+                "coordinates": {
+                    "lat": 31.9876243,
+                    "lng": 34.91314
+                },
                 "phone": "+972-3-976-4000"
             }
         ],
@@ -146,7 +158,11 @@
         "name": "BIRD foundation",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.115171,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "http://www.birdf.com/"
@@ -155,7 +171,11 @@
         "name": "Biolight",
         "offices": [
             {
-                "address": "Kiryat Atidim Building 3, 5th Floor 6158101 Tel Aviv, Israel"
+                "address": "Kiryat Atidim Building 3, 5th Floor 6158101 Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.115172,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "https://www.bio-light.co.il/"
@@ -194,7 +214,11 @@
         "name": "Clixie",
         "offices": [
             {
-                "address": "121 Dvora Hanevia St.  Kiryat Atidim, Building 3, 4th floor Tel Aviv 6944038, Israel"
+                "address": "121 Dvora Hanevia St.  Kiryat Atidim, Building 3, 4th floor Tel Aviv 6944038, Israel",
+                "coordinates": {
+                    "lat": 32.115173,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "http://www.clixie.com/"
@@ -203,7 +227,11 @@
         "name": "Comda",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.115174,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "https://comda.co.il/"
@@ -223,7 +251,11 @@
         "name": "Comsign",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv Israel"
+                "address": "Kiryat Atidim, Tel Aviv Israel",
+                "coordinates": {
+                    "lat": 32.115175,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "https://www.comsign.co.il/"
@@ -292,7 +324,11 @@
         "name": "F5 (Traffix Systems)",
         "offices": [
             {
-                "address": "Kiryat Atidim 8, Tel Aviv, Israel"
+                "address": "Kiryat Atidim 8, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.115176,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "https://f5.com/"
@@ -352,7 +388,11 @@
         "name": "IMD-soft",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.115177,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "http://www.imd-soft.com/"
@@ -396,7 +436,11 @@
         "name": "Informatica",
         "offices": [
             {
-                "address": "Kiryat Atidim, Building #8, 29th Floor Tel Aviv 6158101 Israel"
+                "address": "Kiryat Atidim, Building #8, 29th Floor Tel Aviv 6158101 Israel",
+                "coordinates": {
+                    "lat": 32.115178,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "https://www.informatica.com/"
@@ -405,7 +449,11 @@
         "name": "Innovision",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.115179,
+                    "lng": 34.84296
+                }
             }
         ],
         "url": "http://www.innovision.co.il/"
@@ -423,7 +471,11 @@
         "name": "Lattice",
         "offices": [
             {
-                "address": "Kiryat Atidim Tower #4 12th floor POB 58192 Tel Aviv 6158101 Israel"
+                "address": "Kiryat Atidim Tower #4 12th floor POB 58192 Tel Aviv 6158101 Israel",
+                "coordinates": {
+                    "lat": 32.11517,
+                    "lng": 34.842961
+                }
             }
         ],
         "url": "http://www.latticesemi.com/"
@@ -474,7 +526,11 @@
         "name": "Merkspace",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.11517,
+                    "lng": 34.842962
+                }
             }
         ],
         "url": "https://www.merkspace.com/"
@@ -483,7 +539,11 @@
         "name": "Micromedic",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.11517,
+                    "lng": 34.842963
+                }
             }
         ],
         "url": "http://www.m-medic.com/"
@@ -504,7 +564,11 @@
         "name": "Ness",
         "offices": [
             {
-                "address": "Ness Tower, Building 4 Kiryat Atidim, Industrial Park P.O.Box 58152 Tel Aviv 61580"
+                "address": "Ness Tower, Building 4 Kiryat Atidim, Industrial Park P.O.Box 58152 Tel Aviv 61580",
+                "coordinates": {
+                    "lat": 32.11517,
+                    "lng": 34.842964
+                }
             },
             {
                 "address": "Energy 77, High-Tech Park, Beer Sheva, Israel"
@@ -534,7 +598,11 @@
         "name": "Observeit",
         "offices": [
             {
-                "address": "Kiryat Atidim, Building #7, 4th Floor Tel Aviv 61580 Israel"
+                "address": "Kiryat Atidim, Building #7, 4th Floor Tel Aviv 61580 Israel",
+                "coordinates": {
+                    "lat": 32.11517,
+                    "lng": 34.842965
+                }
             }
         ],
         "url": "https://www.observeit.com/"
@@ -691,7 +759,11 @@
         "name": "Speedboard",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.11517,
+                    "lng": 34.842966
+                }
             }
         ],
         "url": "http://www.speed-board.co.il/"
@@ -720,6 +792,10 @@
         "offices": [
             {
                 "address": "1 HaYarden Street Airport City, 70100 Israel",
+                "coordinates": {
+                    "lat": 31.9876242,
+                    "lng": 34.91314
+                },
                 "phone": "+972 (3) 533-3675"
             }
         ],
@@ -729,7 +805,11 @@
         "name": "Tikal",
         "offices": [
             {
-                "address": "Kiryat Atidim, Building 7, 3rd Floor POB 58269 Tel Aviv 6158102 Israel"
+                "address": "Kiryat Atidim, Building 7, 3rd Floor POB 58269 Tel Aviv 6158102 Israel",
+                "coordinates": {
+                    "lat": 32.11518,
+                    "lng": 34.84298
+                }
             }
         ],
         "url": "https://www.tikalk.com/"
@@ -738,7 +818,11 @@
         "name": "Topgroup",
         "offices": [
             {
-                "address": "Kiryat Atidim, Tel Aviv, Israel"
+                "address": "Kiryat Atidim, Tel Aviv, Israel",
+                "coordinates": {
+                    "lat": 32.11517,
+                    "lng": 34.84297
+                }
             }
         ],
         "url": "http://top-group.co.il/"
@@ -748,6 +832,10 @@
         "offices": [
             {
                 "address": "132 Menachem Begin Road Azrieli Square Tower, Floor 25 Tel Aviv 63927 Israel",
+                "coordinates": {
+                    "lat": 32.0743304,
+                    "lng": 34.792017100000066
+                },
                 "phone": "+972 3 610 0300"
             }
         ],
