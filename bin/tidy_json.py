@@ -4,11 +4,28 @@ import glob
 
 # format the json files
 
-for filename in glob.glob("data/companies.json"):
-    with open(filename) as fh:
-        data = json.load(fh)
-    with open(filename, 'w') as fh:
-        data.sort(key = lambda c: c['name'])
-        json.dump(data, fh, sort_keys=True, indent=4, separators=(',', ': '))
+def tidy(test = False):
+    for filename in glob.glob("data/*.json"):
+        #print(filename)
+        with open(filename) as fh:
+            json_str = fh.read()
+            data = json.loads(json_str)
+
+        if filename == 'data/companies.json':
+            data.sort(key = lambda c: c['name'])
+        if filename == 'data/technologies.json':
+            data.sort()
+
+        new_json_str = json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
+        if test:
+            assert new_json_str == json_str, filename
+            continue
+
+        with open(filename, 'w') as fh:
+            fh.write(new_json_str)
+            
+
+if __name__ == "__main__":
+    tidy()
 
 # vim: expandtab
