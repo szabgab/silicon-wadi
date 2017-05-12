@@ -5,20 +5,22 @@ function show_map() {
     var technology = t.options[t.selectedIndex].value;
     //console.log(technology);
     var xcenter = {lat: 32.1665615, lng: 34.81151369999998};
-    var map = new google.maps.Map(document.getElementById('map'), {
+    var the_map = new google.maps.Map(document.getElementById('map'), {
         zoom: 9,
         center: xcenter
     });
 
     for (var i=0; i < companies.length; i++) {
         for (var j=0; j < companies[i]['offices'].length; j++) {
-            //console.log(companies[i]['offices'][j]);
-            if (! companies[i]['offices'][j]['coordinates']) {
+            var company = companies[i];
+            //console.log(company['offices'][j]);
+            if (! company['offices'][j]['coordinates']) {
                 continue;
             }
 
+			// filter by technology
             if (technology) {
-                if (! companies[i]['technologies']) {
+                if (! company['technologies']) {
                     continue;
                 }
                 var hits = companies[i]['technologies'].filter(function(v) {
@@ -29,14 +31,32 @@ function show_map() {
                 }
             }
 
-            //console.log(companies[i]['offices'][j]);
-            var marker = new google.maps.Marker({
-                position: companies[i]['offices'][j]['coordinates'],
-                title: companies[i]['name'],
-                map: map
-            });
+			add_marker(the_map, company, j);
         }
     }
+}
+
+function add_marker(the_map, company, j) {
+    //console.log(company['offices'][j]);
+    var marker = new google.maps.Marker({
+        position: company['offices'][j]['coordinates'],
+        title: company.name,
+        map: the_map
+    });
+
+    var msg = '<h4>' + company.name + '</h4>';
+    msg += company.offices[j].address;
+    msg += '<br>';
+    msg += '<a href="' + company.url + '">Web site</a>';
+    msg += "<br>";
+
+    var infowindow = new google.maps.InfoWindow({
+        content: msg
+    });
+
+    marker.addListener('click', function() {
+        infowindow.open(the_map, marker);
+    });
 }
 
 function initMap() {
