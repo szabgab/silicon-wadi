@@ -58,6 +58,15 @@ https://www.gps-coordinates.net/ can be used to convert addresses to coordinates
 * Tel Aviv - Ramat HaHayal
 * Yokneam
 
+# Contribution
+
+Using Python 3 make sure our data sanity tests pass:
+
+```
+pip install pytest
+pytest
+```
+
 # Demo application:
 
 http://wadi.szabgab.com/
