@@ -2,7 +2,20 @@
 List of hi-tech companies in Israel along with the location of their development offices
 and the list of technologies they are using.
 
-Companies are in the [companies.json](data/companies.json). Before committing, please run `./tidy_json.py`.
+# Contribution
+
+Before committing, make sureyou tidy the json file and the run our sanity tests:
+(Using Python 3)
+
+```
+pip install pytest
+./bin/tidy_json.py
+pytest
+```
+
+# Data
+
+Companies are in the [companies.json](data/companies.json). 
 
 Each company has the following entry:
 
@@ -33,17 +46,6 @@ make typos and we don't have different spellings of the same thing.  Update that
 https://www.gps-coordinates.net/ can be used to convert addresses to coordinates.
 
 "area" is one of the keys from the [areas.json](data/areas.json) file.
-
-TODO: require name and address for each office
-
-# Contribution
-
-Using Python 3 make sure our data sanity tests pass:
-
-```
-pip install pytest
-pytest
-```
 
 # Demo application:
 

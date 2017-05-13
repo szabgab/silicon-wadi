@@ -12,6 +12,11 @@ def test_data():
     with open('data/areas.json') as fh:
         areas = set(json.load(fh))
 
+    # Each company must have a 'name', and a 'url'.
+    for c in companies:
+        assert 'name' in c and c['name']
+        assert 'url' in c and c['url']
+
     # Verify that there are no two addresses with the exact same coordinates.
     # So we'll have separate markers for each company.
     coordinates = {}
