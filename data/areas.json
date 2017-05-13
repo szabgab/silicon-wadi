@@ -25,6 +25,12 @@
         },
         "name": "Ramat Gan near the Diamond Stock Exchange"
     },
+    "Cesaria": {
+        "coordinates": {
+            "lat": 32.4756073,
+            "lng": 34.94858469999997
+        }
+    },
     "Haifa": {
         "coordinates": {
             "lat": 32.763805,
@@ -63,6 +69,13 @@
             "lat": 32.178195,
             "lng": 34.90760999999998
         }
+    },
+    "Kiryat Arie": {
+        "coordinates": {
+            "lat": 32.1010629,
+            "lng": 34.850495099
+        },
+        "name": "Petach Tikva"
     },
     "Kiryat Atidim": {
         "coordinates": {
@@ -104,11 +117,25 @@
         },
         "name": "Omer Industrial Park"
     },
+    "Park Afek": {
+        "coordinates": {
+            "lat": 32.1075303,
+            "lng": 34.96634689999996
+        },
+        "name": "Rosh HaAyin"
+    },
     "Petach Tikva": {
         "coordinates": {
             "lat": 32.0869407,
             "lng": 34.85644500000001
         }
+    },
+    "Poleg": {
+        "coordinates": {
+            "lat": 32.2843959,
+            "lng": 34.86050679
+        },
+        "name": "Netanya"
     },
     "Ramat HaHayal": {
         "coordinates": {

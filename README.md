@@ -35,14 +35,8 @@ https://www.gps-coordinates.net/ can be used to convert addresses to coordinates
 "area" is one of the keys from the [areas.json](data/areas.json) file.
 
 TODO add these areas:
-* Cesaria
 * Jerusalem - Malcha
-* Ness Ziona
-* Netanya – Poleg
-* Petach Tikva - Kiryat Arie
-* Petach Tikva - other areas
 * Raanana
-* Rosh HaAyin
 
 TODO: require name and address for each office
 TODO: require area for each office

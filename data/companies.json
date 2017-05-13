@@ -227,6 +227,35 @@
         "url": "http://www.chegg.com/"
     },
     {
+        "name": "Cisco",
+        "offices": [
+            {
+                "address": "Shlomo Halevy St Jerusalem Israel",
+                "area": "Har Hotzvim",
+                "coordinates": {
+                    "lat": 31.8015424,
+                    "lng": 35.20843309999998
+                },
+                "phone": ""
+            },
+            {
+                "address": "32 Hamelacha st.  I.Z. Sapir P.O.Box 8735 South Natanya 42504 Israel",
+                "area": "Poleg",
+                "coordinates": {
+                    "lat": 32.2843959,
+                    "lng": 34.86050679
+                },
+                "phone": "+972-9-8927222"
+            }
+        ],
+        "technologies": [
+            "Java",
+            "Python",
+            "Perl"
+        ],
+        "url": "http://www.cisco.com/"
+    },
+    {
         "name": "Clear Cut",
         "offices": [
             {
@@ -470,6 +499,35 @@
         "url": "http://hp.com/"
     },
     {
+        "name": "Harmonic",
+        "offices": [
+            {
+                "address": "Alon Hatavor st 19, Cesaria, 38900, Israel",
+                "area": "Cesaria",
+                "coordinates": {
+                    "lat": 32.4756073,
+                    "lng": 34.94858469999997
+                },
+                "name": "Harmonic Video Systems",
+                "phone": ""
+            },
+            {
+                "address": "Amal St 10, , Rosh HaAyin, Israel",
+                "area": "Park Afek",
+                "coordinates": {
+                    "lat": 32.1075303,
+                    "lng": 34.96634689999996
+                },
+                "name": "Harmonic Video Networks",
+                "phone": ""
+            }
+        ],
+        "technologies": [
+            "Perl"
+        ],
+        "url": "https://www.harmonicinc.com/"
+    },
+    {
         "name": "IBM",
         "offices": [
             {
@@ -478,6 +536,14 @@
                 "coordinates": {
                     "lat": 31.9110772,
                     "lng": 34.805369799999994
+                }
+            },
+            {
+                "address": "Derekh Em Hamoshavot 94, Petah Tikva, 4970602,",
+                "area": "Kiryat Arie",
+                "coordinates": {
+                    "lat": 32.1010629,
+                    "lng": 34.850495099
                 }
             },
             {
