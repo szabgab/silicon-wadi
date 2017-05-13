@@ -17,27 +17,7 @@ pytest
 
 Companies are in the [companies.json](data/companies.json). 
 
-Each company has the following entry:
-
-
-```
-    {
-        "name": "",
-        "url": "",
-        "technologies" : [],
-        "offices": [
-            {
-                "address": "",
-                "area" : "",
-                "coordinates": {
-                    "lat": 0,
-                    "lng": 0
-                }
-                "phone" : "",
-            }
-        ]
-    },
-```
+Each company has an entry with one or more offices. See [skeleton.json](data/skeleton.json).
 
 "technologies" should be a list of technologies used in the company. E.g. JavaScript, Python, Java, Docker, MySQL, AngularJS.
 The list of technologies can be found in the [technologie.json](data/technologies.json) file. It serves us a way to check we don't

@@ -104,6 +104,22 @@
         "url": "http://agentek.co.il/"
     },
     {
+        "name": "Airspan",
+        "offices": [
+            {
+                "address": "Bareket 2 Building, Airport City, Negev St, 70100, Israel",
+                "area": "Airport City",
+                "coordinates": {
+                    "lat": 31.9876241,
+                    "lng": 34.913141
+                },
+                "phone": "+972-3-977-7444"
+            }
+        ],
+        "technologies": [],
+        "url": "http://www.airspan.com/"
+    },
+    {
         "name": "Allot",
         "offices": [
             {
@@ -872,6 +888,22 @@
         "url": "http://www.migvan.co.il/"
     },
     {
+        "name": "Motorola",
+        "offices": [
+            {
+                "address": "2 Negev St.  Airport City, 70199 Israel",
+                "area": "Airport City",
+                "coordinates": {
+                    "lat": 31.98574549966854,
+                    "lng": 34.91206169128418
+                },
+                "phone": "+972-3-5658888"
+            }
+        ],
+        "technologies": [],
+        "url": "https://www.motorolasolutions.com/"
+    },
+    {
         "name": "NGSoft",
         "offices": [
             {
@@ -1008,6 +1040,22 @@
             }
         ],
         "url": "http://panoply.io/"
+    },
+    {
+        "name": "Perigen",
+        "offices": [
+            {
+                "address": "4 Negev Street, Airport City, 70100 Israel",
+                "area": "Airport City",
+                "coordinates": {
+                    "lat": 31.98578189959402,
+                    "lng": 34.91231918334961
+                },
+                "phone": ""
+            }
+        ],
+        "technologies": [],
+        "url": "http://perigen.com/"
     },
     {
         "name": "Philips",
@@ -1175,6 +1223,22 @@
         "url": "http://www.sapiens.com/"
     },
     {
+        "name": "Siemens",
+        "offices": [
+            {
+                "address": "HaMelacha St 14, Rosh Haayin, Israel",
+                "area": "Park Afek",
+                "coordinates": {
+                    "lat": 32.1083316,
+                    "lng": 34.969293300000004
+                },
+                "phone": "+972-3-915-1500"
+            }
+        ],
+        "technologies": [],
+        "url": "http://www.siemens.com/"
+    },
+    {
         "name": "SimilarWeb",
         "offices": [
             {
@@ -1304,6 +1368,22 @@
         ],
         "technologies": [],
         "url": "http://www.utc-digital.com/"
+    },
+    {
+        "name": "Unitronics",
+        "offices": [
+            {
+                "address": "3 Arava St. Airport City, 7019900, Israel",
+                "area": "Airport City",
+                "coordinates": {
+                    "lat": 31.986837491150702,
+                    "lng": 34.910162687301636
+                },
+                "phone": "+972-3-977-8888"
+            }
+        ],
+        "technologies": [],
+        "url": "https://www.unitronics.com/"
     },
     {
         "name": "Veriest",
