@@ -80,7 +80,11 @@
         "offices": [
             {
                 "address": "2 Ilan Ramon st. Science park Ness Ziona Israel",
-                "area": "Rehovot"
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.914551,
+                    "lng": 34.80481299999997
+                }
             }
         ],
         "url": "http://www.ait-pharm.com/"
@@ -119,11 +123,19 @@
         "offices": [
             {
                 "address": "9 Oppenheimer Street Rehovot, 076705 Israel",
-                "area": "Rehovot"
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9109496,
+                    "lng": 34.807745599999976
+                }
             },
             {
-                "address": "HaAshlegan 1 St. Kiryat Gat Israel",
-                "area": "Kiryat Gat"
+                "address": "Ashlegan 1 St. Kiryat Gat Israel",
+                "area": "Kiryat Gat",
+                "coordinates": {
+                    "lat": 31.5924245,
+                    "lng": 34.78088170000001
+                }
             }
         ],
         "url": "http://www.appliedmaterials.com/"
@@ -132,8 +144,12 @@
         "name": "AppsFlyer",
         "offices": [
             {
-                "address": "14 Maskit St, 6th Floor POB 12371, Herzliya, 4673314",
+                "address": "14 Maskit St, Herzliya, 4673314",
                 "area": "Herzeliya",
+                "coordinates": {
+                    "lat": 32.164824,
+                    "lng": 34.81138490000001
+                },
                 "phone": "+972-9-768-1949"
             }
         ],
@@ -201,7 +217,11 @@
         "offices": [
             {
                 "address": "HaMada St, Rehovot, Israel",
-                "area": "Rehovot"
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9136373,
+                    "lng": 34.80777080000007
+                }
             }
         ],
         "url": "http://www.chegg.com/"
@@ -212,6 +232,10 @@
             {
                 "address": "10 Plaut st., Rehovot, Israel, 7670609",
                 "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9123633,
+                    "lng": 34.806980899999985
+                },
                 "phone": "+972-8-632-6004"
             }
         ],
@@ -265,7 +289,11 @@
         "offices": [
             {
                 "address": "2 Ilan Ramon Street, Ness Ziona, 7403635 Israel",
-                "area": "Rehovot"
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9178351,
+                    "lng": 34.804564400000004
+                }
             }
         ],
         "url": "http://www.como.com/"
@@ -288,7 +316,12 @@
         "name": "Dapulse",
         "offices": [
             {
-                "address": "Yehuda Halevi 48, Tel Aviv, Israel 657820"
+                "address": "Yehuda Halevi 48, Tel Aviv, Israel 657820",
+                "area": "Tel Aviv",
+                "coordinates": {
+                    "lat": 32.0644674,
+                    "lng": 34.7772784
+                }
             }
         ],
         "url": "https://dapulse.com/"
@@ -325,10 +358,19 @@
         "offices": [
             {
                 "address": "Rehovot, Israel",
-                "area": "Rehovot"
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9178351,
+                    "lng": 34.804564410000005
+                }
             },
             {
-                "address": "Advanced Technology Center P.O.B 539, Haifa 31053 Israel"
+                "address": "Advanced Technology Center P.O.B 539, Haifa 31053 Israel",
+                "area": "Matam",
+                "coordinates": {
+                    "lat": 32.7890289,
+                    "lng": 34.95848539999997
+                }
             }
         ],
         "url": ""

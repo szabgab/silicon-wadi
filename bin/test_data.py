@@ -17,10 +17,11 @@ def test_data():
     coordinates = {}
     for c in companies:
         for office in c['offices']:
+            #assert 'coordinates' in office, "Coordinates missing from " + c['name']
             if 'coordinates' in office:
                 coord = (office['coordinates']['lat'], office['coordinates']['lng'])
                 if coord in coordinates:
-                    raise Exception("Duplicate coordinates:\n" + coordinates[coord]['name'] + "\n" + c['name'])
+                    raise Exception("Duplicate coordinates:\n{}\n{} ({})".format(coordinates[coord]['name'], c['name'], office['address']))
                 coordinates[coord] = c
 
     # Verify the areas:
