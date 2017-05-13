@@ -90,6 +90,12 @@
             "lng": 34.785831400000006
         }
     },
+    "Malcha": {
+        "coordinates": {
+            "lat": 31.7508547,
+            "lng": 35.18884630000002
+        }
+    },
     "Matam": {
         "coordinates": {
             "lat": 32.788611,
@@ -136,6 +142,12 @@
             "lng": 34.86050679
         },
         "name": "Netanya"
+    },
+    "Raanana": {
+        "coordinates": {
+            "lat": 32.1735699,
+            "lng": 34.887821
+        }
     },
     "Ramat HaHayal": {
         "coordinates": {

@@ -34,13 +34,7 @@ https://www.gps-coordinates.net/ can be used to convert addresses to coordinates
 
 "area" is one of the keys from the [areas.json](data/areas.json) file.
 
-TODO add these areas:
-* Jerusalem - Malcha
-* Raanana
-
 TODO: require name and address for each office
-TODO: require area for each office
-TODO: require coordinates for each office
 
 # Contribution
 

@@ -119,6 +119,24 @@
         "url": "http://www.allot.com/"
     },
     {
+        "name": "Amdocs",
+        "offices": [
+            {
+                "address": "8 Hapnina St. Raanana, 43000",
+                "area": "Raanana",
+                "coordinates": {
+                    "lat": 32.1735699,
+                    "lng": 34.887821
+                },
+                "phone": "+972-9-776-2222"
+            }
+        ],
+        "technologies": [
+            "Perl"
+        ],
+        "url": "https://www.amdocs.com/"
+    },
+    {
         "name": "Applied Materials",
         "offices": [
             {
@@ -980,6 +998,22 @@
             }
         ],
         "url": "https://www.qualcomm.com/"
+    },
+    {
+        "name": "Quickode",
+        "offices": [
+            {
+                "address": "Malcha Technology Park, Jerusalem, 9695802, Israel",
+                "area": "Malcha",
+                "coordinates": {
+                    "lat": 31.7508547,
+                    "lng": 35.18884630000002
+                },
+                "phone": "+972-54-562-0662"
+            }
+        ],
+        "technologies": [],
+        "url": "http://www.quickode.com/"
     },
     {
         "name": "Radcom",
