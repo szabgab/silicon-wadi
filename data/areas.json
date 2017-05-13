@@ -12,6 +12,12 @@
         },
         "url": "http://www.atp-israel.com/"
     },
+    "Bnei Brak": {
+        "coordinates": {
+            "lat": 32.0978,
+            "lng": 34.827192999999966
+        }
+    },
     "Bursa": {
         "coordinates": {
             "lat": 32.08213,
@@ -26,6 +32,13 @@
         },
         "name": "Near University of Haifa"
     },
+    "Har Hotzvim": {
+        "coordinates": {
+            "lat": 31.8026724,
+            "lng": 35.21119620000002
+        },
+        "name": "Jerusalem"
+    },
     "Herzeliya": {
         "coordinates": {
             "lat": 32.174202,
@@ -37,6 +50,12 @@
         "coordinates": {
             "lat": 32.1298525,
             "lng": 34.8946181
+        }
+    },
+    "Holon": {
+        "coordinates": {
+            "lat": 32.0077569,
+            "lng": 34.80063919999998
         }
     },
     "Kfar Saba": {
@@ -70,6 +89,13 @@
             "lat": 31.9205473,
             "lng": 34.97099819999994
         }
+    },
+    "Namal": {
+        "coordinates": {
+            "lat": 32.097625,
+            "lng": 34.77382799999998
+        },
+        "name": "Tel Aviv"
     },
     "Omer": {
         "coordinates": {

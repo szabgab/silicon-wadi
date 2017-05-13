@@ -37,14 +37,12 @@ https://www.gps-coordinates.net/ can be used to convert addresses to coordinates
 TODO add these areas:
 * Cesaria
 * Jerusalem - Malcha
-* Jerusalem - Har Hotzvim
 * Ness Ziona
 * Netanya – Poleg
 * Petach Tikva - Kiryat Arie
 * Petach Tikva - other areas
 * Raanana
 * Rosh HaAyin
-* Tel Aviv - Namal
 * Yokneam
 
 TODO: require name and address for each office

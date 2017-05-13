@@ -409,7 +409,7 @@
         "offices": [
             {
                 "address": "Eliezer Kaplan 8, Tel Aviv-Yafo, Israel",
-                "area": "Tel Aviv",
+                "area": "Sarona",
                 "coordinates": {
                     "lat": 32.0732978,
                     "lng": 34.783394600000065
@@ -803,7 +803,7 @@
         "offices": [
             {
                 "address": "Isserles, 22 67014 Tel Aviv, Israel",
-                "area": "Tel Aviv",
+                "area": "Sarona",
                 "coordinates": {
                     "lat": 32.071168,
                     "lng": 34.79208730000005
@@ -884,7 +884,12 @@
                 "area": "Ramat HaHayal"
             },
             {
-                "address": "Ha'Marpe 8, Har-Hotzvim Jerusalem 97774, Israel"
+                "address": "Ha'Marpe 8, Har-Hotzvim Jerusalem 97774, Israel",
+                "area": "Har Hotzvim",
+                "coordinates": {
+                    "lat": 31.8026724,
+                    "lng": 35.21119620000002
+                }
             }
         ],
         "url": "https://www.radware.com/"
@@ -894,6 +899,11 @@
         "offices": [
             {
                 "address": "10 Plaut St., Rehovot, Israel, 76706",
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9123633,
+                    "lng": 34.806980889999984
+                },
                 "phone": "+972-73-222-0700"
             }
         ],
@@ -914,11 +924,19 @@
             {
                 "address": "Sderot HaTa'asiya & Sderot HaGalil Junction Migdal Tefen P.O. Box 3 Migdal Tefen 24959 Israel",
                 "area": "Tefen",
+                "coordinates": {
+                    "lat": 32.9784743,
+                    "lng": 35.27243079999994
+                },
                 "phone": "+972-4-907-8888"
             },
             {
                 "address": "7 Atir Yeda St. Kfar Saba 44425, Israel",
                 "area": "Kfar Saba",
+                "coordinates": {
+                    "lat": 32.1635315,
+                    "lng": 34.930706999999984
+                },
                 "phone": "+972-9-764-5000"
             }
         ],
@@ -928,7 +946,12 @@
         "name": "Sapiens",
         "offices": [
             {
-                "address": "Sapiens International, Azrieli Center, 26 Harokmim st., Holon, 588-5800, Israel"
+                "address": "Sapiens International, Azrieli Center, 26 Harokmim st., Holon, 588-5800, Israel",
+                "area": "Holon",
+                "coordinates": {
+                    "lat": 32.0077569,
+                    "lng": 34.80063919999998
+                }
             }
         ],
         "url": "http://www.sapiens.com/"
@@ -938,6 +961,11 @@
         "offices": [
             {
                 "address": "Derech Menachem Begin 23, Tel Aviv-Yafo, 6618210, Israel",
+                "area": "Tel Aviv",
+                "coordinates": {
+                    "lat": 32.063696,
+                    "lng": 34.77920259999996
+                },
                 "phone": "+972-3-5447782"
             }
         ],
@@ -962,7 +990,11 @@
         "offices": [
             {
                 "address": "Ilan Ramon St. Science Park Ness Ziona Building 11, Floor 5 7403635 Israel",
-                "area": "Rehovot"
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9183105,
+                    "lng": 34.804086600000005
+                }
             }
         ],
         "url": "http://www.stanleyhealthcare.com/"
@@ -971,7 +1003,12 @@
         "name": "Stratasys",
         "offices": [
             {
-                "address": "1 Holtzman St.Science Park, P.O. Box 2496 Rehovot 7612401"
+                "address": "1 Holtzman St., Rehovot 7612401",
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9142106,
+                    "lng": 34.808033789999975
+                }
             }
         ],
         "url": "http://www.stratasys.com/"
@@ -1024,6 +1061,7 @@
         "offices": [
             {
                 "address": "132 Menachem Begin Road Azrieli Square Tower, Floor 25 Tel Aviv 63927 Israel",
+                "area": "Sarona",
                 "coordinates": {
                     "lat": 32.0743304,
                     "lng": 34.792017100000066
@@ -1038,7 +1076,7 @@
         "offices": [
             {
                 "address": "8 Omarim st., Industrial Park, Omer, Israel 84965.",
-                "area": "",
+                "area": "Omer",
                 "coordinates": {
                     "lat": 31.2684836,
                     "lng": 34.8363732
@@ -1054,7 +1092,7 @@
         "offices": [
             {
                 "address": "Helman Building 28, Baruch Hirsch St.  Bnei Brak 5120206, Israel",
-                "area": "",
+                "area": "Bnei Brak",
                 "coordinates": {
                     "lat": 32.0978,
                     "lng": 34.827192999999966
@@ -1072,6 +1110,7 @@
         "offices": [
             {
                 "address": "Rehovot, Israel",
+                "area": "Rehovot",
                 "coordinates": {
                     "lat": 31.9037541,
                     "lng": 34.8080315
@@ -1085,6 +1124,7 @@
         "offices": [
             {
                 "address": "Namal 40 Tel Aviv, Israel",
+                "area": "Namal",
                 "coordinates": {
                     "lat": 32.097625,
                     "lng": 34.77382799999998
