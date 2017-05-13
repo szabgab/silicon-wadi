@@ -18,7 +18,7 @@ def tidy(test = False):
 
         new_json_str = json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
         if test:
-            assert new_json_str == json_str, filename + " is not tidy. Run ./bin/tidy_json.py"
+            assert new_json_str == json_str, filename + " is not tidy. Run 'python bin/tidy_json.py'"
             continue
 
         with open(filename, 'w') as fh:
