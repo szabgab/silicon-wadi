@@ -9,7 +9,7 @@ Before committing, make sureyou tidy the json file and the run our sanity tests:
 
 ```
 pip install pytest
-./bin/tidy_json.py
+python bin/tidy_json.py
 pytest
 ```
 
