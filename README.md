@@ -27,13 +27,13 @@ Each company has the following entry:
         "technologies" : [],
         "offices": [
             {
-                "area" : "",
                 "address": "",
-                "phone" : "",
+                "area" : "",
                 "coordinates": {
                     "lat": 0,
                     "lng": 0
                 }
+                "phone" : "",
             }
         ]
     },

@@ -25,8 +25,8 @@ def test_data():
             assert 'coordinates' in office, "Coordinates missing from " + c['name']
             if 'coordinates' in office:
                 coord = (office['coordinates']['lat'], office['coordinates']['lng'])
-                assert 29.48216448377731 < office['coordinates']['lat'] < 33.24419710649678  # South - North
-                assert 34.27734375       < office['coordinates']['lng'] < 35.48583984375     # West  - East
+                assert 29.48216448377731 < office['coordinates']['lat'] < 33.33259353927003  # South - North
+                assert 34.27734375       < office['coordinates']['lng'] < 35.90057373046875  # West  - East
                 if coord in coordinates:
                     raise Exception("Duplicate coordinates:\n{}\n{} ({})".format(coordinates[coord]['name'], c['name'], office['address']))
                 coordinates[coord] = c
