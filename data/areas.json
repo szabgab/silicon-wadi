@@ -64,6 +64,7 @@
             "lng": 34.80063919999998
         }
     },
+    "Jerusalem": {},
     "Kfar Saba": {
         "coordinates": {
             "lat": 32.178195,
@@ -94,7 +95,8 @@
         "coordinates": {
             "lat": 31.7508547,
             "lng": 35.18884630000002
-        }
+        },
+        "name": "Jerusalem"
     },
     "Matam": {
         "coordinates": {
