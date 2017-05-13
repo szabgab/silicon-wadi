@@ -451,6 +451,7 @@
         "offices": [
             {
                 "address": "Einstein 10 Kiryat Weitzmann Rehovot 76470 Israel",
+                "area": "Rehovot",
                 "coordinates": {
                     "lat": 31.9662542,
                     "lng": 34.79150460000005
@@ -587,7 +588,12 @@
         "name": "IronSource",
         "offices": [
             {
-                "address": "28 Lilienblum St., Tel Aviv"
+                "address": "28 Lilienblum St., Tel Aviv",
+                "area": "Tel Aviv",
+                "coordinates": {
+                    "lat": 32.0622038,
+                    "lng": 34.77050489
+                }
             }
         ],
         "url": "http://www.ironsrc.com/"
@@ -624,10 +630,20 @@
         "name": "Marvell Semiconductors",
         "offices": [
             {
-                "address": "6 Hamada Street Mordot HaCarmel Industrial Park Yokneam Israel 20692"
+                "address": "6 Hamada Street Mordot HaCarmel Industrial Park Yokneam Israel 20692",
+                "area": "Yokneam",
+                "coordinates": {
+                    "lat": 32.658776,
+                    "lng": 35.098613
+                }
             },
             {
-                "address": "94 Em Hamoshavot way, Azorim Park Petah Tikva Israel 49527"
+                "address": "94 Em Hamoshavot way, Azorim Park Petah Tikva Israel 49527",
+                "area": "Kiryat Atidim",
+                "coordinates": {
+                    "lat": 32.1156484,
+                    "lng": 34.843034999999986
+                }
             }
         ],
         "url": "https://www.marvell.com/"
@@ -636,7 +652,12 @@
         "name": "Medinol",
         "offices": [
             {
-                "address": "Building 8, 35th Floor, Kiriyat Atidim, POB 58165 Tel Aviv 6158101 Israel"
+                "address": "Building 8, 35th Floor, Kiriyat Atidim, Tel Aviv 6158101 Israel",
+                "area": "Kiryat Atidim",
+                "coordinates": {
+                    "lat": 32.1156484,
+                    "lng": 34.843034997
+                }
             }
         ],
         "url": "http://www.medinol.com/"
@@ -646,10 +667,11 @@
         "offices": [
             {
                 "address": "10 Shderot Aba Eban Building C P.O.B. 2155 Herzliya Israel 46120",
-                "area": "Herzeliya"
-            },
-            {
-                "address": "Rehovot ?"
+                "area": "Herzeliya",
+                "coordinates": {
+                    "lat": 32.1619677,
+                    "lng": 34.80865300000005
+                }
             }
         ],
         "url": "https://www.mentor.com/"
@@ -686,8 +708,12 @@
         "name": "Microsemi",
         "offices": [
             {
-                "address": "Microsemi - 2 Building, 7 Arye Shenkar Street Herzliya Pituach Israel 4612002",
-                "area": "Herzeliya"
+                "address": "2 Building, 7 Arye Shenkar Street Herzliya Pituach Israel 4612002",
+                "area": "Herzeliya",
+                "coordinates": {
+                    "lat": 32.1592953,
+                    "lng": 34.80891969999993
+                }
             },
             {
                 "address": "Microsemi Corp. - Analog Mixed signal Group, Ltd.  1 Hanager St., Neve Ne'eman Industrial Zone Hod Hasharon Israel 45421",
@@ -751,7 +777,12 @@
         "name": "Nokia",
         "offices": [
             {
-                "address": "16 Atir Yeda St. Kfar-Saba 44643"
+                "address": "16 Atir Yeda St. Kfar-Saba 44643",
+                "area": "Kfar Saba",
+                "coordinates": {
+                    "lat": 32.161983,
+                    "lng": 34.93385000000001
+                }
             }
         ],
         "url": "http://www.nokia.com/"
@@ -760,7 +791,12 @@
         "name": "Nova Measuring",
         "offices": [
             {
-                "address": "Weizmann Science Park, Rehovot 7610201, Israel"
+                "address": "Weizmann Science Park, Rehovot 7610201, Israel",
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.914551,
+                    "lng": 34.80481298
+                }
             }
         ],
         "url": "http://novameasuring.com/"
@@ -783,7 +819,12 @@
         "name": "One Hour Translation",
         "offices": [
             {
-                "address": "Golda Meir Street 3, Nes Ziyyona, Israel"
+                "address": "Golda Meir Street 3, Nes Ziyyona, Israel",
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9144053,
+                    "lng": 34.802274799999964
+                }
             }
         ],
         "url": "https://www.onehourtranslation.com/"
@@ -793,7 +834,11 @@
         "offices": [
             {
                 "address": "16 Abba Even Blvd. Herzeliya Pituach, Israel",
-                "area": "Herzeliya"
+                "area": "Herzeliya",
+                "coordinates": {
+                    "lat": 32.1622442,
+                    "lng": 34.807802400000014
+                }
             }
         ],
         "url": "http://otonomo.io/"
@@ -853,7 +898,11 @@
             },
             {
                 "address": "1 Shankar Street Herzliya 4672501 Israel",
-                "area": "Herzeliya"
+                "area": "Herzeliya",
+                "coordinates": {
+                    "lat": 32.1608042,
+                    "lng": 34.810067000000004
+                }
             },
             {
                 "address": "4 HaHarash St. POB 7331 Neve Ne'eman Hod HaSharon 4524075 Israel",
@@ -871,7 +920,11 @@
         "offices": [
             {
                 "address": "24 Raoul Wallenberg st., Tel-Aviv 6971920, Israel",
-                "area": "Ramat HaHayal"
+                "area": "Ramat HaHayal",
+                "coordinates": {
+                    "lat": 32.1115486,
+                    "lng": 34.83885371
+                }
             }
         ],
         "url": "https://www.radcom.com/"
@@ -881,7 +934,11 @@
         "offices": [
             {
                 "address": "22 Raoul Wallenberg Street Tel Aviv 69710, Israel",
-                "area": "Ramat HaHayal"
+                "area": "Ramat HaHayal",
+                "coordinates": {
+                    "lat": 32.1111815,
+                    "lng": 34.838551499999994
+                }
             },
             {
                 "address": "Ha'Marpe 8, Har-Hotzvim Jerusalem 97774, Israel",

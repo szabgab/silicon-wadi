@@ -43,7 +43,6 @@ TODO add these areas:
 * Petach Tikva - other areas
 * Raanana
 * Rosh HaAyin
-* Yokneam
 
 TODO: require name and address for each office
 TODO: require area for each office

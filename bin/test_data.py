@@ -17,9 +17,11 @@ def test_data():
     coordinates = {}
     for c in companies:
         for office in c['offices']:
-            #assert 'coordinates' in office, "Coordinates missing from " + c['name']
+            assert 'coordinates' in office, "Coordinates missing from " + c['name']
             if 'coordinates' in office:
                 coord = (office['coordinates']['lat'], office['coordinates']['lng'])
+                assert 29.48216448377731 < office['coordinates']['lat'] < 33.24419710649678  # South - North
+                assert 34.27734375       < office['coordinates']['lng'] < 35.48583984375     # West  - East
                 if coord in coordinates:
                     raise Exception("Duplicate coordinates:\n{}\n{} ({})".format(coordinates[coord]['name'], c['name'], office['address']))
                 coordinates[coord] = c
@@ -27,7 +29,7 @@ def test_data():
     # Verify the areas:
     for c in companies:
         for office in c['offices']:
-            #assert 'area' in office and office['area'] != '', "Missing area for " + c['name']
+            assert 'area' in office and office['area'] != '', "Missing area for " + c['name']
             if 'area' in office and office['area'] != '':
                 assert office['area'] in areas
 
