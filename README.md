@@ -24,7 +24,7 @@ The list of technologies can be found in the [technologies.json](data/technologi
 
 https://www.gps-coordinates.net/ can be used to convert and `address` to `coordinates`.
 
-"area" is one of the keys from the [areas.json](data/areas.json) file.
+`area` is one of the keys from the [areas.json](data/areas.json) file. We use this field to try to cluster the offices.
 
 # Demo application:
 
