@@ -1460,7 +1460,7 @@
         "name": "SIGA",
         "offices": [
             {
-                "address": "Haor 16, Gav Yam Park, Building 2, Beer Sheva, 8470913 Israel",
+                "address": "Haor 16, Gav Yam Park, Building 2, Beer Sheva, 8470913, Israel",
                 "area": "Beer Sheva",
                 "coordinates": {
                     "lat": 31.252973,
@@ -1470,5 +1470,92 @@
             }
         ],
         "url": "http://www.sigasec.com/"
+    },
+    {
+        "name": "Morphisec",
+        "offices": [
+            {
+                "address": "Haor St. Gav Yam Park, Building 2, Beer Sheva, 8470912, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252973,
+                    "lng": 34.791461
+                }
+            }
+        ],
+        "url": "https://www.morphisec.com/"
+    },
+    {
+        "name": "SecBI",
+        "offices": [
+            {
+                "address": "Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252973,
+                    "lng": 34.791464
+                },
+                "phone": "+972-54-5620614"
+            }
+        ],
+        "url": "http://www.secbi.com/"
+    },
+    {
+        "name": "L7 Defense",
+        "offices": [
+            {
+                "address": "Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252972,
+                    "lng": 34.791462
+                }
+            }
+        ],
+        "url": "https://www.l7defense.com"
+    },
+    {
+        "name": "yapQ",
+        "offices": [
+            {
+                "address": "10 Hazerem st. Tel Aviv, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 32.05044429999999,
+                    "lng": 34.7663172
+                }
+            }
+        ],
+        "url": "http://www.yapq.com/"
+    },
+    {
+        "name": "H2 Energy Now",
+        "offices": [
+            {
+                "address": "4/6 Holga, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252974,
+                    "lng": 34.791465
+                },
+                "phone": "+972-52-569-7906"
+            }
+        ],
+        "url": "http://h2energynow.com/"
+    },
+    {
+        "name": "EchoCare",
+        "offices": [
+            {
+                "address": "77 HaEnergia St, Beer-Sheva, 8470912, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.25297,
+                    "lng": 34.791466
+                },
+                "phone": "+972-77-8812204"
+            }
+        ],
+        "url": "http://www.echocare-tech.com/"
     }
 ]
