@@ -26,6 +26,7 @@ def test_data():
     # Verify the areas:
     for c in companies:
         for office in c['offices']:
+            #assert 'area' in office and office['area'] != '', "Missing area for " + c['name']
             if 'area' in office and office['area'] != '':
                 assert office['area'] in areas
 

@@ -103,7 +103,12 @@
         "name": "Allot",
         "offices": [
             {
-                "address": "22 Hanagar Street Industrial Zone B Hod-Hasharon, 4501317",
+                "address": "22 Hanagar Street Industrial Zone B Hod Hasharon, 4501317",
+                "area": "Hod HaSharon",
+                "coordinates": {
+                    "lat": 32.1298525,
+                    "lng": 34.8946181
+                },
                 "phone": "+972-9-761-9200"
             }
         ],
@@ -514,7 +519,12 @@
         "name": "MSD - Merck Sharp & Dohme",
         "offices": [
             {
-                "address": "Hod HaSharon, Israel"
+                "address": "Hod HaSharon, Israel",
+                "area": "Hod HaSharon",
+                "coordinates": {
+                    "lat": 32.1298526,
+                    "lng": 34.8946181
+                }
             }
         ],
         "url": "http://www.msd.co.il/"
@@ -589,7 +599,12 @@
                 "area": "Herzeliya"
             },
             {
-                "address": "Microsemi Corp. - Analog Mixed signal Group, Ltd.  1 Hanager St., Neve Ne'eman Industrial Zone Hod Hasharon Israel 45421"
+                "address": "Microsemi Corp. - Analog Mixed signal Group, Ltd.  1 Hanager St., Neve Ne'eman Industrial Zone Hod Hasharon Israel 45421",
+                "area": "Hod HaSharon",
+                "coordinates": {
+                    "lat": 32.12985251,
+                    "lng": 34.8946181
+                }
             }
         ],
         "url": "https://www.microsemi.com/"
@@ -750,7 +765,12 @@
                 "area": "Herzeliya"
             },
             {
-                "address": "4 HaHarash St. POB 7331 Neve Ne'eman Hod HaSharon 4524075 Israel"
+                "address": "4 HaHarash St. POB 7331 Neve Ne'eman Hod HaSharon 4524075 Israel",
+                "area": "Hod HaSharon",
+                "coordinates": {
+                    "lat": 32.12985252,
+                    "lng": 34.8946181
+                }
             }
         ],
         "url": "https://www.qualcomm.com/"

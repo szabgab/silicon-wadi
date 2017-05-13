@@ -26,6 +26,12 @@
         },
         "name": "Herzelia Pituach"
     },
+    "Hod HaSharon": {
+        "coordinates": {
+            "lat": 32.1298525,
+            "lng": 34.8946181
+        }
+    },
     "Kfar Saba": {
         "coordinates": {
             "lat": 32.178195,

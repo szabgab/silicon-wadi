@@ -36,7 +36,6 @@ https://www.gps-coordinates.net/ can be used to convert addresses to coordinates
 
 TODO add these areas:
 * Cesaria
-* Hod HaSharon
 * Jerusalem - Malcha
 * Jerusalem - Har Hotzvim
 * Ness Ziona
