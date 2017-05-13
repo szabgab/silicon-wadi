@@ -116,6 +116,12 @@
         },
         "name": "Tel Aviv"
     },
+    "Nazerath": {
+        "coordinates": {
+            "lat": 32.682344,
+            "lng": 35.29113899999993
+        }
+    },
     "Omer": {
         "coordinates": {
             "lat": 31.2684836,

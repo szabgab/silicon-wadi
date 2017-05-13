@@ -129,6 +129,22 @@
                     "lng": 34.887821
                 },
                 "phone": "+972-9-776-2222"
+            },
+            {
+                "address": "Te'ena St 1, Sderot, Israel",
+                "area": "Sderot",
+                "coordinates": {
+                    "lat": 31.51320699999999,
+                    "lng": 34.6011671
+                }
+            },
+            {
+                "address": "Nazerath, Israel",
+                "area": "Nazerath",
+                "coordinates": {
+                    "lat": 32.682344,
+                    "lng": 35.29113899999993
+                }
             }
         ],
         "technologies": [
