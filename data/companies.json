@@ -811,6 +811,26 @@
         "url": "https://www.microsemi.com/"
     },
     {
+        "name": "Migvan Effect",
+        "offices": [
+            {
+                "address": "HaShaked 15, Sderot, 87013, Israel",
+                "area": "Sderot",
+                "coordinates": {
+                    "lat": 31.5316243,
+                    "lng": 34.59098429
+                },
+                "phone": "+972-8-6624444"
+            }
+        ],
+        "technologies": [
+            "Perl",
+            "JavaScript",
+            "JQuery"
+        ],
+        "url": "http://www.migvan.co.il/"
+    },
+    {
         "name": "NGSoft",
         "offices": [
             {
