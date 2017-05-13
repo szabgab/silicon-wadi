@@ -1176,6 +1176,21 @@
         "url": "http://rosettagx.com/"
     },
     {
+        "name": "SIGA",
+        "offices": [
+            {
+                "address": "Haor 16, Gav Yam Park, Building 2, Beer Sheva, 8470913 Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252973,
+                    "lng": 34.791462
+                },
+                "phone": "+972-50-7451422"
+            }
+        ],
+        "url": "http://www.sigasec.com/"
+    },
+    {
         "name": "SanDisk",
         "offices": [
             {
@@ -1455,20 +1470,5 @@
             }
         ],
         "url": "http://www.oovoo.com/"
-    },
-    {
-        "name": "SIGA",
-        "offices": [
-            {
-                "address": "Haor 16, Gav Yam Park, Building 2, Beer Sheva, 8470913 Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.252973,
-                    "lng": 34.791462
-                },
-                "phone": "+972-50-7451422"
-            }
-        ],
-        "url": "http://www.sigasec.com/"
     }
 ]
