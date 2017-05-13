@@ -1557,5 +1557,77 @@
             }
         ],
         "url": "http://www.echocare-tech.com/"
+    },
+    {
+        "name": "Creative IC3D",
+        "offices": [
+            {
+                "address": "HaEnergia Street, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252978,
+                    "lng": 34.791461
+                }
+            }
+        ],
+        "url": "http://www.cic3d.com/"
+    },
+    {
+        "name": "SCADAfence",
+        "offices": [
+            {
+                "address": "77 HaEnergia Street, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252977,
+                    "lng": 34.791461
+                },
+                "phone": "+972-73-260-1964"
+            }
+        ],
+        "url": "https://www.scadafence.com/"
+    },
+    {
+        "name": "FituUp",
+        "offices": [
+            {
+                "address": "Haenergia St. Gav-Yam Negev building #2. Beer-Sheva's Advanced Technologies Park, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.2529778,
+                    "lng": 34.7914612
+                },
+                "phone": "+972-52-3322412"
+            }
+        ],
+        "url": "http://www.fituup.com/"
+    },
+    {
+        "name": "MultiDine",
+        "offices": [
+            {
+                "address": "Bialik 3/8 Enterance B, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.25297,
+                    "lng": 34.791462
+                }
+            }
+        ],
+        "url": "http://www.multidine.com/"
+    },
+    {
+        "name": "ReDent Nova",
+        "offices": [
+            {
+                "address": "15 Ha'Taasiya St. Ra'anana, 4365408, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252977,
+                    "lng": 34.7914611
+                }
+            }
+        ],
+        "url": "http://www.redentnova.com/"
     }
 ]
