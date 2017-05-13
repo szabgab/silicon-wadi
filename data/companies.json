@@ -379,8 +379,12 @@
         "name": "Evogene",
         "offices": [
             {
-                "address": "13 Gad Feinstein st. Park Rehovot P.O.B 2100 Rehovot 7612002, Israel",
+                "address": "13 Gad Feinstein st. Park Rehovot Rehovot 7612002, Israel",
                 "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.89902,
+                    "lng": 34.79056300000002
+                },
                 "phone": "+972-8-9311900"
             }
         ],
@@ -404,7 +408,12 @@
         "name": "Fiverr",
         "offices": [
             {
-                "address": "Eliezer Kaplan 8, Tel Aviv-Yafo, Israel"
+                "address": "Eliezer Kaplan 8, Tel Aviv-Yafo, Israel",
+                "area": "Tel Aviv",
+                "coordinates": {
+                    "lat": 32.0732978,
+                    "lng": 34.783394600000065
+                }
             }
         ],
         "url": "https://www.fiverr.com/"
@@ -413,7 +422,12 @@
         "name": "Foamix",
         "offices": [
             {
-                "address": "2 Holzman Street, Rehovot, 076704, Israel"
+                "address": "2 Holzman Street, Rehovot, 076704, Israel",
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9142106,
+                    "lng": 34.808033799999976
+                }
             }
         ],
         "url": "http://www.foamix.co.il/"
@@ -423,7 +437,11 @@
         "offices": [
             {
                 "address": "24 Raoul Wallenberg St.  Entrance D, 5th floor Tel Aviv, 6971924, Israel",
-                "area": "Ramat HaHayal"
+                "area": "Ramat HaHayal",
+                "coordinates": {
+                    "lat": 32.1115486,
+                    "lng": 34.83885370000007
+                }
             }
         ],
         "url": "https://www.forescout.com/"
@@ -432,7 +450,12 @@
         "name": "HP",
         "offices": [
             {
-                "address": "Hp Indigo, Einstein 10 Kiryat Weitzmann Rehovot 76470 Israel"
+                "address": "Einstein 10 Kiryat Weitzmann Rehovot 76470 Israel",
+                "coordinates": {
+                    "lat": 31.9662542,
+                    "lng": 34.79150460000005
+                },
+                "name": "Hp Indigo"
             },
             {
                 "address": "Sderot Avats 24, Kiryat Gat, Israel",
@@ -449,10 +472,20 @@
         "name": "IBM",
         "offices": [
             {
-                "address": "Ruhrberg Science Center, Park TMR, 3 Pekeris Street (Edison entrance, 2nd floor), Rehovot, Israel."
+                "address": "Ruhrberg Science Center, Park TMR, 3 Pekeris Street (Edison entrance, 2nd floor), Rehovot, Israel.",
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9110772,
+                    "lng": 34.805369799999994
+                }
             },
             {
-                "address": "University of Haifa"
+                "address": "University of Haifa",
+                "area": "Haifa",
+                "coordinates": {
+                    "lat": 32.763805,
+                    "lng": 35.01590999999996
+                }
             }
         ],
         "url": "https://www.ibm.com/"
@@ -476,14 +509,30 @@
         "offices": [
             {
                 "address": "125 Menachem Begin Street Tel-Aviv 67010 Israel",
+                "area": "Sarona",
+                "coordinates": {
+                    "lat": 32.0729618,
+                    "lng": 34.78952609999999
+                },
                 "phone": "+972-3-6840100"
             },
             {
-                "address": "2 Pekeris Street 2nd floor Rehovot, 7670212 Israel",
+                "address": "2 Pekeris Street, Rehovot, 7670212 Israel",
+                "area": "Rehovot",
+                "coordinates": {
+                    "lat": 31.9114273,
+                    "lng": 34.80518749999999
+                },
                 "phone": "+972-72-3771700"
             },
             {
-                "address": "Imperva Skyfence 14 Abba Hillel St.  Ramat-Gan, 5250607 Israel"
+                "address": "14 Abba Hillel St.  Ramat-Gan, 5250607 Israel",
+                "area": "Bursa",
+                "coordinates": {
+                    "lat": 32.0856792,
+                    "lng": 34.804734300000064
+                },
+                "name": "Imperva Skyfence"
             }
         ],
         "url": "https://www.imperva.com/"
