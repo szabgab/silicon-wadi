@@ -417,6 +417,20 @@
         "url": "https://www.comsign.co.il/"
     },
     {
+        "name": "Creative IC3D",
+        "offices": [
+            {
+                "address": "HaEnergia Street, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252978,
+                    "lng": 34.791461
+                }
+            }
+        ],
+        "url": "http://www.cic3d.com/"
+    },
+    {
         "name": "Dapulse",
         "offices": [
             {
@@ -456,6 +470,21 @@
             "Python"
         ],
         "url": "http://www.ecitele.com/"
+    },
+    {
+        "name": "EchoCare",
+        "offices": [
+            {
+                "address": "77 HaEnergia St, Beer-Sheva, 8470912, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.25297,
+                    "lng": 34.791466
+                },
+                "phone": "+972-77-8812204"
+            }
+        ],
+        "url": "http://www.echocare-tech.com/"
     },
     {
         "name": "Elbit",
@@ -509,6 +538,21 @@
         "url": "https://f5.com/"
     },
     {
+        "name": "FituUp",
+        "offices": [
+            {
+                "address": "Haenergia St. Gav-Yam Negev building #2. Beer-Sheva's Advanced Technologies Park, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.2529778,
+                    "lng": 34.7914612
+                },
+                "phone": "+972-52-3322412"
+            }
+        ],
+        "url": "http://www.fituup.com/"
+    },
+    {
         "name": "Fiverr",
         "offices": [
             {
@@ -549,6 +593,21 @@
             }
         ],
         "url": "https://www.forescout.com/"
+    },
+    {
+        "name": "H2 Energy Now",
+        "offices": [
+            {
+                "address": "4/6 Holga, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252974,
+                    "lng": 34.791465
+                },
+                "phone": "+972-52-569-7906"
+            }
+        ],
+        "url": "http://h2energynow.com/"
     },
     {
         "name": "HP",
@@ -740,6 +799,20 @@
         "url": "http://www.ironsrc.com/"
     },
     {
+        "name": "L7 Defense",
+        "offices": [
+            {
+                "address": "Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252972,
+                    "lng": 34.791462
+                }
+            }
+        ],
+        "url": "https://www.l7defense.com"
+    },
+    {
         "name": "Lattice",
         "offices": [
             {
@@ -888,6 +961,20 @@
         "url": "http://www.migvan.co.il/"
     },
     {
+        "name": "Morphisec",
+        "offices": [
+            {
+                "address": "Haor St. Gav Yam Park, Building 2, Beer Sheva, 8470912, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252973,
+                    "lng": 34.791461
+                }
+            }
+        ],
+        "url": "https://www.morphisec.com/"
+    },
+    {
         "name": "Motorola",
         "offices": [
             {
@@ -902,6 +989,20 @@
         ],
         "technologies": [],
         "url": "https://www.motorolasolutions.com/"
+    },
+    {
+        "name": "MultiDine",
+        "offices": [
+            {
+                "address": "Bialik 3/8 Enterance B, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.25297,
+                    "lng": 34.791462
+                }
+            }
+        ],
+        "url": "http://www.multidine.com/"
     },
     {
         "name": "NGSoft",
@@ -1161,6 +1262,20 @@
         "url": "https://www.radware.com/"
     },
     {
+        "name": "ReDent Nova",
+        "offices": [
+            {
+                "address": "15 Ha'Taasiya St. Ra'anana, 4365408, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252977,
+                    "lng": 34.7914611
+                }
+            }
+        ],
+        "url": "http://www.redentnova.com/"
+    },
+    {
         "name": "Rosetta Genomics Ltd.",
         "offices": [
             {
@@ -1174,6 +1289,21 @@
             }
         ],
         "url": "http://rosettagx.com/"
+    },
+    {
+        "name": "SCADAfence",
+        "offices": [
+            {
+                "address": "77 HaEnergia Street, Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252977,
+                    "lng": 34.791461
+                },
+                "phone": "+972-73-260-1964"
+            }
+        ],
+        "url": "https://www.scadafence.com/"
     },
     {
         "name": "SIGA",
@@ -1236,6 +1366,21 @@
             }
         ],
         "url": "http://www.sapiens.com/"
+    },
+    {
+        "name": "SecBI",
+        "offices": [
+            {
+                "address": "Beer Sheva, Israel",
+                "area": "Beer Sheva",
+                "coordinates": {
+                    "lat": 31.252973,
+                    "lng": 34.791464
+                },
+                "phone": "+972-54-5620614"
+            }
+        ],
+        "url": "http://www.secbi.com/"
     },
     {
         "name": "Siemens",
@@ -1472,64 +1617,6 @@
         "url": "http://www.oovoo.com/"
     },
     {
-        "name": "SIGA",
-        "offices": [
-            {
-                "address": "Haor 16, Gav Yam Park, Building 2, Beer Sheva, 8470913, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.252973,
-                    "lng": 34.791462
-                },
-                "phone": "+972-50-7451422"
-            }
-        ],
-        "url": "http://www.sigasec.com/"
-    },
-    {
-        "name": "Morphisec",
-        "offices": [
-            {
-                "address": "Haor St. Gav Yam Park, Building 2, Beer Sheva, 8470912, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.252973,
-                    "lng": 34.791461
-                }
-            }
-        ],
-        "url": "https://www.morphisec.com/"
-    },
-    {
-        "name": "SecBI",
-        "offices": [
-            {
-                "address": "Beer Sheva, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.252973,
-                    "lng": 34.791464
-                },
-                "phone": "+972-54-5620614"
-            }
-        ],
-        "url": "http://www.secbi.com/"
-    },
-    {
-        "name": "L7 Defense",
-        "offices": [
-            {
-                "address": "Beer Sheva, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.252972,
-                    "lng": 34.791462
-                }
-            }
-        ],
-        "url": "https://www.l7defense.com"
-    },
-    {
         "name": "yapQ",
         "offices": [
             {
@@ -1542,107 +1629,5 @@
             }
         ],
         "url": "http://www.yapq.com/"
-    },
-    {
-        "name": "H2 Energy Now",
-        "offices": [
-            {
-                "address": "4/6 Holga, Beer Sheva, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.252974,
-                    "lng": 34.791465
-                },
-                "phone": "+972-52-569-7906"
-            }
-        ],
-        "url": "http://h2energynow.com/"
-    },
-    {
-        "name": "EchoCare",
-        "offices": [
-            {
-                "address": "77 HaEnergia St, Beer-Sheva, 8470912, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.25297,
-                    "lng": 34.791466
-                },
-                "phone": "+972-77-8812204"
-            }
-        ],
-        "url": "http://www.echocare-tech.com/"
-    },
-    {
-        "name": "Creative IC3D",
-        "offices": [
-            {
-                "address": "HaEnergia Street, Beer Sheva, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.252978,
-                    "lng": 34.791461
-                }
-            }
-        ],
-        "url": "http://www.cic3d.com/"
-    },
-    {
-        "name": "SCADAfence",
-        "offices": [
-            {
-                "address": "77 HaEnergia Street, Beer Sheva, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.252977,
-                    "lng": 34.791461
-                },
-                "phone": "+972-73-260-1964"
-            }
-        ],
-        "url": "https://www.scadafence.com/"
-    },
-    {
-        "name": "FituUp",
-        "offices": [
-            {
-                "address": "Haenergia St. Gav-Yam Negev building #2. Beer-Sheva's Advanced Technologies Park, Beer Sheva, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.2529778,
-                    "lng": 34.7914612
-                },
-                "phone": "+972-52-3322412"
-            }
-        ],
-        "url": "http://www.fituup.com/"
-    },
-    {
-        "name": "MultiDine",
-        "offices": [
-            {
-                "address": "Bialik 3/8 Enterance B, Beer Sheva, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.25297,
-                    "lng": 34.791462
-                }
-            }
-        ],
-        "url": "http://www.multidine.com/"
-    },
-    {
-        "name": "ReDent Nova",
-        "offices": [
-            {
-                "address": "15 Ha'Taasiya St. Ra'anana, 4365408, Israel",
-                "area": "Beer Sheva",
-                "coordinates": {
-                    "lat": 31.252977,
-                    "lng": 34.7914611
-                }
-            }
-        ],
-        "url": "http://www.redentnova.com/"
     }
 ]
