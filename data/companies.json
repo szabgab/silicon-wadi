@@ -1276,6 +1276,22 @@
         "url": "http://www.redentnova.com/"
     },
     {
+        "name": "Red Hat",
+        "offices": [
+            {
+                "address": "34 Yerushalayim Road Raanana 43501 Israel",
+                "area": "Raanana",
+                "coordinates": {
+                    "lat": 32.1854841,
+                    "lng": 34.85440719999997
+                },
+                "phone": "+972-9-769-2222"
+            }
+        ],
+        "technologies": [],
+        "url": "https://www.redhat.com"
+    },
+    {
         "name": "Rosetta Genomics Ltd.",
         "offices": [
             {
