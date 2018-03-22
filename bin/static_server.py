@@ -12,7 +12,7 @@ class StaticServer(BaseHTTPRequestHandler):
         root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         #print(self.path)
         if self.path == '/':
-            filename = root + '/html/index.html'
+            filename = root + '/index.html'
         else:
             filename = root + self.path
 
@@ -34,6 +34,7 @@ class StaticServer(BaseHTTPRequestHandler):
             self.wfile.write(html)
 
 def run(server_class=HTTPServer, handler_class=StaticServer, port=8000):
+    os.chdir('html')
     server_address = ('', port)
     httpd = server_class(server_address, handler_class)
     print('Starting httpd on port {}'.format(port))
