@@ -11,6 +11,7 @@ $(document).ready(function(){
     $.get( '/data/companies.json', function( data ) {
        companies = data;
        //console.log(companies);
+       show_map();
     });
     document.getElementById('show').addEventListener('click', show_map);
 
