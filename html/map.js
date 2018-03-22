@@ -70,8 +70,7 @@ function add_marker(the_map, company, j) {
 function initMap() {
     document.getElementById('show').addEventListener('click', show_map);
 
-    $.get( '/data/technologies.json', function( json_str ) {
-        var data = JSON.parse(json_str);
+    $.get( '/data/technologies.json', function( data ) {
         console.log(data);
         var html = "<option></option>";
         for (var i=0; i < data.length; i++) {
@@ -80,8 +79,8 @@ function initMap() {
         $("#technology").html(html);
     });
 
-    $.get( '/data/companies.json', function( json_str ) {
-       companies = JSON.parse(json_str);
+    $.get( '/data/companies.json', function( data ) {
+       companies = data;
        //console.log(companies);
        show_map();
     });
