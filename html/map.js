@@ -1,6 +1,20 @@
-//$(document).ready(function(){
-//    $("#title").html("Hello jQuery");
-//}); 
+$(document).ready(function(){
+    $.get( '/data/technologies.json', function( data ) {
+        //console.log(data);
+        var html = "<option></option>";
+        for (var i=0; i < data.length; i++) {
+            html += "<option>" + data[i] + "</option>";
+        }
+        $("#technology").html(html);
+    });
+
+    $.get( '/data/companies.json', function( data ) {
+       companies = data;
+       //console.log(companies);
+    });
+    document.getElementById('show').addEventListener('click', show_map);
+
+}); 
 
 
 var companies = [];
@@ -68,21 +82,6 @@ function add_marker(the_map, company, j) {
 }
 
 function initMap() {
-    document.getElementById('show').addEventListener('click', show_map);
-
-    $.get( '/data/technologies.json', function( data ) {
-        console.log(data);
-        var html = "<option></option>";
-        for (var i=0; i < data.length; i++) {
-            html += "<option>" + data[i] + "</option>";
-        }
-        $("#technology").html(html);
-    });
-
-    $.get( '/data/companies.json', function( data ) {
-       companies = data;
-       //console.log(companies);
-       show_map();
-    });
+    show_map();
 }
 
