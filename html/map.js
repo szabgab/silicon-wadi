@@ -1,3 +1,5 @@
+var page_ready = 0;
+
 $(document).ready(function(){
     $.get( '/data/technologies.json', function( data ) {
         //console.log(data);
@@ -10,6 +12,7 @@ $(document).ready(function(){
 
     $.get( '/data/companies.json', function( data ) {
        companies = data;
+       page_ready++;
        //console.log(companies);
        show_map();
     });
@@ -21,6 +24,9 @@ $(document).ready(function(){
 var companies = [];
 
 function show_map() {
+    if (page_ready < 2) {
+        return;
+    }
     var t = document.getElementById('technology')
     var technology = '';
     if (t.options[t.selectedIndex]) {
@@ -83,6 +89,8 @@ function add_marker(the_map, company, j) {
 }
 
 function initMap() {
+    page_ready++;
     show_map();
 }
+
 
