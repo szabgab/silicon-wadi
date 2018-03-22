@@ -12,7 +12,7 @@ class StaticServer(BaseHTTPRequestHandler):
         root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         #print(self.path)
         if self.path == '/':
-            filename = root + '/index.html'
+            filename = root + '/html/index.html'
         else:
             filename = root + self.path
 

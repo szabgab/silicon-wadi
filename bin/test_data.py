@@ -2,14 +2,15 @@ import json
 import re
 
 import tidy_json
+data_dir = 'html/data/'
 
 def test_data():
     assert True
-    with open('data/companies.json') as fh:
+    with open(data_dir + 'companies.json') as fh:
         companies = json.load(fh)
-    with open('data/technologies.json') as fh:
+    with open(data_dir + 'technologies.json') as fh:
         technologies = set(json.load(fh))
-    with open('data/areas.json') as fh:
+    with open(data_dir + 'areas.json') as fh:
         areas = set(json.load(fh))
 
     # Each company must have a 'name', and a 'url'.
@@ -45,7 +46,7 @@ def test_data():
             if 'phone' in office and office['phone'] != '':
                 assert re.search(r'^\+972-\d\d?-\d\d\d-?\d\d\d\d$', office['phone'])
 
-    # Each technology is listed in the data/technologies.json
+    # Each technology is listed in the data_dir + technologies.json
     # Avoid typo, and different spellings of the same technology.
     for c in companies:
         if 'technologies' in c:
