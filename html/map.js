@@ -2,7 +2,10 @@ var companies = [];
 
 function show_map() {
     var t = document.getElementById('technology')
-    var technology = t.options[t.selectedIndex].value;
+    var technology = '';
+    if (t.options[t.selectedIndex]) {
+        technology = t.options[t.selectedIndex].value;
+    }
     //console.log(technology);
     var center = {lat: 32.2765615, lng: 34.81151369999998};
     var the_map = new google.maps.Map(document.getElementById('map'), {
