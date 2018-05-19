@@ -48,6 +48,8 @@ function show_map() {
        return;
     }
 
+    var list = '<ul>';
+
     for (var i=0; i < companies.length; i++) {
         for (var j=0; j < companies[i]['offices'].length; j++) {
             var company = companies[i];
@@ -71,7 +73,12 @@ function show_map() {
 
 			add_marker(the_map, company, j);
         }
+        list += '<li><a href="'+ company['url'] + '">' + company['name'] + '</a> (<a href="https://github.com/szabgab/silicon-wadi/tree/main/' + company['filename'] + '">edit</a>)</li>';
     }
+
+    list += '</ul>';
+    $('#count-companies').html(companies.length);
+    $('#list').html(list);
 }
 
 function add_marker(the_map, company, j) {

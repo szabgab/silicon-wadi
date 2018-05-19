@@ -10,6 +10,7 @@ def collect_data():
         print(filename)
         with open(filename) as fh:
             d = json.load(fh)
+            d['filename'] = filename
             companies.append(d)
     companies.sort(key = lambda c: c['name'])
     with open(data_dir + 'companies.json', 'w') as fh:
