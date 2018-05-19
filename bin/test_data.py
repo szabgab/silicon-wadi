@@ -1,5 +1,7 @@
 import json
 import re
+import os
+import pytest
 
 import tidy_json
 from collector import collect_data
@@ -55,6 +57,7 @@ def test_data():
             for t in c['technologies']:
                 assert t in technologies
 
+@pytest.mark.skipif('TRAVIS' in os.environ and os.environ['TRAVIS_PULL_REQUEST'] == 'True', reason="Pull request might be 'dirty'")
 def test_tidy():
     tidy_json.tidy(test = True)
 
