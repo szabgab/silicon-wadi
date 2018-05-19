@@ -1,0 +1,16 @@
+{
+    "name": "ClickSoftware",
+    "offices": [
+        {
+            "address": "Em Hamoshavot Road 94, Petah Tikva, 4970602",
+            "area": "Kiryat Arie",
+            "coordinates": {
+                "lat": 32.1010629,
+                "lng": 34.8504951
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.clicksoftware.com/"
+}
