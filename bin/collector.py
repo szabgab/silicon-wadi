@@ -7,7 +7,7 @@ data_dir = 'html/data/'
 def collect_data():
     companies = []
     for filename in glob.glob(os.path.join(data_dir, 'c/*.json')):
-        print(filename)
+        #print(filename)
         with open(filename) as fh:
             d = json.load(fh)
             d['filename'] = filename
