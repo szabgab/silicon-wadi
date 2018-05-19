@@ -1,0 +1,14 @@
+{
+    "name": "Morphisec",
+    "offices": [
+        {
+            "address": "Haor St. Gav Yam Park, Building 2, Beer Sheva, 8470912, Israel",
+            "area": "Beer Sheva",
+            "coordinates": {
+                "lat": 31.252973,
+                "lng": 34.791461
+            }
+        }
+    ],
+    "url": "https://www.morphisec.com/"
+}

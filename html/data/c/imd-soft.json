@@ -1,0 +1,14 @@
+{
+    "name": "IMD-soft",
+    "offices": [
+        {
+            "address": "Kiryat Atidim, Tel Aviv, Israel",
+            "area": "Kiryat Atidim",
+            "coordinates": {
+                "lat": 32.115177,
+                "lng": 34.84296
+            }
+        }
+    ],
+    "url": "http://www.imd-soft.com/"
+}

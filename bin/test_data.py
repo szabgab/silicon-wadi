@@ -2,10 +2,12 @@ import json
 import re
 
 import tidy_json
+from collector import collect_data
 data_dir = 'html/data/'
 
 def test_data():
     assert True
+    collect_data()
     with open(data_dir + 'companies.json') as fh:
         companies = json.load(fh)
     with open(data_dir + 'technologies.json') as fh:

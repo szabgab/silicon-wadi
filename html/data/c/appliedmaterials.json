@@ -1,0 +1,22 @@
+{
+    "name": "Applied Materials",
+    "offices": [
+        {
+            "address": "9 Oppenheimer Street Rehovot, 076705 Israel",
+            "area": "Rehovot",
+            "coordinates": {
+                "lat": 31.9109496,
+                "lng": 34.807745599999976
+            }
+        },
+        {
+            "address": "Ashlegan 1 St. Kiryat Gat Israel",
+            "area": "Kiryat Gat",
+            "coordinates": {
+                "lat": 31.5924245,
+                "lng": 34.78088170000001
+            }
+        }
+    ],
+    "url": "http://www.appliedmaterials.com/"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "NGSoft",
+    "offices": [
+        {
+            "address": "Ben Tsiyon Galis St 24 Building - 2st floor Petah Tikva 49279, Israel",
+            "area": "Petach Tikva",
+            "coordinates": {
+                "lat": 32.1048143,
+                "lng": 34.893457799999965
+            },
+            "phone": "+972-72-2754500"
+        },
+        {
+            "address": "Omer, Israel",
+            "area": "Omer",
+            "coordinates": {
+                "lat": 31.2684836,
+                "lng": 34.8363736
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "http://www.ngsoft.com/"
+}

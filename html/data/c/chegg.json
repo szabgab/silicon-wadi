@@ -1,0 +1,14 @@
+{
+    "name": "Chegg",
+    "offices": [
+        {
+            "address": "HaMada St, Rehovot, Israel",
+            "area": "Rehovot",
+            "coordinates": {
+                "lat": 31.9136373,
+                "lng": 34.80777080000007
+            }
+        }
+    ],
+    "url": "http://www.chegg.com/"
+}

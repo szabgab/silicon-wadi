@@ -1,0 +1,15 @@
+{
+    "name": "Allot",
+    "offices": [
+        {
+            "address": "22 Hanagar Street Industrial Zone B Hod Hasharon, 4501317",
+            "area": "Hod HaSharon",
+            "coordinates": {
+                "lat": 32.1298525,
+                "lng": 34.8946181
+            },
+            "phone": "+972-9-761-9200"
+        }
+    ],
+    "url": "http://www.allot.com/"
+}

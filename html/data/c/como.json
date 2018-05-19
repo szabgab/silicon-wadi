@@ -1,0 +1,15 @@
+{
+    "comment": "Conduit is not Como http://www.conduit.com/",
+    "name": "Como",
+    "offices": [
+        {
+            "address": "2 Ilan Ramon Street, Ness Ziona, 7403635 Israel",
+            "area": "Rehovot",
+            "coordinates": {
+                "lat": 31.9178351,
+                "lng": 34.804564400000004
+            }
+        }
+    ],
+    "url": "http://www.como.com/"
+}

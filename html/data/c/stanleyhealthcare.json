@@ -1,0 +1,14 @@
+{
+    "name": "Stanley Healthcare Solutions",
+    "offices": [
+        {
+            "address": "Ilan Ramon St. Science Park Ness Ziona Building 11, Floor 5 7403635 Israel",
+            "area": "Rehovot",
+            "coordinates": {
+                "lat": 31.9183105,
+                "lng": 34.804086600000005
+            }
+        }
+    ],
+    "url": "http://www.stanleyhealthcare.com/"
+}

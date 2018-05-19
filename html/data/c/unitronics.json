@@ -1,0 +1,16 @@
+{
+    "name": "Unitronics",
+    "offices": [
+        {
+            "address": "3 Arava St. Airport City, 7019900, Israel",
+            "area": "Airport City",
+            "coordinates": {
+                "lat": 31.986837491150702,
+                "lng": 34.910162687301636
+            },
+            "phone": "+972-3-977-8888"
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.unitronics.com/"
+}

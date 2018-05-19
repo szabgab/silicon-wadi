@@ -1,0 +1,15 @@
+{
+    "name": "Mivne Darom",
+    "offices": [
+        {
+            "address": "11 Yehuda Hanachtom, Beer Sheva 84144, Israel",
+            "area": "Beer Sheva",
+            "coordinates": {
+                "lat": 32.05045429999999,
+                "lng": 34.7663272
+            },
+            "phone": "+972-08-6233827"
+        }
+    ],
+    "url": "http://www.mivnedarom.co.il/len"
+}

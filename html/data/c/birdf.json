@@ -1,0 +1,14 @@
+{
+    "name": "BIRD foundation",
+    "offices": [
+        {
+            "address": "Kiryat Atidim, Tel Aviv, Israel",
+            "area": "Kiryat Atidim",
+            "coordinates": {
+                "lat": 32.115171,
+                "lng": 34.84296
+            }
+        }
+    ],
+    "url": "http://www.birdf.com/"
+}

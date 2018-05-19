@@ -1,0 +1,15 @@
+{
+    "name": "AudioCodes",
+    "offices": [
+        {
+            "address": "1 Hayarden Street, Airport City, Lod, 7019900, Israel",
+            "area": "Airport City",
+            "coordinates": {
+                "lat": 31.9876243,
+                "lng": 34.91314
+            },
+            "phone": "+972-3-976-4000"
+        }
+    ],
+    "url": "http://www.audiocodes.com/"
+}

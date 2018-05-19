@@ -1,0 +1,18 @@
+{
+    "name": "Veriest",
+    "offices": [
+        {
+            "address": "Helman Building 28, Baruch Hirsch St.  Bnei Brak 5120206, Israel",
+            "area": "Bnei Brak",
+            "coordinates": {
+                "lat": 32.0978,
+                "lng": 34.827192999999966
+            },
+            "phone": "+972-73-7052530"
+        }
+    ],
+    "technologies": [
+        "FPGA"
+    ],
+    "url": "http://www.veriests.com/"
+}

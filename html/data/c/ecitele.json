@@ -1,0 +1,27 @@
+{
+    "name": "ECI Telecom Ltd",
+    "offices": [
+        {
+            "address": "Ha-Sivim St 30, Petah Tikva, 4959388, Israel",
+            "area": "Petach Tikva",
+            "coordinates": {
+                "lat": 32.0869407,
+                "lng": 34.85644500000001
+            },
+            "phone": "+972-3-926-6555"
+        },
+        {
+            "address": "Alomot 5, Omer Industrial Park, Israel",
+            "area": "Omer",
+            "coordinates": {
+                "lat": 31.2684836,
+                "lng": 34.836373500000036
+            },
+            "phone": "+972-3-9268526"
+        }
+    ],
+    "technologies": [
+        "Python"
+    ],
+    "url": "http://www.ecitele.com/"
+}

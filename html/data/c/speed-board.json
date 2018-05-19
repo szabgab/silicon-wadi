@@ -1,0 +1,14 @@
+{
+    "name": "Speedboard",
+    "offices": [
+        {
+            "address": "Kiryat Atidim, Tel Aviv, Israel",
+            "area": "Kiryat Atidim",
+            "coordinates": {
+                "lat": 32.11517,
+                "lng": 34.842966
+            }
+        }
+    ],
+    "url": "http://www.speed-board.co.il/"
+}

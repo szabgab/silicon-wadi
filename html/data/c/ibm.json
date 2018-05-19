@@ -1,0 +1,30 @@
+{
+    "name": "IBM",
+    "offices": [
+        {
+            "address": "Ruhrberg Science Center, Park TMR, 3 Pekeris Street (Edison entrance, 2nd floor), Rehovot, Israel.",
+            "area": "Rehovot",
+            "coordinates": {
+                "lat": 31.9110772,
+                "lng": 34.805369799999994
+            }
+        },
+        {
+            "address": "Derekh Em Hamoshavot 94, Petah Tikva, 4970602,",
+            "area": "Kiryat Arie",
+            "coordinates": {
+                "lat": 32.1010629,
+                "lng": 34.850495099
+            }
+        },
+        {
+            "address": "University of Haifa",
+            "area": "Haifa",
+            "coordinates": {
+                "lat": 32.763805,
+                "lng": 35.01590999999996
+            }
+        }
+    ],
+    "url": "https://www.ibm.com/"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Quickode",
+    "offices": [
+        {
+            "address": "Malcha Technology Park, Jerusalem, 9695802, Israel",
+            "area": "Malcha",
+            "coordinates": {
+                "lat": 31.7508547,
+                "lng": 35.18884630000002
+            },
+            "phone": "+972-54-562-0662"
+        }
+    ],
+    "technologies": [],
+    "url": "http://www.quickode.com/"
+}

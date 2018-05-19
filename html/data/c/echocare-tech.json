@@ -1,0 +1,15 @@
+{
+    "name": "EchoCare",
+    "offices": [
+        {
+            "address": "77 HaEnergia St, Beer-Sheva, 8470912, Israel",
+            "area": "Beer Sheva",
+            "coordinates": {
+                "lat": 31.25297,
+                "lng": 34.791466
+            },
+            "phone": "+972-77-8812204"
+        }
+    ],
+    "url": "http://www.echocare-tech.com/"
+}

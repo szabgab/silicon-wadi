@@ -1,0 +1,14 @@
+{
+    "name": "Topgroup",
+    "offices": [
+        {
+            "address": "Kiryat Atidim, Tel Aviv, Israel",
+            "area": "Kiryat Atidim",
+            "coordinates": {
+                "lat": 32.11517,
+                "lng": 34.84297
+            }
+        }
+    ],
+    "url": "http://top-group.co.il/"
+}

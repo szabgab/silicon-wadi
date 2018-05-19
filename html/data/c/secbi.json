@@ -1,0 +1,15 @@
+{
+    "name": "SecBI",
+    "offices": [
+        {
+            "address": "Beer Sheva, Israel",
+            "area": "Beer Sheva",
+            "coordinates": {
+                "lat": 31.252973,
+                "lng": 34.791464
+            },
+            "phone": "+972-54-5620614"
+        }
+    ],
+    "url": "http://www.secbi.com/"
+}

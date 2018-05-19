@@ -1,0 +1,16 @@
+{
+    "name": "Siemens",
+    "offices": [
+        {
+            "address": "HaMelacha St 14, Rosh Haayin, Israel",
+            "area": "Park Afek",
+            "coordinates": {
+                "lat": 32.1083316,
+                "lng": 34.969293300000004
+            },
+            "phone": "+972-3-915-1500"
+        }
+    ],
+    "technologies": [],
+    "url": "http://www.siemens.com/"
+}

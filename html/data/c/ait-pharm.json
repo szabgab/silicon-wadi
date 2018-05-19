@@ -1,0 +1,14 @@
+{
+    "name": "Advanced Inhalation Therapies Ltd.",
+    "offices": [
+        {
+            "address": "2 Ilan Ramon st. Science park Ness Ziona Israel",
+            "area": "Rehovot",
+            "coordinates": {
+                "lat": 31.914551,
+                "lng": 34.80481299999997
+            }
+        }
+    ],
+    "url": "http://www.ait-pharm.com/"
+}

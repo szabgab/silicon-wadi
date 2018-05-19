@@ -1,0 +1,15 @@
+{
+    "name": "SCADAfence",
+    "offices": [
+        {
+            "address": "77 HaEnergia Street, Beer Sheva, Israel",
+            "area": "Beer Sheva",
+            "coordinates": {
+                "lat": 31.252977,
+                "lng": 34.791461
+            },
+            "phone": "+972-73-260-1964"
+        }
+    ],
+    "url": "https://www.scadafence.com/"
+}

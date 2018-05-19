@@ -1,0 +1,22 @@
+{
+    "name": "Ness",
+    "offices": [
+        {
+            "address": "Ness Tower, Building 4 Kiryat Atidim, Industrial Park P.O.Box 58152 Tel Aviv 61580",
+            "area": "Kiryat Atidim",
+            "coordinates": {
+                "lat": 32.11517,
+                "lng": 34.842964
+            }
+        },
+        {
+            "address": "Energy 77, High-Tech Park, Beer Sheva, Israel",
+            "area": "Beer Sheva",
+            "coordinates": {
+                "lat": 31.252973,
+                "lng": 34.791462000000024
+            }
+        }
+    ],
+    "url": "http://www.ness-tech.co.il/"
+}

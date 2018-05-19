@@ -1,0 +1,14 @@
+{
+    "name": "Biolight",
+    "offices": [
+        {
+            "address": "Kiryat Atidim Building 3, 5th Floor 6158101 Tel Aviv, Israel",
+            "area": "Kiryat Atidim",
+            "coordinates": {
+                "lat": 32.115172,
+                "lng": 34.84296
+            }
+        }
+    ],
+    "url": "https://www.bio-light.co.il/"
+}

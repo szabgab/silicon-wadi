@@ -1,0 +1,15 @@
+{
+    "name": "Traiana",
+    "offices": [
+        {
+            "address": "132 Menachem Begin Road Azrieli Square Tower, Floor 25 Tel Aviv 63927 Israel",
+            "area": "Sarona",
+            "coordinates": {
+                "lat": 32.0743304,
+                "lng": 34.792017100000066
+            },
+            "phone": "+972-3-610-0300"
+        }
+    ],
+    "url": "http://www.traiana.com/"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Philips",
+    "offices": [
+        {
+            "address": "Aharon Bert 18, Petach Tikva, 4900302, Israel",
+            "area": "Petach Tikva",
+            "coordinates": {
+                "lat": 32.1012946,
+                "lng": 34.86133319999999
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [
+        "Java",
+        "JavaScript",
+        "AngularJS",
+        "Spring MVC"
+    ],
+    "url": "http://www.philips.com/"
+}

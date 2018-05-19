@@ -1,0 +1,14 @@
+{
+    "name": "MSD - Merck Sharp & Dohme",
+    "offices": [
+        {
+            "address": "Hod HaSharon, Israel",
+            "area": "Hod HaSharon",
+            "coordinates": {
+                "lat": 32.1298526,
+                "lng": 34.8946181
+            }
+        }
+    ],
+    "url": "http://www.msd.co.il/"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Rosetta Genomics Ltd.",
+    "offices": [
+        {
+            "address": "10 Plaut St., Rehovot, Israel, 76706",
+            "area": "Rehovot",
+            "coordinates": {
+                "lat": 31.9123633,
+                "lng": 34.806980889999984
+            },
+            "phone": "+972-73-222-0700"
+        }
+    ],
+    "url": "http://rosettagx.com/"
+}

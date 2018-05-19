@@ -1,0 +1,16 @@
+{
+    "name": "Airspan",
+    "offices": [
+        {
+            "address": "Bareket 2 Building, Airport City, Negev St, 70100, Israel",
+            "area": "Airport City",
+            "coordinates": {
+                "lat": 31.9876241,
+                "lng": 34.913141
+            },
+            "phone": "+972-3-977-7444"
+        }
+    ],
+    "technologies": [],
+    "url": "http://www.airspan.com/"
+}

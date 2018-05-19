@@ -6,14 +6,14 @@ import glob
 data_dir = 'html/data/'
 
 def tidy(test = False):
-    for filename in glob.glob(data_dir + "*.json"):
+    for filename in glob.glob(data_dir + "*.json") + glob.glob(data_dir + 'c/' + "*.json"):
         #print(filename)
         with open(filename) as fh:
             json_str = fh.read()
             data = json.loads(json_str)
 
-        if filename == data_dir + 'companies.json':
-            data.sort(key = lambda c: c['name'])
+#        if filename == data_dir + 'companies.json':
+#            data.sort(key = lambda c: c['name'])
         if filename == data_dir + 'technologies.json':
             data.sort()
 

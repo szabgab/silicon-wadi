@@ -1,0 +1,14 @@
+{
+    "name": "Tikal",
+    "offices": [
+        {
+            "address": "Kiryat Atidim, Building 7, 3rd Floor POB 58269 Tel Aviv 6158102 Israel",
+            "area": "Kiryat Atidim",
+            "coordinates": {
+                "lat": 32.11518,
+                "lng": 34.84298
+            }
+        }
+    ],
+    "url": "https://www.tikalk.com/"
+}

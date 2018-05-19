@@ -1,0 +1,14 @@
+{
+    "name": "yapQ",
+    "offices": [
+        {
+            "address": "10 Hazerem st. Tel Aviv, Israel",
+            "area": "Beer Sheva",
+            "coordinates": {
+                "lat": 32.05044429999999,
+                "lng": 34.7663172
+            }
+        }
+    ],
+    "url": "http://www.yapq.com/"
+}

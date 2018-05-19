@@ -1,0 +1,33 @@
+{
+    "name": "SanDisk",
+    "offices": [
+        {
+            "address": "Building 10 Floor 2 Southwest Omer Industrial Park Omer Israel",
+            "area": "Omer",
+            "coordinates": {
+                "lat": 31.2684836,
+                "lng": 34.8363735
+            },
+            "phone": "+972-8-620-1564"
+        },
+        {
+            "address": "Sderot HaTa'asiya & Sderot HaGalil Junction Migdal Tefen P.O. Box 3 Migdal Tefen 24959 Israel",
+            "area": "Tefen",
+            "coordinates": {
+                "lat": 32.9784743,
+                "lng": 35.27243079999994
+            },
+            "phone": "+972-4-907-8888"
+        },
+        {
+            "address": "7 Atir Yeda St. Kfar Saba 44425, Israel",
+            "area": "Kfar Saba",
+            "coordinates": {
+                "lat": 32.1635315,
+                "lng": 34.930706999999984
+            },
+            "phone": "+972-9-764-5000"
+        }
+    ],
+    "url": "https://www.sandisk.com/"
+}

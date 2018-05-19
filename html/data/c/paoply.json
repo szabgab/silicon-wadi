@@ -1,0 +1,21 @@
+{
+    "name": "Panoply",
+    "offices": [
+        {
+            "address": "Isserles, 22 67014 Tel Aviv, Israel",
+            "area": "Sarona",
+            "coordinates": {
+                "lat": 32.071168,
+                "lng": 34.79208730000005
+            },
+            "technologies": [
+                "JavaScript",
+                "NodeJS",
+                "AWS",
+                "Hadoop",
+                "Redshift"
+            ]
+        }
+    ],
+    "url": "http://panoply.io/"
+}

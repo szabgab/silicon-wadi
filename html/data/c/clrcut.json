@@ -1,0 +1,15 @@
+{
+    "name": "Clear Cut",
+    "offices": [
+        {
+            "address": "10 Plaut st., Rehovot, Israel, 7670609",
+            "area": "Rehovot",
+            "coordinates": {
+                "lat": 31.9123633,
+                "lng": 34.806980899999985
+            },
+            "phone": "+972-8-632-6004"
+        }
+    ],
+    "url": "http://www.clrcut.com/"
+}

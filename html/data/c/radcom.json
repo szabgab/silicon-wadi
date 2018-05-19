@@ -1,0 +1,14 @@
+{
+    "name": "Radcom",
+    "offices": [
+        {
+            "address": "24 Raoul Wallenberg st., Tel-Aviv 6971920, Israel",
+            "area": "Ramat HaHayal",
+            "coordinates": {
+                "lat": 32.1115486,
+                "lng": 34.83885371
+            }
+        }
+    ],
+    "url": "https://www.radcom.com/"
+}

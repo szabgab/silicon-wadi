@@ -1,0 +1,14 @@
+{
+    "name": "F5 (Traffix Systems)",
+    "offices": [
+        {
+            "address": "Kiryat Atidim 8, Tel Aviv, Israel",
+            "area": "Kiryat Atidim",
+            "coordinates": {
+                "lat": 32.115176,
+                "lng": 34.84296
+            }
+        }
+    ],
+    "url": "https://f5.com/"
+}

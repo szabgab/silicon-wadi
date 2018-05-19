@@ -1,0 +1,22 @@
+{
+    "name": "Microsemi",
+    "offices": [
+        {
+            "address": "2 Building, 7 Arye Shenkar Street Herzliya Pituach Israel 4612002",
+            "area": "Herzeliya",
+            "coordinates": {
+                "lat": 32.1592953,
+                "lng": 34.80891969999993
+            }
+        },
+        {
+            "address": "Microsemi Corp. - Analog Mixed signal Group, Ltd.  1 Hanager St., Neve Ne'eman Industrial Zone Hod Hasharon Israel 45421",
+            "area": "Hod HaSharon",
+            "coordinates": {
+                "lat": 32.12985251,
+                "lng": 34.8946181
+            }
+        }
+    ],
+    "url": "https://www.microsemi.com/"
+}

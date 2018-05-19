@@ -1,0 +1,14 @@
+{
+    "name": "Observeit",
+    "offices": [
+        {
+            "address": "Kiryat Atidim, Building #7, 4th Floor Tel Aviv 61580 Israel",
+            "area": "Kiryat Atidim",
+            "coordinates": {
+                "lat": 32.11517,
+                "lng": 34.842965
+            }
+        }
+    ],
+    "url": "https://www.observeit.com/"
+}

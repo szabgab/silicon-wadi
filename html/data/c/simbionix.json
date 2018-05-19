@@ -1,0 +1,19 @@
+{
+    "comment": "also http://simbionix.com/",
+    "name": "3DSystems, Medical Simulation (was Simbionix)",
+    "offices": [
+        {
+            "address": "Corner of Golan and Hanegev St.  Airport City, 70151, Israel",
+            "area": "Airport City",
+            "coordinates": {
+                "lat": 31.9876241,
+                "lng": 34.91314
+            },
+            "phone": "+972-3-9114444"
+        }
+    ],
+    "technologies": [
+        "C++"
+    ],
+    "url": "https://www.3dsystems.com/"
+}

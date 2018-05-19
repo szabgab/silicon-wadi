@@ -1,0 +1,14 @@
+{
+    "name": "3M",
+    "offices": [
+        {
+            "address": "Maskit St 8, Herzeliya, Israel",
+            "area": "Herzeliya",
+            "coordinates": {
+                "lat": 32.1665615,
+                "lng": 34.81151369999998
+            }
+        }
+    ],
+    "url": "http://3misrael.co.il"
+}

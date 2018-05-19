@@ -1,0 +1,14 @@
+{
+    "name": "Lattice",
+    "offices": [
+        {
+            "address": "Kiryat Atidim Tower #4 12th floor POB 58192 Tel Aviv 6158101 Israel",
+            "area": "Kiryat Atidim",
+            "coordinates": {
+                "lat": 32.11517,
+                "lng": 34.842961
+            }
+        }
+    ],
+    "url": "http://www.latticesemi.com/"
+}

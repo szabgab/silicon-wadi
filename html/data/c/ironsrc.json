@@ -1,0 +1,14 @@
+{
+    "name": "IronSource",
+    "offices": [
+        {
+            "address": "28 Lilienblum St., Tel Aviv",
+            "area": "Tel Aviv",
+            "coordinates": {
+                "lat": 32.0622038,
+                "lng": 34.77050489
+            }
+        }
+    ],
+    "url": "http://www.ironsrc.com/"
+}

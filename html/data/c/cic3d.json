@@ -1,0 +1,14 @@
+{
+    "name": "Creative IC3D",
+    "offices": [
+        {
+            "address": "HaEnergia Street, Beer Sheva, Israel",
+            "area": "Beer Sheva",
+            "coordinates": {
+                "lat": 31.252978,
+                "lng": 34.791461
+            }
+        }
+    ],
+    "url": "http://www.cic3d.com/"
+}
