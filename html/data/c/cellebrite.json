@@ -1,0 +1,16 @@
+{
+    "name": "Cellebrite",
+    "offices": [
+        {
+            "address": "94 Shlomo Shmeltzer, Petach Tikva",
+            "area": "Kiryat arie",
+            "coordinates": {
+                "lat": 32.101482,
+                "lng": 34.850838
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.cellebrite.com/"
+}
