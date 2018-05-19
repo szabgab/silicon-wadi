@@ -18,7 +18,7 @@ $(document).ready(function(){
     });
     document.getElementById('show').addEventListener('click', show_map);
 
-}); 
+});
 
 
 var companies = [];
@@ -38,6 +38,15 @@ function show_map() {
         zoom: 9,
         center: center
     });
+
+    $('#map').show();
+    $('#error').hide();
+
+    if (companies === null) {
+       $('#map').hide();
+       $('#error').show();
+       return;
+    }
 
     for (var i=0; i < companies.length; i++) {
         for (var j=0; j < companies[i]['offices'].length; j++) {

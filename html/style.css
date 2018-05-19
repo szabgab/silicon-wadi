@@ -3,3 +3,8 @@
     width: 80%;
 }
 
+#error {
+    color: red;
+    font-size: 40px;
+}
+
