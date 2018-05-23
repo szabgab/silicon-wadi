@@ -38,6 +38,7 @@ def run(server_class=HTTPServer, handler_class=StaticServer, port=8000):
     server_address = ('', port)
     httpd = server_class(server_address, handler_class)
     print('Starting httpd on port {}'.format(port))
+    print('Visit: http://localhost:{}'.format(port))
     httpd.serve_forever()
 
 run()
