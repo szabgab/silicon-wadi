@@ -1,0 +1,16 @@
+{
+    "name": "AlgoSec",
+    "offices": [
+        {
+            "address": "94 Shlomo Shmeltzer St., Brosh Building, Park Ofer Petach Tikva 4970602, Israel",
+            "area": "Kiryat Arie",
+            "coordinates": {
+                "lat": 0,
+                "lng": 0
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.algosec.com/"
+}

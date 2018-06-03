@@ -1,0 +1,16 @@
+{
+    "name": "Pipl",
+    "offices": [
+        {
+            "address": "Aharon Bart Street, Petah Tikva, Israel",
+            "area": "Petach Tikva",
+            "coordinates": {
+                "lat": 0,
+                "lng": 0
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://pipl.com/"
+}

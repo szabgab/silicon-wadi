@@ -1,0 +1,16 @@
+{
+    "name": "Vado Security",
+    "offices": [
+        {
+            "address": "16 Aba Hillel Silver, Ramat Gan, Israel",
+            "area": "",
+            "coordinates": {
+                "lat": 0,
+                "lng": 0
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.vadosecurity.com/"
+}

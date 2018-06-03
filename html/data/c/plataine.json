@@ -1,0 +1,16 @@
+{
+    "name": "Plataine",
+    "offices": [
+        {
+            "address": "Derekh Em Hamoshavot 94, Petah Tikva, Israel",
+            "area": "Kiryat Arie",
+            "coordinates": {
+                "lat": 0,
+                "lng": 0
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.plataine.com/"
+}

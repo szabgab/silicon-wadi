@@ -1,0 +1,16 @@
+{
+    "name": "Swathly",
+    "offices": [
+        {
+            "address": "HaTnufa Street 7, Petah Tikva, Israel",
+            "area": "Petach Tikva",
+            "coordinates": {
+                "lat": 0,
+                "lng": 0
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://swathly.com/"
+}

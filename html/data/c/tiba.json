@@ -1,0 +1,16 @@
+{
+    "name": "Tiba Parking Systems",
+    "offices": [
+        {
+            "address": "17 Ha-mefalsim St. Petah Tikva, Israel, 4951447",
+            "area": "",
+            "coordinates": {
+                "lat": 0,
+                "lng": 0
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "http://www.tibaparking.com/"
+}
