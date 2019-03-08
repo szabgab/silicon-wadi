@@ -5,6 +5,13 @@
             "lng": 34.91314
         }
     },
+    "Alon": {
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "name": "In Tel Aviv"
+    },
     "Beer Sheva": {
         "coordinates": {
             "lat": 31.252973,
