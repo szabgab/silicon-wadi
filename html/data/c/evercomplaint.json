@@ -1,0 +1,16 @@
+{
+    "name": "EverComplaint",
+    "offices": [
+        {
+            "address": "Yigal Alon 55a, Tel Aviv-Yafo, Israel",
+            "area": "Alon",
+            "coordinates": {
+                "lat": 32.0629424,
+                "lng": 34.7919607
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://twiggle.com/"
+}

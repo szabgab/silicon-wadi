@@ -1,0 +1,16 @@
+{
+    "name": "Gimmonix Technologies",
+    "offices": [
+        {
+            "address": "Soncino St 3, Tel Aviv-Yafo, Israel ",
+            "area": "Sarona",
+            "coordinates": {
+                "lat": 32.0659531,
+                "lng": 34.7872414
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.gimmonix.com/"
+}
