@@ -1,0 +1,16 @@
+{
+    "name": "Google",
+    "offices": [
+        {
+            "address": "Yigal Alon 98, Tel Aviv, Israel",
+            "area": "Alon",
+            "coordinates": {
+                "lat": 32.0699,
+                "lng": 34.7939377
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.google.com/"
+}
