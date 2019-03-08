@@ -47,6 +47,25 @@ python bin/static_server.py
 
 and then visit: http://localhost:8000/
 
+## Update coordinates
+
+Once we have the address of an office and save it in the json file of the company we can run the following code to fetch
+the coordinates and update them in the json file:
+
+```
+bin/update_coordinates.py
+```
+
+In order for this to work we need to create a file called `~/google.cfg` and save in it:
+
+```
+[maps]
+api_key=
+```
+
+Where the value of the api_key comes from https://console.cloud.google.com/google/maps-apis/apis/geocoding-backend.googleapis.com/metrics
+
+
 ## Demo application:
 
 http://wadi.szabgab.com/
