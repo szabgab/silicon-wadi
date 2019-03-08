@@ -4,23 +4,23 @@ import os
 import pytest
 
 import tidy_json
-from collector import collect_data
-data_dir = 'html/data/'
+from collector import collect_data, data_dir
 
 def test_data():
     assert True
     collect_data()
-    with open(data_dir + 'companies.json') as fh:
+    with open(os.path.join(data_dir, 'companies.json')) as fh:
         companies = json.load(fh)
-    with open(data_dir + 'technologies.json') as fh:
+    with open(os.path.join(data_dir, 'technologies.json')) as fh:
         technologies = set(json.load(fh))
-    with open(data_dir + 'areas.json') as fh:
+    with open(os.path.join(data_dir, 'areas.json')) as fh:
         areas = set(json.load(fh))
 
     # Each company must have a 'name', and a 'url'.
     for c in companies:
         assert 'name' in c and c['name']
         assert 'url' in c and c['url']
+        assert re.search(r'https?://', c['url']), 'Invalid URL "{}" for company {}'.format(c['url'], c['name'])
 
     # Verify that there are no two addresses with the exact same coordinates.
     # So we'll have separate markers for each company.
@@ -30,8 +30,8 @@ def test_data():
             assert 'coordinates' in office, "Coordinates missing from " + c['name']
             if 'coordinates' in office:
                 coord = (office['coordinates']['lat'], office['coordinates']['lng'])
-                assert 29.48216448377731 < office['coordinates']['lat'] < 33.33259353927003  # South - North
-                assert 34.27734375       < office['coordinates']['lng'] < 35.90057373046875  # West  - East
+                assert 29.48216448377731 < office['coordinates']['lat'] < 33.33259353927003, 'Expected to be within Israel South - North for company {}'.format(c['name'])
+                assert 34.27734375       < office['coordinates']['lng'] < 35.90057373046875, 'Expected to be within Israel West  - East for company {}'.format(c['name'])
                 if coord in coordinates:
                     raise Exception("Duplicate coordinates:\n{}\n{} ({})".format(coordinates[coord]['name'], c['name'], office['address']))
                 coordinates[coord] = c
@@ -39,7 +39,7 @@ def test_data():
     # Verify the areas:
     for c in companies:
         for office in c['offices']:
-            assert 'area' in office and office['area'] != '', "Missing area for " + c['name']
+            assert 'area' in office and office['area'] != '', 'Missing area for {}'.format(c['name'])
             if 'area' in office and office['area'] != '':
                 assert office['area'] in areas
 
