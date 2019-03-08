@@ -16,11 +16,18 @@ python bin/tidy_json.py
 pytest
 ```
 
-# Data
+## Data
 
-Companies are in the `html/data/c` directory.
+Companies are stored in the `html/data/c` directory.
 
 Each company has a file with one or more offices. See [skeleton.json](html/data/skeleton.json).
+
+Before deploying the new data set we generate the html/data/companies.json file using the following command:
+
+```
+python bin/collector.py
+```
+
 
 `technologies` should be a list of technologies used in the company. E.g. JavaScript, Python, Java, Docker, MySQL, AngularJS.
 The list of technologies can be found in the [technologies.json](html/data/technologies.json) file. The list serves us a way to check we don't make typos and we don't have different spellings of the same thing. Update that file too if you'd like to include another technology.
@@ -29,7 +36,18 @@ https://www.gps-coordinates.net/ can be used to convert an `address` to `coordin
 
 `area` is one of the keys from the [areas.json](html/data/areas.json) file. We use this field to try to cluster the offices.
 
-# Demo application:
+
+## Local development
+
+run
+
+```
+python bin/static_server.py
+```
+
+and then visit: http://localhost:8000/
+
+## Demo application:
 
 http://wadi.szabgab.com/
 
