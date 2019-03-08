@@ -1,0 +1,16 @@
+{
+    "name": "Merzedes-Benz",
+    "offices": [
+        {
+            "address": "Yigal Alon 94, Tel Aviv, Israel",
+            "area": "Alon",
+            "coordinates": {
+                "lat": 32.06848629,
+                "lng": 34.7941454
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.daimler.com/"
+}

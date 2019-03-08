@@ -1,0 +1,16 @@
+{
+    "name": "Nike",
+    "offices": [
+        {
+            "address": "Yigal Alon 94, Tel Aviv, Israel",
+            "area": "Alon",
+            "coordinates": {
+                "lat": 32.06848624,
+                "lng": 34.7941454
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.nike.com/"
+}
