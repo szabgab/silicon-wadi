@@ -1,16 +1,16 @@
 {
-    "name": "ObserveIT",
+    "name": "allegro.ai",
     "offices": [
         {
             "address": "Yigal Alon 94, Tel Aviv, Israel",
             "area": "Alon",
             "coordinates": {
-                "lat": 32.06848633,
+                "lat": 32.06848634,
                 "lng": 34.7941454
             },
             "phone": ""
         }
     ],
     "technologies": [],
-    "url": "https://www.observeit.com/"
+    "url": "https://allegro.ai/"
 }

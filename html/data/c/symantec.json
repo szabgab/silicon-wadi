@@ -1,16 +1,16 @@
 {
-    "name": "ObserveIT",
+    "name": "Symantec",
     "offices": [
         {
             "address": "Yigal Alon 94, Tel Aviv, Israel",
             "area": "Alon",
             "coordinates": {
-                "lat": 32.06848633,
-                "lng": 34.7941454
+                "lat": 32.06848631,
+                "lng": 34.79414541
             },
             "phone": ""
         }
     ],
     "technologies": [],
-    "url": "https://www.observeit.com/"
+    "url": "https://www.symantec.com/"
 }
