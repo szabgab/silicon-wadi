@@ -2,12 +2,8 @@
     "name": "Vado Security",
     "offices": [
         {
-            "address": "16 Aba Hillel Silver, Ramat Gan, Israel",
+            "address": "Hashachar Tower, 4 Ariel Sharon St., Givatayim, Israel, 5320054",
             "area": "Bursa",
-            "coordinates": {
-                "lat": 32.0862277,
-                "lng": 34.8056748
-            },
             "phone": ""
         }
     ],

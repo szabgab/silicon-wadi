@@ -1,0 +1,16 @@
+{
+    "name": "Similar Bid Technologies",
+    "offices": [
+        {
+            "address": "Yigal Alon 94, Tel Aviv, Israel",
+            "area": "Alon",
+            "coordinates": {
+                "lat": 32.0684862,
+                "lng": 34.79414544
+            },
+            "phone": ""
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.similarbid.com/"
+}

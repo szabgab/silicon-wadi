@@ -18,15 +18,6 @@
                 "lng": 34.80518749999999
             },
             "phone": "+972-72-3771700"
-        },
-        {
-            "address": "14 Abba Hillel St.  Ramat-Gan, 5250607 Israel",
-            "area": "Bursa",
-            "coordinates": {
-                "lat": 32.0856792,
-                "lng": 34.804734300000064
-            },
-            "name": "Imperva Skyfence"
         }
     ],
     "url": "https://www.imperva.com/"
