@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+#  schedule:
+#    - cron: '9 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Test
+
+    steps:
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.12
+
+    - name: Checkout this repo
+      uses: actions/checkout@v4
+
+    - name: Install dependencies
+      run: |
+          printenv | sort
+          python -V
+          pip install pytest
+
+    - name: Run tests
+      run: |
+          pytest
+

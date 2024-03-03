@@ -1,7 +1,5 @@
 # Silicon Wadi
 
-[![Build Status](https://travis-ci.org/szabgab/silicon-wadi.png)](https://travis-ci.org/szabgab/silicon-wadi)
-
 List of hi-tech companies in Israel along with the location of their development offices
 and the list of technologies they are using.
 
