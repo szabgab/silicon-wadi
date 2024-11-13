@@ -10,13 +10,12 @@
 </head>
 <body>
 
-<h1>Hi-tech companies in {{ location }}</h1>
+<h1>Areas in Israel</h1>
 
-Total number of companies: <span>{{ companies | count }}</span>
 <div id="list">
 <ul>
-    {% for company in companies %}
-    <li><a href="{{ company.url }}">{{ company.name }}</a></li>
+    {% for area, data in areas.items() %}
+        <li><a href="/area/{{ area }}">{{ data.name }} ({{ data.companies | count }})</a></li>
     {% endfor %}
 </ul>
 </div>

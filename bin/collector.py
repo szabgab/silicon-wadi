@@ -40,11 +40,22 @@ def render(full_path, template, **args):
 if __name__ == '__main__':
     now = datetime.datetime.now()
     today = now.strftime('%Y.%m.%d')
+    areas = {}
 
     companies = collect_data()
-#    for company in companies:
-#        print(company)
-#        exit()
+    for company in companies:
+        # print(company)
+        for office in company['offices']:
+            #print(office)
+            area_name = office['area']
+            area = area_name.lower().replace(' ', '-')
+
+            if area not in areas:
+                areas[area] = {
+                    "name": area_name,
+                    "companies": []
+                }
+            areas[area]["companies"].append(company)
 
     html_path = "html"
     render(
@@ -52,5 +63,26 @@ if __name__ == '__main__':
         template="index.html",
         today=today,
         companies=companies,
+        location="Israel",
     )
+
+    render(
+        full_path=os.path.join(html_path, "area", "index.html"),
+        template="area.html",
+        today=today,
+        areas=areas,
+    )
+
+    os.makedirs(os.path.join(html_path, "area"), exist_ok=True)
+
+    for area, data in areas.items():
+        render(
+            full_path=os.path.join(html_path, "area", f"{area}.html"),
+            template="index.html",
+            today=today,
+            area=area,
+            location=data["name"],
+            companies=data["companies"],
+        )
+
 
