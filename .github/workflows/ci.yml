@@ -34,3 +34,7 @@ jobs:
       run: |
           pytest
 
+    - name: Generate site
+      run: |
+          python bin/collector.py
+
