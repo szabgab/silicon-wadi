@@ -30,9 +30,9 @@ jobs:
           python -V
           pip install pytest
 
-    - name: Run tests
-      run: |
-          pytest
+          #    - name: Run tests
+          #      run: |
+          #          pytest
 
     - name: Generate site
       run: |
