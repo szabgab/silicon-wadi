@@ -31,10 +31,11 @@ jobs:
 
     - name: Install dependencies
       run: |
-          printenv | sort
           python -V
-          pip install pytest
+          pip install -r requirements.txt
 
+          #- name: Run tests
+          #  run: |
           #    - name: Run tests
           #      run: |
           #          pytest

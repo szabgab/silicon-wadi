@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="description" content="Hi-tech companies in Israel" />
+        <meta name="keywords" content="hi-tech, Israel" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="/style.css">
+        <title>Hi-tech companies in Israel</title>
+</head>
+<body>
+
+<h1>Hi-tech companies in Israel</h1>
+
+Total number of companies: <span>{{ companies | count }}</span>
+<div id="list">
+<ul>
+    {% for company in companies %}
+    <li><a href="{{ company.url }}">{{ company.name }}</a></li>
+    {% endfor %}
+</ul>
+</div>
+
+
+
+<hr>
+Data is available in <a href="https://github.com/szabgab/silicon-wadi">this GitHub</a> repository. Pull-Requests are welcome!
+
+</body>
+</html>
