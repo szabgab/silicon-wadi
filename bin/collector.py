@@ -19,7 +19,7 @@ def collect_data():
     with open(os.path.join(data_dir, 'companies.json'), 'w') as fh:
        new_json_str = json.dumps(companies, sort_keys=True, indent=4, separators=(',', ': '))
        fh.write(new_json_str)
-    return companies
+    return list(filter(lambda company: 'disabled' not in company or not company['disabled'], companies))
 
 def render(full_path, template, **args):
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
