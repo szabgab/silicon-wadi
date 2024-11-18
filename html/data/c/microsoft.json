@@ -1,0 +1,15 @@
+{
+    "name": "Microsof",
+    "offices": [
+        {
+            "address": "Herzeliya Pituach, Israel",
+            "area": "Herzeliya"
+        },
+        {
+            "address": "Tel Aviv",
+            "area": "Tel Aviv"
+        }
+
+    ],
+    "url": "https://www.microsoft.com/"
+}
