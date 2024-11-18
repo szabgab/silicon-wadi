@@ -58,12 +58,14 @@ if __name__ == '__main__':
             areas[area]["companies"].append(company)
 
     html_path = "html"
+    location = "Israel",
     render(
         full_path=os.path.join(html_path, "index.html"),
         template="index.html",
         today=today,
         companies=companies,
-        location="Israel",
+        location=location,
+        title=f"Hi-tech companies in {location}",
     )
 
     render(
@@ -76,13 +78,15 @@ if __name__ == '__main__':
     os.makedirs(os.path.join(html_path, "area"), exist_ok=True)
 
     for area, data in areas.items():
+        location = data["name"]
         render(
             full_path=os.path.join(html_path, "area", f"{area}.html"),
             template="index.html",
             today=today,
             area=area,
-            location=data["name"],
+            location=location,
             companies=data["companies"],
+            title=f"Hi-tech companies in {location}",
         )
 
 
