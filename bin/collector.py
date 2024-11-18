@@ -73,6 +73,7 @@ if __name__ == '__main__':
         template="area.html",
         today=today,
         areas=areas,
+        title="Areas in Israel",
     )
 
     os.makedirs(os.path.join(html_path, "area"), exist_ok=True)
