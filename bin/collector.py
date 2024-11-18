@@ -58,7 +58,7 @@ if __name__ == '__main__':
             areas[area]["companies"].append(company)
 
     html_path = "html"
-    location = "Israel",
+    location = "Israel"
     render(
         full_path=os.path.join(html_path, "index.html"),
         template="index.html",
