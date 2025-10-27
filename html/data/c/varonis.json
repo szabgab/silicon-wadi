@@ -1,0 +1,14 @@
+{
+    "name": "Varonis",
+    "offices": [
+        {
+            "address": "",
+            "area": "Herzeliya"
+        }
+    ],
+    "technologies": [
+        "Python",
+        "Rust"
+    ],
+    "url": "https://www.varonis.com/"
+}
