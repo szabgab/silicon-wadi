@@ -6,6 +6,8 @@ import pytest
 import tidy_json
 from collector import collect_data, data_dir
 
+valid_fields = {"comment", "filename", "name", "offices", "technologies", "url", "disabled", "linkedin"}
+
 def test_data():
     assert True
     collect_data()
@@ -18,6 +20,8 @@ def test_data():
 
     # Each company must have a 'name', and a 'url'.
     for c in companies:
+        fields = set(c.keys())
+        assert fields.issubset(valid_fields), fields-valid_fields
         assert 'name' in c and c['name']
         assert 'url' in c and c['url']
         assert re.search(r'https?://', c['url']), 'Invalid URL "{}" for company {}'.format(c['url'], c['name'])
