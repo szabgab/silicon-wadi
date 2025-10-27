@@ -36,9 +36,7 @@ jobs:
 
     - name: Run tests
       run: |
-        - name: Run tests
-          run: |
-              pytest
+          pytest
 
     - name: Generate site
       run: |
