@@ -1,9 +1,10 @@
 {
+    "linkedin": "https://www.linkedin.com/company/jpmorgan/",
     "name": "J.P. Morgan",
     "offices": [
         {
-            "address": "Herzeliya Pituach, Israel",
-            "area": "Herzeliya"
+            "address": "Herzliya Pituach, Israel",
+            "area": "Herzliya"
         }
     ],
     "url": "https://www.jpmorgan.com/"

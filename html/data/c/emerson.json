@@ -1,9 +1,10 @@
 {
+    "linkedin": "https://www.linkedin.com/company/emerson/",
     "name": "Emerson",
     "offices": [
         {
-            "address": "Herzeliya Pituach, Israel",
-            "area": "Herzeliya"
+            "address": "Herzliya Pituach, Israel",
+            "area": "Herzliya"
         }
     ],
     "url": "https://www.emerson.com/"

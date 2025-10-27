@@ -1,9 +1,10 @@
 {
+    "linkedin": "https://www.linkedin.com/company/appsflyerhq/",
     "name": "AppsFlyer",
     "offices": [
         {
             "address": "14 Maskit St, Herzliya, 4673314",
-            "area": "Herzeliya",
+            "area": "Herzliya",
             "coordinates": {
                 "lat": 32.164824,
                 "lng": 34.81138490000001

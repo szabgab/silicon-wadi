@@ -7,7 +7,7 @@ Total number of companies: <span>{{ companies | count }}</span>
     <li>
         <a href="{{ company.url }}">{{ company.name }}</a>
         {% if company.linkedin %}
-        - <a href="{{ company.linkedin }}">LinkedIn</a>
+        - <b><a href="{{ company.linkedin }}">LinkedIn</a></b>
         {% endif %}
     </li>
     {% endfor %}

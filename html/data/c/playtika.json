@@ -1,9 +1,10 @@
 {
+    "linkedin": "https://www.linkedin.com/company/playtika/",
     "name": "Playtika",
     "offices": [
         {
-            "address": "8 Hahoshlim St. Herzeliya Pituach, Israel",
-            "area": "Herzeliya"
+            "address": "8 Hahoshlim St. Herzliya Pituach, Israel",
+            "area": "Herzliya"
         }
     ],
     "url": "https://www.playtika.com/"

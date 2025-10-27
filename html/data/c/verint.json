@@ -1,9 +1,10 @@
 {
+    "linkedin": "https://www.linkedin.com/company/verint/",
     "name": "Verint",
     "offices": [
         {
-            "address": "5 Arie Shanker, Herzeliya Pituach, Israel",
-            "area": "Herzeliya"
+            "address": "5 Arie Shanker, Herzliya Pituach, Israel",
+            "area": "Herzliya"
         }
     ],
     "url": "https://www.verint.com/"
