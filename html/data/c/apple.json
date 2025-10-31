@@ -1,0 +1,20 @@
+{
+    "linkedin": "https://www.linkedin.com/company/apple/",
+    "name": "Apple",
+    "offices": [
+        {
+            "address": "",
+            "area": "Herzliya"
+        },
+        {
+            "address": "",
+            "area": "Haifa"
+        },
+        {
+            "address": "",
+            "area": "Jerusalem"
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.apple.com/"
+}
