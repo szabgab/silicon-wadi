@@ -5,13 +5,13 @@ and the list of technologies they are using.
 
 ## Contribution
 
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
+
 Before committing, make sure you tidy the JSON file and the run our sanity tests:
-(Using Python 3)
 
 ```
-pip install pytest
-python bin/tidy_json.py
-pytest
+uv run python bin/tidy_json.py
+uv run pytest
 ```
 
 ## Data
@@ -23,7 +23,7 @@ Each company has a file with one or more offices. See [skeleton.json](html/data/
 Before deploying the new data set we generate the html/data/companies.json file using the following command:
 
 ```
-python bin/collector.py
+uv run python bin/collector.py
 ```
 
 

@@ -26,21 +26,24 @@ jobs:
       with:
         python-version: 3.12
 
+    - name: Install uv
+
     - name: Checkout this repo
       uses: actions/checkout@v5
+      run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
 
     - name: Install dependencies
       run: |
-          python -V
-          pip install -r requirements.txt
+          uv run python -V
 
     - name: Run tests
       run: |
-          pytest
+          uv run pytest
 
     - name: Generate site
       run: |
-          python bin/collector.py
+          uv run python bin/collector.py
 
 
     - name: Setup Pages
