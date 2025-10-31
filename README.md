@@ -40,7 +40,7 @@ https://www.gps-coordinates.net/ can be used to convert an `address` to `coordin
 run
 
 ```
-python bin/static_server.py
+uv run python bin/static_server.py
 ```
 
 and then visit: http://localhost:8000/
