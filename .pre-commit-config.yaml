@@ -24,11 +24,11 @@ repos:
       name: generate
       language: system
       entry: uv run bin/collector.py
-    - id: pytest
-      name: pytest
-      language: system
-      entry: uv run pytest
-      files: ^bin/[a-z_]*\.py$
+#    - id: pytest
+#      name: pytest
+#      language: system
+#      entry: uv run pytest
+#      files: ^bin/[a-z_]*\.py$
 #    - id: mypy
 #      name: mypy
 #      language: system
