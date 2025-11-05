@@ -1,0 +1,42 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+    - id: check-yaml
+      stages: [pre-commit]
+    - id: check-json
+      stages: [pre-commit]
+    - id: check-toml
+      stages: [pre-commit]
+    - id: check-merge-conflict
+      stages: [pre-commit]
+    - id: check-case-conflict
+      stages: [pre-commit]
+    - id: detect-private-key
+      stages: [pre-commit]
+  - repo: local
+    hooks:
+#    - id: black
+#      name: black
+#      language: system
+#      entry: uv run black --check bin
+    - id: generate
+      name: generate
+      language: system
+      entry: uv run bin/collector.py
+    - id: pytest
+      name: pytest
+      language: system
+      entry: uv run pytest
+      files: ^bin/[a-z_]*\.py$
+#    - id: mypy
+#      name: mypy
+#      language: system
+#      entry: mypy --strict
+#      files: ^[a-z_]*\.py$
+#    - id: pytest
+#      name: pytest
+#      language: system
+#      entry: pytest
+#      files: ^test_[a-z_]*\.py$
+#      always_run: true
