@@ -1,0 +1,20 @@
+{
+    "linkedin": "https://www.linkedin.com/company/salesforce/",
+    "name": "Salesforce",
+    "offices": [
+        {
+            "address": "114 Yigal Alon Street, Tel Aviv",
+            "area": "Alon"
+        },
+        {
+            "address": "Tel-Aviv ToHa",
+            "area": "Alon"
+        },
+        {
+            "address": "102 Paulus HaShishi, 3rd floor, Nazareth",
+            "area": "Nazareth"
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.salesforce.com/"
+}
