@@ -3,19 +3,11 @@
     "offices": [
         {
             "address": "Namal 40 Tel Aviv, Israel",
-            "area": "Namal",
-            "coordinates": {
-                "lat": 32.097625,
-                "lng": 34.77382799999998
-            }
+            "area": "Namal"
         },
         {
             "address": "77 HaEnergia street, Gav-Yam Negev Beer Sheva, Israel",
-            "area": "Beer Sheva",
-            "coordinates": {
-                "lat": 31.262975,
-                "lng": 34.812668
-            }
+            "area": "Beer Sheva"
         }
     ],
     "technologies": [

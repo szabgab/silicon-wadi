@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Weizmann Science Park, Rehovot 7610201, Israel",
-            "area": "Rehovot",
-            "coordinates": {
-                "lat": 31.914551,
-                "lng": 34.80481298
-            }
+            "area": "Rehovot"
         }
     ],
     "url": "http://novameasuring.com/"

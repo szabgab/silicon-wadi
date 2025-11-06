@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Rehovot, Israel",
-            "area": "Rehovot",
-            "coordinates": {
-                "lat": 31.9037541,
-                "lng": 34.8080315
-            }
+            "area": "Rehovot"
         }
     ],
     "url": "http://www.weizmann.ac.il/"

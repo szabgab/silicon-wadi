@@ -4,27 +4,15 @@
     "offices": [
         {
             "address": "Omega Building Tirat Carmel Nahum Het St. 1 Tirat Carmel Haifa 3190500 Israel",
-            "area": "Matam",
-            "coordinates": {
-                "lat": 32.7838162,
-                "lng": 34.96061320000001
-            }
+            "area": "Matam"
         },
         {
             "address": "1 Shankar Street Herzliya 4672501 Israel",
-            "area": "Herzliya",
-            "coordinates": {
-                "lat": 32.1608042,
-                "lng": 34.810067000000004
-            }
+            "area": "Herzliya"
         },
         {
             "address": "4 HaHarash St. POB 7331 Neve Ne'eman Hod HaSharon 4524075 Israel",
-            "area": "Hod HaSharon",
-            "coordinates": {
-                "lat": 32.12985252,
-                "lng": 34.8946181
-            }
+            "area": "Hod HaSharon"
         }
     ],
     "url": "https://www.qualcomm.com/"
