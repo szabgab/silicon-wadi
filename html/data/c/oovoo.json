@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "22 Einstein St., Ness Ziona, Israel",
-            "area": "Rehovot",
-            "coordinates": {
-                "lat": 31.9147078,
-                "lng": 34.80677289999994
-            }
+            "area": "Rehovot"
         }
     ],
     "url": "http://www.oovoo.com/"

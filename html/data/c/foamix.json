@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "2 Holzman Street, Rehovot, 076704, Israel",
-            "area": "Rehovot",
-            "coordinates": {
-                "lat": 31.9142106,
-                "lng": 34.808033799999976
-            }
+            "area": "Rehovot"
         }
     ],
     "url": "http://www.foamix.co.il/"

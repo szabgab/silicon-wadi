@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "Derech Menachem Begin 23, Tel Aviv-Yafo, 6618210, Israel",
-            "area": "Tel Aviv",
-            "coordinates": {
-                "lat": 32.063696,
-                "lng": 34.77920259999996
-            },
-            "phone": "+972-3-5447782"
+            "area": "Tel Aviv"
         }
     ],
     "url": "http://similarweb.com"

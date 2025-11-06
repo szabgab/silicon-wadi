@@ -4,12 +4,7 @@
     "offices": [
         {
             "address": "9 Hapsagot St. Park Ofer 2, Petach Tikva",
-            "area": "Kiryat Arie",
-            "coordinates": {
-                "lat": 32.2157667,
-                "lng": 34.9872067
-            },
-            "phone": ""
+            "area": "Kiryat Arie"
         }
     ],
     "technologies": [],

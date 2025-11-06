@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "Haor 16, Gav Yam Park, Building 2, Beer Sheva, 8470913 Israel",
-            "area": "Beer Sheva",
-            "coordinates": {
-                "lat": 31.252973,
-                "lng": 34.791462
-            },
-            "phone": "+972-50-7451422"
+            "area": "Beer Sheva"
         }
     ],
     "url": "http://www.sigasec.com/"

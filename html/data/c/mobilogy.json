@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "Em Hamoshavot Rd 94, Petah Tikva, 4970602",
-            "area": "Kiryat Arie",
-            "coordinates": {
-                "lat": 32.1010629,
-                "lng": 34.8504951
-            },
-            "phone": ""
+            "area": "Kiryat Arie"
         }
     ],
     "technologies": [],

@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "Haenergia St. Gav-Yam Negev building #2. Beer-Sheva's Advanced Technologies Park, Beer Sheva, Israel",
-            "area": "Beer Sheva",
-            "coordinates": {
-                "lat": 31.2529778,
-                "lng": 34.7914612
-            },
-            "phone": "+972-52-3322412"
+            "area": "Beer Sheva"
         }
     ],
     "url": "http://www.fituup.com/"

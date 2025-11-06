@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "16 Atir Yeda St. Kfar-Saba 44643",
-            "area": "Kfar Saba",
-            "coordinates": {
-                "lat": 32.161983,
-                "lng": 34.93385000000001
-            }
+            "area": "Kfar Saba"
         }
     ],
     "url": "http://www.nokia.com/"

@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Kiryat Atidim, Building #8, 29th Floor Tel Aviv 6158101 Israel",
-            "area": "Kiryat Atidim",
-            "coordinates": {
-                "lat": 32.115178,
-                "lng": 34.84296
-            }
+            "area": "Kiryat Atidim"
         }
     ],
     "url": "https://www.informatica.com/"

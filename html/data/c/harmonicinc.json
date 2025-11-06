@@ -4,22 +4,12 @@
         {
             "address": "Alon Hatavor st 19, Cesaria, 38900, Israel",
             "area": "Cesaria",
-            "coordinates": {
-                "lat": 32.4756073,
-                "lng": 34.94858469999997
-            },
-            "name": "Harmonic Video Systems",
-            "phone": ""
+            "name": "Harmonic Video Systems"
         },
         {
             "address": "Amal St 10, , Rosh HaAyin, Israel",
             "area": "Park Afek",
-            "coordinates": {
-                "lat": 32.1075303,
-                "lng": 34.96634689999996
-            },
-            "name": "Harmonic Video Networks",
-            "phone": ""
+            "name": "Harmonic Video Networks"
         }
     ],
     "technologies": [

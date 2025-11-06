@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "8 Omarim st., Industrial Park, Omer, Israel 84965.",
-            "area": "Omer",
-            "coordinates": {
-                "lat": 31.2684836,
-                "lng": 34.8363732
-            },
-            "phone": "+972-72-215-3153"
+            "area": "Omer"
         }
     ],
     "technologies": [],

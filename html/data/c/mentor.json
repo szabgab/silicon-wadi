@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "10 Shderot Aba Eban Building C P.O.B. 2155 Herzliya Israel 46120",
-            "area": "Herzliya",
-            "coordinates": {
-                "lat": 32.1619677,
-                "lng": 34.80865300000005
-            }
+            "area": "Herzliya"
         }
     ],
     "url": "https://www.mentor.com/"

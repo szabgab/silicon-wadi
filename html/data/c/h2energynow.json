@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "4/6 Holga, Beer Sheva, Israel",
-            "area": "Beer Sheva",
-            "coordinates": {
-                "lat": 31.252974,
-                "lng": 34.791465
-            },
-            "phone": "+972-52-569-7906"
+            "area": "Beer Sheva"
         }
     ],
     "url": "http://h2energynow.com/"

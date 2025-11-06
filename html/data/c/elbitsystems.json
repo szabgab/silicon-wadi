@@ -3,19 +3,11 @@
     "offices": [
         {
             "address": "Rehovot, Israel",
-            "area": "Rehovot",
-            "coordinates": {
-                "lat": 31.9178351,
-                "lng": 34.804564410000005
-            }
+            "area": "Rehovot"
         },
         {
             "address": "Advanced Technology Center P.O.B 539, Haifa 31053 Israel",
-            "area": "Matam",
-            "coordinates": {
-                "lat": 32.7890289,
-                "lng": 34.95848539999997
-            }
+            "area": "Matam"
         }
     ],
     "url": "http://elbitsystems.com/"

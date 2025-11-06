@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "Walter Moses St 1, Tel Aviv-Yafo, 6789903",
-            "area": "Alon",
-            "coordinates": {
-                "lat": 32.0670632,
-                "lng": 34.7946851
-            },
-            "phone": ""
+            "area": "Alon"
         }
     ],
     "technologies": [],

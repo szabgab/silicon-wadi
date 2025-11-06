@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "2 Negev St.  Airport City, 70199 Israel",
-            "area": "Airport City",
-            "coordinates": {
-                "lat": 31.98574549966854,
-                "lng": 34.91206169128418
-            },
-            "phone": "+972-3-5658888"
+            "area": "Airport City"
         }
     ],
     "technologies": [],
