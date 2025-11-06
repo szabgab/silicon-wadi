@@ -1,17 +1,12 @@
 {
-    "linkedin": "",
-    "name": "",
+    "linkedin": "https://www.linkedin.com/company/bezeq-international/",
+    "name": "Bezeq International",
     "offices": [
         {
             "address": "",
-            "area": "",
-            "coordinates": {
-                "lat": 0,
-                "lng": 0
-            },
-            "phone": ""
+            "area": "Petach Tikva"
         }
     ],
     "technologies": [],
-    "url": ""
+    "url": "https://www.bezeqint.net/"
 }

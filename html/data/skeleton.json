@@ -4,12 +4,7 @@
     "offices": [
         {
             "address": "",
-            "area": "",
-            "coordinates": {
-                "lat": 0,
-                "lng": 0
-            },
-            "phone": ""
+            "area": ""
         }
     ],
     "technologies": [],
