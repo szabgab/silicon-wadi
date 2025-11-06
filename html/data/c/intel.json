@@ -1,0 +1,24 @@
+{
+    "linkedin": "https://www.linkedin.com/company/intel-corporation/",
+    "name": "Intel",
+    "offices": [
+        {
+            "address": "",
+            "area": "Matam"
+        },
+        {
+            "address": "",
+            "area": "Har Hotzvim"
+        },
+        {
+            "address": "",
+            "area": "Kiryat Gat"
+        },
+        {
+            "address": "??",
+            "area": "Petach Tikva"
+        }
+    ],
+    "technologies": [],
+    "url": "https://www.intel.com/"
+}

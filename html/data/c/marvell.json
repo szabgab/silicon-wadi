@@ -1,21 +1,14 @@
 {
+    "linkedin": "https://www.linkedin.com/company/marvell/",
     "name": "Marvell Semiconductors",
     "offices": [
         {
             "address": "6 Hamada Street Mordot HaCarmel Industrial Park Yokneam Israel 20692",
-            "area": "Yokneam",
-            "coordinates": {
-                "lat": 32.658776,
-                "lng": 35.098613
-            }
+            "area": "Yokneam"
         },
         {
-            "address": "94 Em Hamoshavot way, Azorim Park Petah Tikva Israel 49527",
-            "area": "Kiryat Atidim",
-            "coordinates": {
-                "lat": 32.1156484,
-                "lng": 34.843034999999986
-            }
+            "address": "9 Ha-Psagot St, Petach Tikva",
+            "area": "Petah Tikva"
         }
     ],
     "url": "https://www.marvell.com/"
