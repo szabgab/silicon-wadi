@@ -4,12 +4,7 @@
     "offices": [
         {
             "address": "Aharon Bert 18, Petach Tikva, 4900302, Israel",
-            "area": "Petach Tikva",
-            "coordinates": {
-                "lat": 32.1012946,
-                "lng": 34.86133319999999
-            },
-            "phone": ""
+            "area": "Petach Tikva"
         }
     ],
     "technologies": [

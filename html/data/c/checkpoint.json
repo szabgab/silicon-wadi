@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "Shlomo Kaplan St 5, Tel Aviv-Yafo, Israel",
-            "area": "Alon",
-            "coordinates": {
-                "lat": 32.0692701,
-                "lng": 34.7960642
-            },
-            "phone": ""
+            "area": "Alon"
         }
     ],
     "technologies": [],

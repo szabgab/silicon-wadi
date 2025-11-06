@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Golda Meir Street 3, Nes Ziyyona, Israel",
-            "area": "Rehovot",
-            "coordinates": {
-                "lat": 31.9144053,
-                "lng": 34.802274799999964
-            }
+            "area": "Rehovot"
         }
     ],
     "url": "https://www.onehourtranslation.com/"

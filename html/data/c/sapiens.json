@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Sapiens International, Azrieli Center, 26 Harokmim st., Holon, 588-5800, Israel",
-            "area": "Holon",
-            "coordinates": {
-                "lat": 32.0077569,
-                "lng": 34.80063919999998
-            }
+            "area": "Holon"
         }
     ],
     "url": "http://www.sapiens.com/"

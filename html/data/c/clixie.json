@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "121 Dvora Hanevia St.  Kiryat Atidim, Building 3, 4th floor Tel Aviv 6944038, Israel",
-            "area": "Kiryat Atidim",
-            "coordinates": {
-                "lat": 32.115173,
-                "lng": 34.84296
-            }
+            "area": "Kiryat Atidim"
         }
     ],
     "url": "http://www.clixie.com/"

@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Eliezer Kaplan 8, Tel Aviv-Yafo, Israel",
-            "area": "Sarona",
-            "coordinates": {
-                "lat": 32.0732978,
-                "lng": 34.783394600000065
-            }
+            "area": "Sarona"
         }
     ],
     "url": "https://www.fiverr.com/"

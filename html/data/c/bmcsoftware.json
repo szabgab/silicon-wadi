@@ -3,21 +3,11 @@
     "offices": [
         {
             "address": "10 Habarzel Street Tel Aviv, Israel 6158101",
-            "area": "Ramat HaHayal",
-            "coordinates": {
-                "lat": 32.1073149,
-                "lng": 34.83716000000004
-            },
-            "phone": "+972-3-645-1111"
+            "area": "Ramat HaHayal"
         },
         {
             "address": "Tel Hai Industrial Park Building 8, D.N Upper Galilee Israel 1220900",
-            "area": "Tel Hai",
-            "coordinates": {
-                "lat": 33.235777,
-                "lng": 35.583188000000064
-            },
-            "phone": "+972-4-6900427"
+            "area": "Tel Hai"
         }
     ],
     "technologies": [],

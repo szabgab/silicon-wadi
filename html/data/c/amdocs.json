@@ -3,28 +3,15 @@
     "offices": [
         {
             "address": "8 Hapnina St. Raanana, 43000",
-            "area": "Raanana",
-            "coordinates": {
-                "lat": 32.1735699,
-                "lng": 34.887821
-            },
-            "phone": "+972-9-776-2222"
+            "area": "Raanana"
         },
         {
             "address": "Te'ena St 1, Sderot, Israel",
-            "area": "Sderot",
-            "coordinates": {
-                "lat": 31.51320699999999,
-                "lng": 34.6011671
-            }
+            "area": "Sderot"
         },
         {
             "address": "Nazareth, Israel",
-            "area": "Nazareth",
-            "coordinates": {
-                "lat": 32.682344,
-                "lng": 35.29113899999993
-            }
+            "area": "Nazareth"
         }
     ],
     "technologies": [

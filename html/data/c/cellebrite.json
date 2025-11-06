@@ -4,12 +4,7 @@
     "offices": [
         {
             "address": "94 Shlomo Shmeltzer, Petach Tikva",
-            "area": "Kiryat Arie",
-            "coordinates": {
-                "lat": 32.101482,
-                "lng": 34.850838
-            },
-            "phone": ""
+            "area": "Kiryat Arie"
         }
     ],
     "technologies": [],

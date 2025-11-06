@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Negev 4, Airport City 70150 Lod, Israel",
-            "area": "Airport City",
-            "coordinates": {
-                "lat": 31.98765,
-                "lng": 34.91315
-            }
+            "area": "Airport City"
         }
     ],
     "url": "https://www.corp.att.com/"

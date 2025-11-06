@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Yehuda Halevi 48, Tel Aviv, Israel 657820",
-            "area": "Tel Aviv",
-            "coordinates": {
-                "lat": 32.0644674,
-                "lng": 34.7772784
-            }
+            "area": "Tel Aviv"
         }
     ],
     "url": "https://dapulse.com/"

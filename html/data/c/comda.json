@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Kiryat Atidim, Tel Aviv, Israel",
-            "area": "Kiryat Atidim",
-            "coordinates": {
-                "lat": 32.115174,
-                "lng": 34.84296
-            }
+            "area": "Kiryat Atidim"
         }
     ],
     "url": "https://comda.co.il/"

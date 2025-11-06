@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "Azrieli Sarona Tower, 56th floor 121 Menachem Begin Road, Tel-Aviv, Israel",
-            "area": "Sarona",
-            "coordinates": {
-                "lat": 32.0718047,
-                "lng": 34.7890239
-            },
-            "phone": ""
+            "area": "Sarona"
         }
     ],
     "technologies": [],

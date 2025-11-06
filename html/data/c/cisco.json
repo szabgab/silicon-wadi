@@ -3,21 +3,11 @@
     "offices": [
         {
             "address": "Shlomo Halevy St Jerusalem Israel",
-            "area": "Har Hotzvim",
-            "coordinates": {
-                "lat": 31.8015424,
-                "lng": 35.20843309999998
-            },
-            "phone": ""
+            "area": "Har Hotzvim"
         },
         {
             "address": "32 Hamelacha st.  I.Z. Sapir P.O.Box 8735 South Natanya 42504 Israel",
-            "area": "Poleg",
-            "coordinates": {
-                "lat": 32.2843959,
-                "lng": 34.86050679
-            },
-            "phone": "+972-9-8927222"
+            "area": "Poleg"
         }
     ],
     "technologies": [

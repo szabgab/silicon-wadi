@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Kiryat Atidim, Tel Aviv, Israel",
-            "area": "Kiryat Atidim",
-            "coordinates": {
-                "lat": 32.11517,
-                "lng": 34.842963
-            }
+            "area": "Kiryat Atidim"
         }
     ],
     "url": "http://www.m-medic.com/"

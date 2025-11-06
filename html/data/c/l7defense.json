@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Beer Sheva, Israel",
-            "area": "Beer Sheva",
-            "coordinates": {
-                "lat": 31.252972,
-                "lng": 34.791462
-            }
+            "area": "Beer Sheva"
         }
     ],
     "url": "https://www.l7defense.com"

@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "Tzela HaHar St 1, Modi'in Makabim-Re'ut, 71706, Israel",
-            "area": "Modiin",
-            "coordinates": {
-                "lat": 31.9205473,
-                "lng": 34.97099819999994
-            },
-            "phone": "+972-77-790-0977"
+            "area": "Modiin"
         }
     ],
     "technologies": [

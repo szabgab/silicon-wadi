@@ -3,19 +3,11 @@
     "offices": [
         {
             "address": "22 Raoul Wallenberg Street Tel Aviv 69710, Israel",
-            "area": "Ramat HaHayal",
-            "coordinates": {
-                "lat": 32.1111815,
-                "lng": 34.838551499999994
-            }
+            "area": "Ramat HaHayal"
         },
         {
             "address": "Ha'Marpe 8, Har-Hotzvim Jerusalem 97774, Israel",
-            "area": "Har Hotzvim",
-            "coordinates": {
-                "lat": 31.8026724,
-                "lng": 35.21119620000002
-            }
+            "area": "Har Hotzvim"
         }
     ],
     "url": "https://www.radware.com/"

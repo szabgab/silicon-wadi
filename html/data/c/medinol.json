@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Building 8, 35th Floor, Kiriyat Atidim, Tel Aviv 6158101 Israel",
-            "area": "Kiryat Atidim",
-            "coordinates": {
-                "lat": 32.1156484,
-                "lng": 34.843034997
-            }
+            "area": "Kiryat Atidim"
         }
     ],
     "url": "http://www.medinol.com/"

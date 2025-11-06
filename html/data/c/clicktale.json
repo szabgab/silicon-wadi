@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Atrium Tower, 2 Jabotinsky St.  Ramat Gan, 5250501",
-            "area": "Bursa",
-            "coordinates": {
-                "lat": 32.08213,
-                "lng": 34.80078460000004
-            }
+            "area": "Bursa"
         }
     ],
     "url": "https://www.clicktale.com/"

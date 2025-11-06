@@ -3,21 +3,11 @@
     "offices": [
         {
             "address": "125 Menachem Begin Street Tel-Aviv 67010 Israel",
-            "area": "Sarona",
-            "coordinates": {
-                "lat": 32.0729618,
-                "lng": 34.78952609999999
-            },
-            "phone": "+972-3-6840100"
+            "area": "Sarona"
         },
         {
             "address": "2 Pekeris Street, Rehovot, 7670212 Israel",
-            "area": "Rehovot",
-            "coordinates": {
-                "lat": 31.9114273,
-                "lng": 34.80518749999999
-            },
-            "phone": "+972-72-3771700"
+            "area": "Rehovot"
         }
     ],
     "url": "https://www.imperva.com/"

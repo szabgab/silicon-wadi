@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "Alon Towers 1, Yigal Alon St 94 A, Tel Aviv-Yafo",
-            "area": "Alon",
-            "coordinates": {
-                "lat": 32.06877981,
-                "lng": 34.7942075
-            },
-            "phone": ""
+            "area": "Alon"
         }
     ],
     "technologies": [],

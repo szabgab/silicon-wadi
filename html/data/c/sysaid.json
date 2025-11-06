@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "1 HaYarden Street Airport City, 70100 Israel",
-            "area": "Airport City",
-            "coordinates": {
-                "lat": 31.9876242,
-                "lng": 34.91314
-            },
-            "phone": "+972-3-533-3675"
+            "area": "Airport City"
         }
     ],
     "url": "https://www.sysaid.com/"

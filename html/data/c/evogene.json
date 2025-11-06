@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "13 Gad Feinstein st. Park Rehovot Rehovot 7612002, Israel",
-            "area": "Rehovot",
-            "coordinates": {
-                "lat": 31.89902,
-                "lng": 34.79056300000002
-            },
-            "phone": "+972-8-9311900"
+            "area": "Rehovot"
         }
     ],
     "url": "http://www.evogene.com/"

@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Bialik 3/8 Enterance B, Beer Sheva, Israel",
-            "area": "Beer Sheva",
-            "coordinates": {
-                "lat": 31.25297,
-                "lng": 34.791462
-            }
+            "area": "Beer Sheva"
         }
     ],
     "url": "http://www.multidine.com/"

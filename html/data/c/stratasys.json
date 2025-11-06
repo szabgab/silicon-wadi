@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "1 Holtzman St., Rehovot 7612401",
-            "area": "Rehovot",
-            "coordinates": {
-                "lat": 31.9142106,
-                "lng": 34.808033789999975
-            }
+            "area": "Rehovot"
         }
     ],
     "url": "http://www.stratasys.com/"

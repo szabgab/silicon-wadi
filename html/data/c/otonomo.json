@@ -5,11 +5,7 @@
     "offices": [
         {
             "address": "16 Abba Even Blvd. Herzliya Pituach, Israel",
-            "area": "Herzliya",
-            "coordinates": {
-                "lat": 32.1622442,
-                "lng": 34.807802400000014
-            }
+            "area": "Herzliya"
         }
     ],
     "url": "http://otonomo.io/"

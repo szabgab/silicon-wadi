@@ -3,12 +3,7 @@
     "offices": [
         {
             "address": "Ha-Bonim St. 6 New Industrial Zone Poleg Netanya Israel",
-            "area": "Poleg",
-            "coordinates": {
-                "lat": 32.280707,
-                "lng": 34.86039690000007
-            },
-            "phone": "+972-54-475-8084"
+            "area": "Poleg"
         }
     ],
     "technologies": [

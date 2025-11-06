@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "Kiryat Atidim, Tel Aviv, Israel",
-            "area": "Kiryat Atidim",
-            "coordinates": {
-                "lat": 32.11517,
-                "lng": 34.842962
-            }
+            "area": "Kiryat Atidim"
         }
     ],
     "url": "https://www.merkspace.com/"

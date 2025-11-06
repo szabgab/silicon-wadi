@@ -3,11 +3,7 @@
     "offices": [
         {
             "address": "24 Raoul Wallenberg St.  Entrance D, 5th floor Tel Aviv, 6971924, Israel",
-            "area": "Ramat HaHayal",
-            "coordinates": {
-                "lat": 32.1115486,
-                "lng": 34.83885370000007
-            }
+            "area": "Ramat HaHayal"
         }
     ],
     "url": "https://www.forescout.com/"

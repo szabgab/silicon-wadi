@@ -4,19 +4,11 @@
         {
             "address": "Einstein 10 Kiryat Weitzmann Rehovot 76470 Israel",
             "area": "Rehovot",
-            "coordinates": {
-                "lat": 31.9662542,
-                "lng": 34.79150460000005
-            },
             "name": "Hp Indigo"
         },
         {
             "address": "Sderot Avats 24, Kiryat Gat, Israel",
-            "area": "Kiryat Gat",
-            "coordinates": {
-                "lat": 31.5920966,
-                "lng": 34.785831400000006
-            }
+            "area": "Kiryat Gat"
         }
     ],
     "url": "http://hp.com/"
